@@ -3,7 +3,7 @@
 	<ap_ac>AP-AC.png 0 0</ap_ac>
 	<apbc>APBC.png 0 0</apbc>
 	<apbc_ac>APBC-AC.png 0 0</apbc_ac>
-	<apcr>APCR.png 0 0</apcr>
+	<ap_cr>APCR.png 0 0</ap_cr>
 	<apds>APDS.png 0 0</apds>
 	<apds_ac>APDS-AC.png 0 0</apds_ac>
 	<apfsds>APFSDS.png 0 0</apfsds>
@@ -79,7 +79,7 @@
   <_20mm_AP_bootcamp>
     <id>	144	</id>
     <userString>	#usa_vehicles:_20mm_AP	</userString>
-    <icon>	ap	</icon>
+    <icon>	apbc	</icon>
     <price>	3	</price>
     <notInShop>	true	</notInShop>
     <kind>	ARMOR_PIERCING	</kind>
