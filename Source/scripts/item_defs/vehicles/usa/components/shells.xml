@@ -1577,7 +1577,7 @@
   <_155mm_AP_M111E1>
     <id>	85	</id>
     <userString>	#usa_vehicles:_155mm_AP_M111E1	</userString>
-    <icon>	apbc	</icon>
+    <icon>	ap	</icon>
     <price>	1650	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	155	</caliber>
@@ -1591,10 +1591,10 @@
   <_155mm_AP_M112>
     <id>	34	</id>
     <userString>	#usa_vehicles:_155mm_AP_M112	</userString>
-    <icon>	apbc	</icon>
+    <icon>	hvap	</icon>
     <price>	4800	</price>
     <improved>	true	</improved>
-    <kind>	hvap	</kind>
+    <kind>	ARMOR_PIERCING_CR	</kind>
     <caliber>	155	</caliber>
     <isTracer>	true	</isTracer>
     <effects>	hugeAPCR	</effects>
@@ -1609,7 +1609,7 @@
     <icon>	hvap	</icon>
     <price>	5200	</price>
     <improved>	true	</improved>
-    <kind>	hvap	</kind>
+    <kind>	ARMOR_PIERCING_CR	</kind>
     <caliber>	155	</caliber>
     <isTracer>	true	</isTracer>
     <effects>	hugeAPCR	</effects>
