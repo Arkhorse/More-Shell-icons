@@ -79,7 +79,7 @@
   <_20mm_AP_bootcamp>
     <id>	144	</id>
     <userString>	#usa_vehicles:_20mm_AP	</userString>
-    <icon>	apbc	</icon>
+    <icon>	ap	</icon>
     <price>	3	</price>
     <notInShop>	true	</notInShop>
     <kind>	ARMOR_PIERCING	</kind>
@@ -124,7 +124,7 @@
   <_37mm_APC_M51>
     <id>	4	</id>
     <userString>	#usa_vehicles:_37mm_APC_M51	</userString>
-    <icon>	apbc	</icon>
+    <icon>	ap	</icon>
     <price>	800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -1587,7 +1587,7 @@
   <_155mm_AP_M111>
     <id>	33	</id>
     <userString>	#usa_vehicles:_155mm_AP_M111	</userString>
-    <icon>	apbc	</icon>
+    <icon>	ap </icon>
     <price>	1650	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	155	</caliber>
@@ -1601,7 +1601,7 @@
   <_155mm_AP_M111E1>
     <id>	85	</id>
     <userString>	#usa_vehicles:_155mm_AP_M111E1	</userString>
-    <icon>	apbc</icon>
+    <icon>	ap</icon>
     <price>	1650	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	155	</caliber>
