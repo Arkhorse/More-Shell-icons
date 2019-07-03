@@ -1556,7 +1556,7 @@
   <_152mm_HE_XM657E3>
     <id>	110	</id>
     <userString>	#usa_vehicles:_152mm_HE_XM657E3	</userString>
-    <icon>	he_premium	</icon>
+    <icon>	hei	</icon>
     <price>	5200	</price>
     <improved>	true	</improved>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -1730,7 +1730,7 @@
   <_155mm_HE_M101M2>
     <id>	45	</id>
     <userString>	#usa_vehicles:_155mm_HE_M101M2	</userString>
-    <icon>	he_premium	</icon>
+    <icon>	hei	</icon>
     <price>	5200	</price>
     <improved>	true	</improved>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -1769,7 +1769,7 @@
   <_155mm_HE_M101M6>
     <id>	51	</id>
     <userString>	#usa_vehicles:_155mm_HE_M101M6	</userString>
-    <icon>	he_premium	</icon>
+    <icon>	hei	</icon>
     <price>	5200	</price>
     <improved>	true	</improved>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -1808,7 +1808,7 @@
   <_203mm_HE_A1M1>
     <id>	47	</id>
     <userString>	#usa_vehicles:_203mm_HE_A1M1	</userString>
-    <icon>	he_premium	</icon>
+    <icon>	hei	</icon>
     <price>	8000	</price>
     <improved>	true	</improved>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -1862,7 +1862,7 @@
   <_240mm_HE_M160>
     <id>	49	</id>
     <userString>	#usa_vehicles:_240mm_HE_M160	</userString>
-    <icon>	he_premium	</icon>
+    <icon>	hei	</icon>
     <price>	8000	</price>
     <improved>	true	</improved>
     <kind>	HIGH_EXPLOSIVE	</kind>
