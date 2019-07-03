@@ -29,7 +29,7 @@
   <_20mm_AP>
     <id>	1	</id>
     <userString>	#usa_vehicles:_20mm_AP	</userString>
-    <icon>	ap	</icon>
+    <icon>	apac	</icon>
     <price>	3	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	20	</caliber>
@@ -43,7 +43,7 @@
   <_20mm_APCR>
     <id>	2	</id>
     <userString>	#usa_vehicles:_20mm_APCR	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apbcac	</icon>
     <price>	400	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
