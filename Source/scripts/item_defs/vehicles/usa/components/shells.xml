@@ -179,7 +179,7 @@
   <_37mm_AP1937>
     <id>	6	</id>
     <userString>	#usa_vehicles:_37mm_AP1937	</userString>
-    <icon>	ap	</icon>
+    <icon>	apac	</icon>
     <price>	0	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	37	</caliber>
@@ -193,7 +193,7 @@
   <_37mm_APCBC1935>
     <id>	7	</id>
     <userString>	#usa_vehicles:_37mm_APCBC1935	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apbcac	</icon>
     <price>	800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
