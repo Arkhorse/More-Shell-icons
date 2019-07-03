@@ -1,7 +1,7 @@
 <shells.xml>
   <icons>
 	<ap_ac>AP-AC.png 0 0</ap_ac>
-	<apbc>APBC.png 0 0</apbc>
+	<ap>APBC.png 0 0</ap>
 	<apbc_ac>APBC-AC.png 0 0</apbc_ac>
 	<ap_cr>APCR.png 0 0</ap_cr>
 	<apds>APDS.png 0 0</apds>
