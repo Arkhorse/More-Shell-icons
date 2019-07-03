@@ -124,7 +124,7 @@
   <_37mm_APC_M51>
     <id>	4	</id>
     <userString>	#usa_vehicles:_37mm_APC_M51	</userString>
-    <icon>	ap	</icon>
+    <icon>	ap_cr	</icon>
     <price>	800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -348,7 +348,7 @@
   <_2pdr_HE_Mk.2>
     <id>	54	</id>
     <userString>	#usa_vehicles:_2pdr_HE_Mk.2	</userString>
-    <icon>	he	</icon>
+    <icon>	he_t	</icon>
     <price>	19	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	40	</caliber>
@@ -588,7 +588,7 @@
   <_75mm_HEAT_M66>
     <id>	22	</id>
     <userString>	#usa_vehicles:_75mm_HEAT_M66	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat_t	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <kind>	HOLLOW_CHARGE	</kind>
@@ -661,7 +661,7 @@
   <_76mm_HVAP_M93>
     <id>	18	</id>
     <userString>	#usa_vehicles:_76mm_HVAP_M93	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	hvap	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -676,7 +676,7 @@
   <_76mm_HVAP_T4>
     <id>	122	</id>
     <userString>	#usa_vehicles:_76mm_HVAP_T4	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	hvap	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -735,7 +735,7 @@
   <_76mm_HVAP_M319>
     <id>	64	</id>
     <userString>	#usa_vehicles:_76mm_HVAP_M319	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	hvap	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -750,7 +750,7 @@
   <_76mm_APDS_M331A2>
     <id>	91	</id>
     <userString>	#usa_vehicles:_76mm_APDS_M331A2	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	hvap	</icon>
     <price>	270	</price>
     <kind>	ARMOR_PIERCING_CR	</kind>
     <caliber>	76	</caliber>
@@ -764,7 +764,7 @@
   <_76mm_APDS_M331A3>
     <id>	133	</id>
     <userString>	#usa_vehicles:_76mm_APDS_M331A3	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	hvap</icon>
     <price>	205	</price>
     <kind>	ARMOR_PIERCING_CR	</kind>
     <caliber>	76	</caliber>
@@ -823,7 +823,7 @@
   <_76mm_HEAT>
     <id>	21	</id>
     <userString>	#usa_vehicles:_76mm_HEAT	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <kind>	HOLLOW_CHARGE	</kind>
@@ -839,7 +839,7 @@
   <_76mm_HEAT_M496>
     <id>	92	</id>
     <userString>	#usa_vehicles:_76mm_HEAT_M496	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat_t	</icon>
     <price>	5600	</price>
     <improved>	true	</improved>
     <kind>	HOLLOW_CHARGE	</kind>
@@ -855,7 +855,7 @@
   <_76mm_HEAT_M496A1>
     <id>	134	</id>
     <userString>	#usa_vehicles:_76mm_HEAT_M496A1	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat	</icon>
     <price>	4400	</price>
     <improved>	true	</improved>
     <kind>	HOLLOW_CHARGE	</kind>
@@ -972,7 +972,7 @@
   <_90mm_HVAP_T30E15>
     <id>	124	</id>
     <userString>	#usa_vehicles:_90mm_HVAP_T30E15	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	hvap	</icon>
     <price>	255	</price>
     <kind>	ARMOR_PIERCING_CR	</kind>
     <caliber>	90	</caliber>
@@ -986,7 +986,7 @@
   <_90mm_HVAP_T30E16>
     <id>	125	</id>
     <userString>	#usa_vehicles:_90mm_HVAP_T30E16	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	hvap	</icon>
     <price>	4400	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -1001,7 +1001,7 @@
   <_90mm_HVAP_M304>
     <id>	24	</id>
     <userString>	#usa_vehicles:_90mm_HVAP_M304	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	hvap	</icon>
     <price>	4400	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -1073,7 +1073,7 @@
   <_90mm_HEAT_M431>
     <id>	79	</id>
     <userString>	#usa_vehicles:_90mm_HEAT_M431	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat	</icon>
     <price>	4000	</price>
     <improved>	true	</improved>
     <kind>	HOLLOW_CHARGE	</kind>
@@ -1089,7 +1089,7 @@
   <_90mm_HEAT_M348>
     <id>	93	</id>
     <userString>	#usa_vehicles:_90mm_HEAT_M348	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat_t	</icon>
     <price>	4000	</price>
     <improved>	true	</improved>
     <kind>	HOLLOW_CHARGE	</kind>
@@ -1105,7 +1105,7 @@
   <_90mm_HEAT_T108E45>
     <id>	109	</id>
     <userString>	#usa_vehicles:_90mm_HEAT_T108E45	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat	</icon>
     <price>	4000	</price>
     <improved>	true	</improved>
     <kind>	HOLLOW_CHARGE	</kind>
@@ -1136,7 +1136,7 @@
   <_90mm_HEP_T142E2>
     <id>	108	</id>
     <userString>	#usa_vehicles:_90mm_HEP_T142E2	</userString>
-    <icon>	he	</icon>
+    <icon>	hep	</icon>
     <price>	350	</price>
     <notInShop>	true	</notInShop>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -1167,7 +1167,7 @@
   <_105mm_HEAT_M67>
     <id>	27	</id>
     <userString>	#usa_vehicles:_105mm_HEAT_M67	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat	</icon>
     <price>	4000	</price>
     <improved>	true	</improved>
     <kind>	HOLLOW_CHARGE	</kind>
@@ -1197,7 +1197,7 @@
   <_105mm_APCR_T29E3>
     <id>	29	</id>
     <userString>	#usa_vehicles:_105mm_APCR_T29E3	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	hvap	</icon>
     <price>	4800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -1300,7 +1300,7 @@
   <_105mm_HEAT-T_T384E4>
     <id>	84	</id>
     <userString>	#usa_vehicles:_105mm_HEAT-T_T384E4	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat_t	</icon>
     <price>	4800	</price>
     <improved>	true	</improved>
     <kind>	HOLLOW_CHARGE	</kind>
@@ -1359,7 +1359,7 @@
   <_105mm_Exp_HEAT>
     <id>	130	</id>
     <userString>	#usa_vehicles:_105mm_Exp_HEAT	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat	</icon>
     <price>	4800	</price>
     <improved>	true	</improved>
     <kind>	HOLLOW_CHARGE	</kind>
@@ -1508,7 +1508,7 @@
   <_120mm_HEAT-T_M469>
     <id>	61	</id>
     <userString>	#usa_vehicles:_120mm_HEAT-T_M469	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat_t	</icon>
     <price>	4400	</price>
     <improved>	true	</improved>
     <kind>	HOLLOW_CHARGE	</kind>
@@ -1524,7 +1524,7 @@
   <_120mm_HEAT-T_M469_fallout>
     <id>	116	</id>
     <userString>	#usa_vehicles:_120mm_HEAT-T_M469_fallout	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat	</icon>
     <price>	400	</price>
     <improved>	true	</improved>
     <notInShop>	true	</notInShop>
@@ -1572,7 +1572,7 @@
   <_152mm_HEAT_XM409>
     <id>	111	</id>
     <userString>	#usa_vehicles:_152mm_HEAT_XM409	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat_mp	</icon>
     <price>	770	</price>
     <kind>	HOLLOW_CHARGE	</kind>
     <caliber>	152	</caliber>
@@ -1713,7 +1713,7 @@
   <_155mm_HEAT_M167>
     <id>	37	</id>
     <userString>	#usa_vehicles:_155mm_HEAT_M167	</userString>
-    <icon>	hc	</icon>
+    <icon>	heat	</icon>
     <price>	5600	</price>
     <improved>	true	</improved>
     <notInShop>	true	</notInShop>
@@ -1911,7 +1911,7 @@
   <_90mm_HVAP_M304_ID>
     <id>	151	</id>
     <userString>	#usa_vehicles:_90mm_HVAP_M304_ID	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	hvap	</icon>
     <price>	4400	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
