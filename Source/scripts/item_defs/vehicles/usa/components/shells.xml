@@ -6,11 +6,11 @@
     <he>	HIGH_EXPLOSIVE.png 0 0	</he>
     <he_premium>	HIGH_EXPLOSIVE_PREMIUM.png 0 0	</he_premium>
     <hc>	HOLLOW_CHARGE.png 0 0	</hc>
-	<apcr>APCR.png 0 0</apcr>
-	<apbc>APBC.png 0 0</apbc>
-	<hvap>HVAP.png 0 0</hvap>
 	<apac>AP-AC.png 0 0</apac>
+	<apbc>APBC.png 0 0</apbc>
 	<apbcac>APBC-AC.png 0 0</apbcac>
+	<apcr>APCR.png 0 0</apcr>
+	<hvap>HVAP.png 0 0</hvap>
   </icons>
   <_12.7mm_AP_M2>
     <id>	0	</id>
