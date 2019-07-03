@@ -103,7 +103,7 @@
   <_37mm_APC_M51>
     <id>	4	</id>
     <userString>	#usa_vehicles:_37mm_APC_M51	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apbc	</icon>
     <price>	800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
