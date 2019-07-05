@@ -1,6 +1,6 @@
 <shells.xml>
   <icons>
-    <ap>	ARMOR_PIERCING.png 0 0	</apbc>
+    <ap>	ARMOR_PIERCING.png 0 0	</ap>
     <ap_he>	ARMOR_PIERCING_HE.png 0 0	</ap_he>
     <ap_cr>	ARMOR_PIERCING_CR.png 0 0	</ap_cr>
     <he>	HIGH_EXPLOSIVE.png 0 0	</he2>
@@ -9,7 +9,7 @@
 	<ap_ac>apbc-AC.png 0 0</ap_ac>
 	<apbc>APBC.png 0 0</apbc>
 	<apbc_ac>APBC-AC.png 0 0</apbc_ac>
-	<ap_cr>APCR.png 0 0</ap_cr>
+	<apcr>APCR.png 0 0</apcr>
 	<apds>APDS.png 0 0</apds>
 	<apds_ac>APDS-AC.png 0 0</apds_ac>
 	<apfsds>APFSDS.png 0 0</apfsds>
@@ -100,7 +100,7 @@
   <_20mm_APCR_bootcamp>
     <id>	137	</id>
     <userString>	#usa_vehicles:_20mm_APCR	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	400	</price>
     <improved>	true	</improved>
     <notInShop>	true	</notInShop>
@@ -130,7 +130,7 @@
   <_37mm_APC_M51>
     <id>	4	</id>
     <userString>	#usa_vehicles:_37mm_APC_M51	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -175,7 +175,7 @@
   <_37mm_APC_M51_bootcamp>
     <id>	139	</id>
     <userString>	#usa_vehicles:_37mm_APC_M51	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	800	</price>
     <improved>	true	</improved>
     <notInShop>	true	</notInShop>
@@ -295,7 +295,7 @@
   <_37mm_APC_M59A5>
     <id>	10	</id>
     <userString>	#usa_vehicles:_37mm_APC_M59A5	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -339,7 +339,7 @@
   <_2pdr_APCNR_Mk.1>
     <id>	53	</id>
     <userString>	#usa_vehicles:_2pdr_APCNR_Mk.1	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	1200	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -383,7 +383,7 @@
   <_6pdr_APCR_MK_1T>
     <id>	13	</id>
     <userString>	#usa_vehicles:_6pdr_APCR_MK_1T	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	2400	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -412,7 +412,7 @@
   <_57mm_APC_M86>
     <id>	40	</id>
     <userString>	#usa_vehicles:_57mm_APC_M86	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -485,7 +485,7 @@
   <_75mm_M72>
     <id>	15	</id>
     <userString>	#usa_vehicles:_75mm_M72	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -515,7 +515,7 @@
   <_75mm_M72_bootcamp>
     <id>	142	</id>
     <userString>	#usa_vehicles:_75mm_M72	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <notInShop>	true	</notInShop>
@@ -562,7 +562,7 @@
   <_75mm_Pzgr.40L>
     <id>	67	</id>
     <userString>	#usa_vehicles:_75mm_Pzgr.40L	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <notInShop>	true	</notInShop>
@@ -652,7 +652,7 @@
   <_76mm_M79>
     <id>	105	</id>
     <userString>	#usa_vehicles:_76mm_M79	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -891,7 +891,7 @@
   <_88mm_Pzgr_40_43>
     <id>	154	</id>
     <userString>	#usa_vehicles:_88mm_Pzgr_40_43	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	4400	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -1051,7 +1051,7 @@
   <_90mm_APCR_Experimental>
     <id>	132	</id>
     <userString>	#usa_vehicles:_90mm_APCR_Experimental	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	390	</price>
     <kind>	ARMOR_PIERCING_CR	</kind>
     <caliber>	90	</caliber>
@@ -1247,7 +1247,7 @@
   <_105mm_APCR_T29E3M2>
     <id>	43	</id>
     <userString>	#usa_vehicles:_105mm_APCR_T29E3M2	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	4000	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -1277,7 +1277,7 @@
   <_105mm_APCR_M68M2>
     <id>	76	</id>
     <userString>	#usa_vehicles:_105mm_APCR_M68M2	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	1000	</price>
     <kind>	ARMOR_PIERCING_CR	</kind>
     <caliber>	105	</caliber>
@@ -1336,7 +1336,7 @@
   <_105mm_APCR_T140E3>
     <id>	82	</id>
     <userString>	#usa_vehicles:_105mm_APCR_T140E3	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	4000	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -1351,7 +1351,7 @@
   <_105mm_Exp_APDS>
     <id>	129	</id>
     <userString>	#usa_vehicles:_105mm_Exp_APDS	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	1100	</price>
     <kind>	ARMOR_PIERCING_CR	</kind>
     <caliber>	105	</caliber>
@@ -1410,7 +1410,7 @@
   <_120mm_APCR_T62>
     <id>	31	</id>
     <userString>	#usa_vehicles:_120mm_APCR_T62	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	apcr	</icon>
     <price>	4800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
