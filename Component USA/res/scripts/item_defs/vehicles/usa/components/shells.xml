@@ -3,7 +3,7 @@
     <ap>	ARMOR_PIERCING.png 0 0	</ap>
     <ap_he>	ARMOR_PIERCING_HE.png 0 0	</ap_he>
     <ap_cr>	ARMOR_PIERCING_CR.png 0 0	</ap_cr>
-    <he>	HIGH_EXPLOSIVE.png 0 0	</he2>
+    <he>	HIGH_EXPLOSIVE.png 0 0	</he>
     <he_premium>	HIGH_EXPLOSIVE_PREMIUM.png 0 0	</he_premium>
     <hc>	HOLLOW_CHARGE.png 0 0	</hc>
 	<ap_ac>apbc-AC.png 0 0</ap_ac>
