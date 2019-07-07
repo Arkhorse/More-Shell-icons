@@ -1,11 +1,20 @@
 <shells.xml>
   <icons>
-    <ap>	ARMOR_PIERCING.png 0 0	</ap>
-    <ap_he>	ARMOR_PIERCING_HE.png 0 0	</ap_he>
-    <ap_cr>	ARMOR_PIERCING_CR.png 0 0	</ap_cr>
-    <he>	HIGH_EXPLOSIVE.png 0 0	</he>
-    <he_premium>	HIGH_EXPLOSIVE_PREMIUM.png 0 0	</he_premium>
-    <hc>	HOLLOW_CHARGE.png 0 0	</hc>
+	<ap_ac>apbc-AC.png 0 0</ap_ac>
+	<apbc>APBC.png 0 0</apbc>
+	<apbc_ac>APBC-AC.png 0 0</apbc_ac>
+	<apcr>APCR.png 0 0</apcr>
+	<apds>APDS.png 0 0</apds>
+	<apfsds>APFSDS.png 0 0</apfsds>
+	<he2>HE.png 0 0</he2>
+	<heat>HEAT.png 0 0</heat>
+	<heat_mp>HEAT-MP.png 0 0</heat_mp>
+	<heat_t>HEAT-T.png 0 0</heat_t>
+	<he_frag_fs>he2-Frag-FS.png 0 0</he_frag_fs>
+	<hei>HEI.png 0 0</hei>
+	<hep>HEP.png 0 0</hep>
+	<hesh>HESH.png 0 0</hesh>
+	<hvap>HVAP.png 0 0</hvap>
   </icons>
   <_12.7mm_AP_B32>
     <id>	117	</id>
