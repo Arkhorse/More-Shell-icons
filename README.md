@@ -3,15 +3,15 @@ This is a project that will allow for alot more shell icons within world of tank
 
 # Road Map
 <ul>
-  <li>USA is done
-  <li>USSR
-  <li>German
-  <li>China
-  <li>UK
-  <li>Japan
-  <li>France
-  <li>Italy
-  <li>Czech
-  <li>Poland
-  <li>Sweden
+  <li><p style="background-color:MediumSeaGreen;">USA</p></li>
+  <li><p style="background-color:Tomato;">USSR</p></li>
+  <li><p style="background-color:Tomato;">German</p></li>
+  <li><p style="background-color:Tomato;">China</p></li>
+  <li><p style="background-color:Tomato;">UK</p></li>
+  <li><p style="background-color:Tomato;">Japan</p></li>
+  <li><p style="background-color:Tomato;">France</p></li>
+  <li><p style="background-color:Tomato;">Italy</p></li>
+  <li><p style="background-color:Tomato;">Czech</p></li>
+  <li><p style="background-color:Tomato;">Poland</p></li>
+  <li><p style="background-color:Tomato;">Sweden</p></li>
 </ul>
