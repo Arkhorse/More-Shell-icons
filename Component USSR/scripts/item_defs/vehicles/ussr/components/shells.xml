@@ -686,7 +686,7 @@
   <_76mm_UBR-354A_bootcamp>
     <id>	176	</id>
     <userString>	#ussr_vehicles:_76mm_UBR-354A_bootcamp	</userString>
-    <icon>	apbc	</icon>
+    <icon>	pish	</icon>
     <price>	56	</price>
     <notInShop>	true	</notInShop>
     <kind>	ARMOR_PIERCING	</kind>
@@ -701,7 +701,7 @@
   <_76mm_UBR-354A>
     <id>	28	</id>
     <userString>	#ussr_vehicles:_76mm_UBR-354A	</userString>
-    <icon>	apbc	</icon>
+    <icon>	pish	</icon>
     <price>	56	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	76	</caliber>
@@ -715,7 +715,7 @@
   <_76mm_UOF-354_bootcamp>
     <id>	187	</id>
     <userString>	#ussr_vehicles:_76mm_UOF-354_bootcamp	</userString>
-    <icon>	he2	</icon>
+    <icon>	he_frag_fs	</icon>
     <price>	56	</price>
     <notInShop>	true	</notInShop>
     <kind>	HIGH_EXPLOSIVE	</kind>
