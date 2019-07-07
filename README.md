@@ -3,7 +3,7 @@ This is a project that will allow for alot more shell icons within world of tank
 
 # Road Map
 
-- [ ] USA
+- [x] USA
 - [ ] USSR
 - [ ] German
 - [ ] China
