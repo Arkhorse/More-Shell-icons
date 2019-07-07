@@ -569,7 +569,7 @@
   <_57mm_UBR-271KO>
     <id>	19	</id>
     <userString>	#ussr_vehicles:_57mm_UBR-271KO	</userString>
-    <icon>	apbc	</icon>
+    <icon>	pish	</icon>
     <price>	35	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	57	</caliber>
@@ -583,7 +583,7 @@
   <_57mm_UBR-271NO>
     <id>	20	</id>
     <userString>	#ussr_vehicles:_57mm_UBR-271NO	</userString>
-    <icon>	apds	</icon>
+    <icon>	apcr	</icon>
     <price>	2000	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -598,7 +598,7 @@
   <_57mm_UO-271UO>
     <id>	21	</id>
     <userString>	#ussr_vehicles:_57mm_UO-271UO	</userString>
-    <icon>	he2	</icon>
+    <icon>	he_frag_fs	</icon>
     <price>	24	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	57	</caliber>
@@ -613,7 +613,7 @@
   <_57mm_UBR-271K>
     <id>	22	</id>
     <userString>	#ussr_vehicles:_57mm_UBR-271K	</userString>
-    <icon>	apbc	</icon>
+    <icon>	pish	</icon>
     <price>	56	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	57	</caliber>
@@ -627,7 +627,7 @@
   <_57mm_UBR-271N>
     <id>	23	</id>
     <userString>	#ussr_vehicles:_57mm_UBR-271N	</userString>
-    <icon>	apds	</icon>
+    <icon>	apcr	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -642,7 +642,7 @@
   <_57mm_UO-271U>
     <id>	24	</id>
     <userString>	#ussr_vehicles:_57mm_UO-271U	</userString>
-    <icon>	he2	</icon>
+    <icon>	he_frag_fs	</icon>
     <price>	28	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	57	</caliber>
