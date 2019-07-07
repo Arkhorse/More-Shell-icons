@@ -1017,7 +1017,7 @@
   <_76mm_HVAP_M93>
     <id>	205	</id>
     <userString>	#ussr_vehicles:_76mm_HVAP_M93	</userString>
-    <icon>	ap_cr	</icon>
+    <icon>	hvap	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
