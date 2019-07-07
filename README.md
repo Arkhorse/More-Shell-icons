@@ -3,4 +3,14 @@ This is a project that will allow for alot more shell icons within world of tank
 
 # Road Map
 
-Starting with the American techtree
+- [x] USA
+- [ ] USSR
+- [ ] German
+- [ ] China
+- [ ] UK
+- [ ] Japan
+- [ ] France
+- [ ] Italy
+- [ ] Czech
+- [ ] Poland
+- [ ] Sweden
