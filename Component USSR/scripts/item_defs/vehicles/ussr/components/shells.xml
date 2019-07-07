@@ -390,7 +390,7 @@
   <_45mm_UBR-240A>
     <id>	13	</id>
     <userString>	#ussr_vehicles:_45mm_UBR-240A	</userString>
-    <icon>	apbc	</icon>
+    <icon>	pish	</icon>
     <price>	14	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	45	</caliber>
@@ -404,7 +404,7 @@
   <_45mm_UBR-240PA>
     <id>	14	</id>
     <userString>	#ussr_vehicles:_45mm_UBR-240PA	</userString>
-    <icon>	apds	</icon>
+    <icon>	apcr	</icon>
     <price>	800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
