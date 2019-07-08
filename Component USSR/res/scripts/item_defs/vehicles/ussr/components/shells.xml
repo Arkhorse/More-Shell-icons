@@ -15,7 +15,7 @@
 	<hep>HEP.png 0 0</hep>
 	<hesh>HESH.png 0 0</hesh>
 	<hvap>HVAP.png 0 0</hvap>
-	<pish> PISH.png 0 0</pish>
+	<aphe>PISH.png 0 0</aphe>
   </icons>
   <_12.7mm_AP_B32>
     <id>	117	</id>
@@ -390,7 +390,7 @@
   <_45mm_UBR-240A>
     <id>	13	</id>
     <userString>	#ussr_vehicles:_45mm_UBR-240A	</userString>
-    <icon>	pish	</icon>
+    <icon>aphe</icon>
     <price>	14	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	45	</caliber>
@@ -569,7 +569,7 @@
   <_57mm_UBR-271KO>
     <id>	19	</id>
     <userString>	#ussr_vehicles:_57mm_UBR-271KO	</userString>
-    <icon>	pish	</icon>
+    <icon>	aphe	</icon>
     <price>	35	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	57	</caliber>
@@ -613,7 +613,7 @@
   <_57mm_UBR-271K>
     <id>	22	</id>
     <userString>	#ussr_vehicles:_57mm_UBR-271K	</userString>
-    <icon>	pish	</icon>
+    <icon>	aphe	</icon>
     <price>	56	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	57	</caliber>
@@ -686,7 +686,7 @@
   <_76mm_UBR-354A_bootcamp>
     <id>	176	</id>
     <userString>	#ussr_vehicles:_76mm_UBR-354A_bootcamp	</userString>
-    <icon>	pish	</icon>
+    <icon>	aphe	</icon>
     <price>	56	</price>
     <notInShop>	true	</notInShop>
     <kind>	ARMOR_PIERCING	</kind>
@@ -701,7 +701,7 @@
   <_76mm_UBR-354A>
     <id>	28	</id>
     <userString>	#ussr_vehicles:_76mm_UBR-354A	</userString>
-    <icon>	pish	</icon>
+    <icon>	aphe	</icon>
     <price>	56	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	76	</caliber>
@@ -746,7 +746,7 @@
   <_76mm_BP-354>
     <id>	29	</id>
     <userString>	#ussr_vehicles:_76mm_BP-354	</userString>
-    <icon>	pish	</icon>
+    <icon>	aphe	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <kind>	HOLLOW_CHARGE	</kind>
