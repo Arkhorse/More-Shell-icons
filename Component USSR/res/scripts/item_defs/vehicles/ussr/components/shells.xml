@@ -15,7 +15,7 @@
 	<hep>HEP.png 0 0</hep>
 	<hesh>HESH.png 0 0</hesh>
 	<hvap>HVAP.png 0 0</hvap>
-	<pish> PISH.png 0 0<pish>
+	<pish> PISH.png 0 0</pish>
   </icons>
   <_12.7mm_AP_B32>
     <id>	117	</id>
@@ -242,7 +242,7 @@
   <_37mm_UBR160bis>
     <id>	7	</id>
     <userString>	#ussr_vehicles:_37mm_UBR160bis	</userString>
-    <icon>	apbc	</icon>
+    <icon>	ap_ac	</icon>
     <price>	35	</price>
     <kind>	ARMOR_PIERCING	</kind>
     <caliber>	37	</caliber>
@@ -256,7 +256,7 @@
   <_37mm_UBR160PA>
     <id>	8	</id>
     <userString>	#ussr_vehicles:_37mm_UBR160PA	</userString>
-    <icon>	apds	</icon>
+    <icon>	apbc_ac	</icon>
     <price>	800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -746,7 +746,7 @@
   <_76mm_BP-354>
     <id>	29	</id>
     <userString>	#ussr_vehicles:_76mm_BP-354	</userString>
-    <icon>	heat	</icon>
+    <icon>	pish	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <kind>	HOLLOW_CHARGE	</kind>
