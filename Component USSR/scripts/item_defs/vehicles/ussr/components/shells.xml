@@ -448,7 +448,7 @@
   <_45mm_UBR-243SPA>
     <id>	17	</id>
     <userString>	#ussr_vehicles:_45mm_UBR-243SPA	</userString>
-    <icon>	apds	</icon>
+    <icon>	apcr	</icon>
     <price>	1200	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
@@ -463,7 +463,7 @@
   <_45mm_UOF-243>
     <id>	18	</id>
     <userString>	#ussr_vehicles:_45mm_UOF-243	</userString>
-    <icon>	he2	</icon>
+    <icon>	he_frag_fs	</icon>
     <price>	19	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	45	</caliber>
