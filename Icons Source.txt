@@ -1,0 +1,17 @@
+  <icons>
+	<ap_ac>apbc-AC.png 0 0</ap_ac>
+	<apbc>APBC.png 0 0</apbc>
+	<apbc_ac>APBC-AC.png 0 0</apbc_ac>
+	<apcr>APCR.png 0 0</apcr>
+	<apds>APDS.png 0 0</apds>
+	<apfsds>APFSDS.png 0 0</apfsds>
+	<he2>HE.png 0 0</he2>
+	<heat>HEAT.png 0 0</heat>
+	<heat_mp>HEAT-MP.png 0 0</heat_mp>
+	<heat_t>HEAT-T.png 0 0</heat_t>
+	<he_frag_fs>HE-Frag-FS.png 0 0</he_frag_fs>
+	<hei>HEI.png 0 0</hei>
+	<hep>HEP.png 0 0</hep>
+	<hesh>HESH.png 0 0</hesh>
+	<hvap>HVAP.png 0 0</hvap>
+  </icons>
