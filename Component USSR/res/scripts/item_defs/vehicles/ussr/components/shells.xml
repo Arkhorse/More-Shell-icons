@@ -1062,7 +1062,7 @@
   <_85mm_UBR-365P>
     <id>	37	</id>
     <userString>	#ussr_vehicles:_85mm_UBR-365P	</userString>
-    <icon>	apds	</icon>
+    <icon>	hvapds	</icon>
     <price>	2800	</price>
     <improved>	true	</improved>
     <kind>	ARMOR_PIERCING_CR	</kind>
