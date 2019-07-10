@@ -10,6 +10,7 @@
 	<heat>HEAT.png 0 0</heat>
 	<heat_mp>HEAT-MP.png 0 0</heat_mp>
 	<heat_t>HEAT-T.png 0 0</heat_t>
+		<he_frag>HE-Frag.png 0 0</he_frag>
 	<he_frag_fs>HE-Frag-FS.png 0 0</he_frag_fs>
 	<hei>HEI.png 0 0</hei>
 	<hep>HEP.png 0 0</hep>
@@ -1716,7 +1717,7 @@
   <_122mm_OF420S>
     <id>	50	</id>
     <userString>	#ussr_vehicles:_122mm_OF420S	</userString>
-    <icon>	he	</icon>
+    <icon>	he_frag_fs	</icon>
     <price>	257	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	122	</caliber>

@@ -17,6 +17,7 @@
     <heat_mp>HEAT-MP.png 0 0</heat_mp>
     <heat_t>HEAT-T.png 0 0</heat_t>
     <hedp_ac>HEDP-AC.png 0 0</hedp_ac>
+	<he_frag>HE-Frag.png 0 0</he_frag>
     <he_frag_fs>HE-Frag-FS.png 0 0</he_frag_fs>
     <hei>HEI.png 0 0</hei>
     <hei_ac>HEI-AC.png 0 0</hei_ac>
