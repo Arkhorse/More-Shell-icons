@@ -10,7 +10,7 @@
 	<heat>HEAT.png 0 0</heat>
 	<heat_mp>HEAT-MP.png 0 0</heat_mp>
 	<heat_t>HEAT-T.png 0 0</heat_t>
-		<he_frag>HE-Frag.png 0 0</he_frag>
+	<he_frag>HE-Frag.png 0 0</he_frag>
 	<he_frag_fs>HE-Frag-FS.png 0 0</he_frag_fs>
 	<hei>HEI.png 0 0</hei>
 	<hep>HEP.png 0 0</hep>
@@ -2301,7 +2301,7 @@
   <_130mm_OF-46>
     <id>	116	</id>
     <userString>	#ussr_vehicles:_130mm_OF-46	</userString>
-    <icon>	he	</icon>
+    <icon>	he_frag	</icon>
     <price>	410	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	130	</caliber>
