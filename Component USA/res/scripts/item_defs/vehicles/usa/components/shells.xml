@@ -6,7 +6,7 @@
 	<apcr>APCR.png 0 0</apcr>
 	<apds>APDS.png 0 0</apds>
 	<apfsds>APFSDS.png 0 0</apfsds>
-	<he2>HE.png 0 0</he2>
+	<he>HE.png 0 0</he>
 	<heat>HEAT.png 0 0</heat>
 	<heat_mp>HEAT-MP.png 0 0</heat_mp>
 	<heat_t>HEAT-T.png 0 0</heat_t>
@@ -122,7 +122,7 @@
   <_37mm_HE_M63>
     <id>	5	</id>
     <userString>	#usa_vehicles:_37mm_HE_M63	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	10	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	37	</caliber>
@@ -168,7 +168,7 @@
   <_37mm_HE_M63_bootcamp>
     <id>	140	</id>
     <userString>	#usa_vehicles:_37mm_HE_M63	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	10	</price>
     <notInShop>	true	</notInShop>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -213,7 +213,7 @@
   <_37mm_HE1916>
     <id>	8	</id>
     <userString>	#usa_vehicles:_37mm_HE1916	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	8	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	37	</caliber>
@@ -287,7 +287,7 @@
   <_37mm_HE_M54>
     <id>	11	</id>
     <userString>	#usa_vehicles:_37mm_HE_M54	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	25	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	37	</caliber>
@@ -331,7 +331,7 @@
   <_2pdr_HE_Mk.2>
     <id>	54	</id>
     <userString>	#usa_vehicles:_2pdr_HE_Mk.2	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	19	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	40	</caliber>
@@ -404,7 +404,7 @@
   <_57mm_HE_T18>
     <id>	41	</id>
     <userString>	#usa_vehicles:_57mm_HE_T18	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	28	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	57	</caliber>
@@ -477,7 +477,7 @@
   <_75mm_M48>
     <id>	16	</id>
     <userString>	#usa_vehicles:_75mm_M48	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	56	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	75	</caliber>
@@ -508,7 +508,7 @@
   <_75mm_M48_bootcamp>
     <id>	143	</id>
     <userString>	#usa_vehicles:_75mm_M48	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	56	</price>
     <notInShop>	true	</notInShop>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -555,7 +555,7 @@
   <_75mm_Sprg.18L>
     <id>	68	</id>
     <userString>	#usa_vehicles:_75mm_Sprg.18L	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	98	</price>
     <notInShop>	true	</notInShop>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -674,7 +674,7 @@
   <_76mm_M42A1>
     <id>	106	</id>
     <userString>	#usa_vehicles:_76mm_M42A1	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	56	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	76	</caliber>
@@ -689,7 +689,7 @@
   <_76mm_HE_M42A1>
     <id>	19	</id>
     <userString>	#usa_vehicles:_76mm_HE_M42A1	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	68	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	76	</caliber>
@@ -761,7 +761,7 @@
   <_76mm_HE_M352>
     <id>	65	</id>
     <userString>	#usa_vehicles:_76mm_HE_M352	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	250	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	76	</caliber>
@@ -776,7 +776,7 @@
   <_76mm_HE_M352A1>
     <id>	135	</id>
     <userString>	#usa_vehicles:_76mm_HE_M352A1	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	135	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	76	</caliber>
@@ -791,7 +791,7 @@
   <_76mm_HE_M42B1>
     <id>	20	</id>
     <userString>	#usa_vehicles:_76mm_HE_M42B1	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	38	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	76	</caliber>
@@ -883,7 +883,7 @@
   <_88mm_Sprgr_43>
     <id>	155	</id>
     <userString>	#usa_vehicles:_88mm_Sprgr_43	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	230	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	88	</caliber>
@@ -999,7 +999,7 @@
   <_90mm_HE_M71>
     <id>	25	</id>
     <userString>	#usa_vehicles:_90mm_HE_M71	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	255	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	90	</caliber>
@@ -1104,7 +1104,7 @@
   <_90mm_HE_T91E3>
     <id>	80	</id>
     <userString>	#usa_vehicles:_90mm_HE_T91E3	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	255	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	90	</caliber>
@@ -1135,7 +1135,7 @@
   <_105mm_HE_M1>
     <id>	26	</id>
     <userString>	#usa_vehicles:_105mm_HE_M1	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	166	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	105	</caliber>
@@ -1195,7 +1195,7 @@
   <_105mm_HE_M11>
     <id>	38	</id>
     <userString>	#usa_vehicles:_105mm_HE_M11	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	680	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	105	</caliber>
@@ -1239,7 +1239,7 @@
   <_105mm_HE_M11A2>
     <id>	44	</id>
     <userString>	#usa_vehicles:_105mm_HE_M11A2	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	680	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	105	</caliber>
@@ -1268,7 +1268,7 @@
   <_105mm_HE_M68M2>
     <id>	77	</id>
     <userString>	#usa_vehicles:_105mm_HE_M68M2	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	680	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	105	</caliber>
@@ -1358,7 +1358,7 @@
   <_105mm_Exp_HE>
     <id>	131	</id>
     <userString>	#usa_vehicles:_105mm_Exp_HE	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	815	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	105	</caliber>
@@ -1402,7 +1402,7 @@
   <_120mm_HE-T67>
     <id>	32	</id>
     <userString>	#usa_vehicles:_120mm_HE-T67	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	900	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	120	</caliber>
@@ -1431,7 +1431,7 @@
   <_120mm_HE_Shot_fallout>
     <id>	117	</id>
     <userString>	#usa_vehicles:_120mm_HE_Shot_fallout	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <notInShop>	true	</notInShop>
     <price>	99	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -1462,7 +1462,7 @@
   <_120mm_HE_Shot>
     <id>	59	</id>
     <userString>	#usa_vehicles:_120mm_HE_Shot	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	900	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	120	</caliber>
@@ -1524,7 +1524,7 @@
   <_152mm_HE_XM657E2>
     <id>	107	</id>
     <userString>	#usa_vehicles:_152mm_HE_XM657E2	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	750	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	152	</caliber>
@@ -1628,7 +1628,7 @@
   <_155mm_HE_M101>
     <id>	35	</id>
     <userString>	#usa_vehicles:_155mm_HE_M101	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1120	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	155	</caliber>
@@ -1643,7 +1643,7 @@
   <_155mm_HE_M101A1>
     <id>	136	</id>
     <userString>	#usa_vehicles:_155mm_HE_M101A1	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1120	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	155	</caliber>
@@ -1662,7 +1662,7 @@
   <_155mm_HE_M101E1>
     <id>	87	</id>
     <userString>	#usa_vehicles:_155mm_HE_M101E1	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1120	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	155	</caliber>
@@ -1677,7 +1677,7 @@
   <_155mm_HE_M102>
     <id>	36	</id>
     <userString>	#usa_vehicles:_155mm_HE_M102	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	505	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	155	</caliber>
@@ -1733,7 +1733,7 @@
   <_155mm_HE_M101M4>
     <id>	50	</id>
     <userString>	#usa_vehicles:_155mm_HE_M101M4	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1120	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	155	</caliber>
@@ -1772,7 +1772,7 @@
   <_203mm_HE_M106>
     <id>	46	</id>
     <userString>	#usa_vehicles:_203mm_HE_M106	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1870	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	203	</caliber>
@@ -1826,7 +1826,7 @@
   <_240mm_HE_M146>
     <id>	48	</id>
     <userString>	#usa_vehicles:_240mm_HE_M146	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	2500	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	240	</caliber>
@@ -1909,7 +1909,7 @@
   <_90mm_HE_M71_ID>
     <id>	152	</id>
     <userString>	#usa_vehicles:_90mm_HE_M71_ID	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	180	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	90	</caliber>
