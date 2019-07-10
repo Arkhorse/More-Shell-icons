@@ -6,7 +6,7 @@
 	<apcr>APCR.png 0 0</apcr>
 	<apds>APDS.png 0 0</apds>
 	<apfsds>APFSDS.png 0 0</apfsds>
-	<he2>HE.png 0 0</he2>
+	<he>HE.png 0 0</he>
 	<heat>HEAT.png 0 0</heat>
 	<heat_mp>HEAT-MP.png 0 0</heat_mp>
 	<heat_t>HEAT-T.png 0 0</heat_t>
@@ -121,7 +121,7 @@
   <_37mm_HE_M63_LL>
     <id>	75	</id>
     <userString>	#ussr_vehicles:_37mm_HE_M63_LL	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	10	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	37	</caliber>
@@ -195,7 +195,7 @@
   <_37mm_UOF-160>
     <id>	6	</id>
     <userString>	#ussr_vehicles:_37mm_UOF-160	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	8	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	37	</caliber>
@@ -226,7 +226,7 @@
   <_37mm_UOF-160_bootcamp>
     <id>	196	</id>
     <userString>	#ussr_vehicles:_37mm_UOF-160_bootcamp	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	8	</price>
     <notInShop>	true	</notInShop>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -271,7 +271,7 @@
   <_37mm_UO160A>
     <id>	9	</id>
     <userString>	#ussr_vehicles:_37mm_UO160A	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	10	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	37	</caliber>
@@ -316,7 +316,7 @@
   <_37mm_UOT1>
     <id>	12	</id>
     <userString>	#ussr_vehicles:_37mm_UOT1	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	8	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	37	</caliber>
@@ -375,7 +375,7 @@
   <_2pdr_HE_Mk.2>
     <id>	84	</id>
     <userString>	#ussr_vehicles:_2pdr_HE_Mk.2	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	19	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	40	</caliber>
@@ -419,7 +419,7 @@
   <_45mm_UOF-240A>
     <id>	15	</id>
     <userString>	#ussr_vehicles:_45mm_UOF-240A	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	14	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	45	</caliber>
@@ -509,7 +509,7 @@
   <_45mm_UOF-240A_bootcamp>
     <id>	175	</id>
     <userString>	#ussr_vehicles:_45mm_UOF-240A_bootcamp	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	14	</price>
     <notInShop>	true	</notInShop>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -554,7 +554,7 @@
   <_45mm_UOF-243U>
     <id>	179	</id>
     <userString>	#ussr_vehicles:_45mm_UOF-243U	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	24	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	45	</caliber>
@@ -762,7 +762,7 @@
   <_76mm_UOF-354>
     <id>	30	</id>
     <userString>	#ussr_vehicles:_76mm_UOF-354	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	56	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	76	</caliber>
@@ -866,7 +866,7 @@
   <_76mm_UOF-354M>
     <id>	33	</id>
     <userString>	#ussr_vehicles:_76mm_UOF-354M	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	48	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	76	</caliber>
@@ -881,7 +881,7 @@
   <_76mm_UOF-354M_bootcamp>
     <id>	190	</id>
     <userString>	#ussr_vehicles:_76mm_UOF-354M	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	48	</price>
     <notInShop>	true	</notInShop>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -926,7 +926,7 @@
   <_76mm_UOF-354K>
     <id>	35	</id>
     <userString>	#ussr_vehicles:_76mm_UOF-354K	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	38	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	76	</caliber>
@@ -973,7 +973,7 @@
   <_76mm_UOF-354K_bootcamp>
     <id>	192	</id>
     <userString>	#ussr_vehicles:_76mm_UOF-354K	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	38	</price>
     <notInShop>	true	</notInShop>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -989,7 +989,7 @@
   <_76mm_UOF-354KA>
     <id>	184	</id>
     <userString>	#ussr_vehicles:_76mm_UOF-354KA	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	38	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	76	</caliber>
@@ -1033,7 +1033,7 @@
   <_76mm_HE_M42A1>
     <id>	206	</id>
     <userString>	#ussr_vehicles:_76mm_HE_M42A1	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	68	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	76	</caliber>
@@ -1077,7 +1077,7 @@
   <_85mm_UOF-365K>
     <id>	38	</id>
     <userString>	#ussr_vehicles:_85mm_UOF-365K	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	98	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	85	</caliber>
@@ -1121,7 +1121,7 @@
   <_85mm_UOF-365BM>
     <id>	41	</id>
     <userString>	#ussr_vehicles:_85mm_UOF-365BM	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	139	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	85	</caliber>
@@ -1165,7 +1165,7 @@
   <_85mm_UOF-365BM100>
     <id>	128	</id>
     <userString>	#ussr_vehicles:_85mm_UOF-365BM100	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	145	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	85	</caliber>
@@ -1209,7 +1209,7 @@
   <_85mm_UOF_372_432>
     <id>	234	</id>
     <userString>	#ussr_vehicles:_85mm_UOF_372_432	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	145	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	85	</caliber>
@@ -1253,7 +1253,7 @@
   <_85mm_UO-367>
     <id>	124	</id>
     <userString>	#ussr_vehicles:_85mm_UO-367	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	139	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	85	</caliber>
@@ -1311,7 +1311,7 @@
   <_100mm_UOF-412>
     <id>	44	</id>
     <userString>	#ussr_vehicles:_100mm_UOF-412	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	252	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	100	</caliber>
@@ -1368,7 +1368,7 @@
   <_100mm_UOF-412B>
     <id>	78	</id>
     <userString>	#ussr_vehicles:_100mm_UOF-412B	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1170	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	100	</caliber>
@@ -1383,7 +1383,7 @@
   <_100mm_3UOF10>
     <id>	100	</id>
     <userString>	#ussr_vehicles:_100mm_3UOF10	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1170	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	100	</caliber>
@@ -1398,7 +1398,7 @@
   <_100mm_3UOF10_fallout>
     <id>	141	</id>
     <userString>	#ussr_vehicles:_100mm_3UOF10_fallout	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1170	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	100	</caliber>
@@ -1504,7 +1504,7 @@
   <_100mm_3VOF>
     <id>	167	</id>
     <userString>	#ussr_vehicles:_100mm_3VOF	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	670	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	100	</caliber>
@@ -1550,7 +1550,7 @@
   <_100mm_UOF-412BM>
     <id>	172	</id>
     <userString>	#ussr_vehicles:_100mm_UOF-412BM	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	245	</price>
     <notInShop>	true	</notInShop>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -1596,7 +1596,7 @@
   <_100mm_3UOF_LM>
     <id>	229	</id>
     <userString>	#ussr_vehicles:_100mm_3UOF_LM	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1170	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	100	</caliber>
@@ -1640,7 +1640,7 @@
   <_107mm_UOF-420>
     <id>	47	</id>
     <userString>	#ussr_vehicles:_107mm_UOF-420	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	280	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	107	</caliber>
@@ -1684,7 +1684,7 @@
   <_107mm_UOF-420M>
     <id>	93	</id>
     <userString>	#ussr_vehicles:_107mm_UOF-420M	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	650	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	107	</caliber>
@@ -1715,7 +1715,7 @@
   <_122mm_OF420S>
     <id>	50	</id>
     <userString>	#ussr_vehicles:_122mm_OF420S	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	257	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	122	</caliber>
@@ -1877,7 +1877,7 @@
   <_122mm_UOF-471>
     <id>	53	</id>
     <userString>	#ussr_vehicles:_122mm_UOF-471	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	608	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	122	</caliber>
@@ -1892,7 +1892,7 @@
   <_122mm_UOF_471M>
     <id>	199	</id>
     <userString>	#ussr_vehicles:_122mm_UOF_471M	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	470	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	122	</caliber>
@@ -1907,7 +1907,7 @@
   <_122mm_UOF-471A>
     <id>	185	</id>
     <userString>	#ussr_vehicles:_122mm_UOF-471A	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	608	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	122	</caliber>
@@ -1922,7 +1922,7 @@
   <_122mm_UOF-471BM>
     <id>	134	</id>
     <userString>	#ussr_vehicles:_122mm_UOF-471BM	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	608	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	122	</caliber>
@@ -1937,7 +1937,7 @@
   <_122mm_OF420SO>
     <id>	54	</id>
     <userString>	#ussr_vehicles:_122mm_OF420SO	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	215	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	122	</caliber>
@@ -1952,7 +1952,7 @@
   <_122mm_OF420SOMSH>
     <id>	55	</id>
     <userString>	#ussr_vehicles:_122mm_OF420SOMSH	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	150	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	122	</caliber>
@@ -2014,7 +2014,7 @@
   <_122mm_UOF-472>
     <id>	87	</id>
     <userString>	#ussr_vehicles:_122mm_UOF-472	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	630	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	122	</caliber>
@@ -2029,7 +2029,7 @@
   <_122mm_OF-462>
     <id>	120	</id>
     <userString>	#ussr_vehicles:_122mm_OF-462	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	608	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	122	</caliber>
@@ -2091,7 +2091,7 @@
   <_122mm_UOF_472U>
     <id>	216	</id>
     <userString>	#ussr_vehicles:_122mm_UOF_472U	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	870	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	122	</caliber>
@@ -2135,7 +2135,7 @@
   <_130mm_UOF-482>
     <id>	59	</id>
     <userString>	#ussr_vehicles:_130mm_UOF-482	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	978	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	130	</caliber>
@@ -2210,7 +2210,7 @@
   <_130mm_UOF-482_fallout>
     <id>	144	</id>
     <userString>	#ussr_vehicles:_130mm_UOF-482_fallout	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	99	</price>
     <notInShop>	true	</notInShop>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -2226,7 +2226,7 @@
   <_130mm_UOF-482_fallout2>
     <id>	157	</id>
     <userString>	#ussr_vehicles:_130mm_UOF-482_fallout	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	978	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	130	</caliber>
@@ -2299,7 +2299,7 @@
   <_130mm_OF-46>
     <id>	116	</id>
     <userString>	#ussr_vehicles:_130mm_OF-46	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	410	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	130	</caliber>
@@ -2343,7 +2343,7 @@
   <_130mm_2-02742>
     <id>	133	</id>
     <userString>	#ussr_vehicles:_130mm_2-02742	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	450	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	130	</caliber>
@@ -2387,7 +2387,7 @@
   <_130mm_UOF-482M>
     <id>	107	</id>
     <userString>	#ussr_vehicles:_130mm_UOF-482M	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	978	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	130	</caliber>
@@ -2432,7 +2432,7 @@
   <_130mm_53_VOF_482V>
     <id>	163	</id>
     <userString>	#ussr_vehicles:_130mm_53_VOF_482V	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	990	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	130	</caliber>
@@ -2477,7 +2477,7 @@
   <_130mm_53_VOF_482VS>
     <id>	237	</id>
     <userString>	#ussr_vehicles:_130mm_53_VOF_482VS	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1020	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	130	</caliber>
@@ -2492,7 +2492,7 @@
   <_152mm_53OF500>
     <id>	60	</id>
     <userString>	#ussr_vehicles:_152mm_53OF500	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	290	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	152	</caliber>
@@ -2556,7 +2556,7 @@
   <_152mm_53-OF-530>
     <id>	64	</id>
     <userString>	#ussr_vehicles:_152mm_53-OF-530	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	810	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	152	</caliber>
@@ -2571,7 +2571,7 @@
   <_152mm_53-OF-531>
     <id>	180	</id>
     <userString>	#ussr_vehicles:_152mm_53-OF-531	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	810	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	152	</caliber>
@@ -2590,7 +2590,7 @@
   <_152mm_53-OF-551>
     <id>	65	</id>
     <userString>	#ussr_vehicles:_152mm_53-OF-551	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1120	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	152	</caliber>
@@ -2605,7 +2605,7 @@
   <_152mm_53-OF-551B>
     <id>	181	</id>
     <userString>	#ussr_vehicles:_152mm_53-OF-551B	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1120	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	152	</caliber>
@@ -2704,7 +2704,7 @@
   <_152mm_53-OF-551M>
     <id>	104	</id>
     <userString>	#ussr_vehicles:_152mm_53-OF-551M	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1120	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	152	</caliber>
@@ -2749,7 +2749,7 @@
   <_152mm_53-OF-551M_OF>
     <id>	223	</id>
     <userString>	#ussr_vehicles:_152mm_53-OF-551M_OF	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1120	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	152	</caliber>
@@ -2796,7 +2796,7 @@
   <_152mm_53-OF-551M_fallout>
     <id>	150	</id>
     <userString>	#ussr_vehicles:_152mm_53-OF-551M_fallout	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	81	</price>
     <notInShop>	true	</notInShop>
     <kind>	HIGH_EXPLOSIVE	</kind>
@@ -2857,7 +2857,7 @@
   <_152mm_53_OF_551O>
     <id>	219	</id>
     <userString>	#ussr_vehicles:_152mm_53_OF_551O	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1190	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	152	</caliber>
@@ -2872,7 +2872,7 @@
   <_180mm_F-600D>
     <id>	79	</id>
     <userString>	#ussr_vehicles:_180mm_F-600D	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1980	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	180	</caliber>
@@ -2926,7 +2926,7 @@
   <_203mm_F-625D>
     <id>	70	</id>
     <userString>	#ussr_vehicles:_203mm_F-625D	</userString>
-    <icon>	he2	</icon>
+    <icon>	he	</icon>
     <price>	1910	</price>
     <kind>	HIGH_EXPLOSIVE	</kind>
     <caliber>	203	</caliber>
