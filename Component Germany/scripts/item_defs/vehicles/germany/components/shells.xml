@@ -305,7 +305,7 @@
   <_37cm_Pzgr40t>
     <id>	7	</id>
     <userString>#germany_vehicles:_37cm_Pzgr40t</userString>
-    <icon>ap_cr</icon>
+    <icon>apcr</icon>
     <price>	800	</price>
     <improved>	true	</improved>
     <kind>ARMOR_PIERCING_CR</kind>
