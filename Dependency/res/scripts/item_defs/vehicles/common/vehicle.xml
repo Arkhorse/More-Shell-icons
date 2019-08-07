@@ -152,8 +152,7 @@
     <loader2Health>DamageMarker : TankmanHealth<tankmanRole>loader</tankmanRole><indexInRole>	2	</indexInRole><sounds><critical>loader_killed</critical><destroyed>loader_killed</destroyed></sounds><deviceUserString>#ingame_gui:tankmen/loader</deviceUserString></loader2Health>
     <siegeMode>NoneExtra : SiegeMode</siegeMode>
     <tuner>NoneExtra: Tuner</tuner>
-    <nitro_event_1>NoneExtra : NitroEvent</nitro_event_1>
-    <visibilityOverwrite>NoneExtra: VisibilityOverwrite</visibilityOverwrite>
+    <builtinRepairkit>NoneExtra : Repairkit</builtinRepairkit>
   </extras>
   <deviceExtras>
     <devices>
