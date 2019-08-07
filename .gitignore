@@ -6,3 +6,4 @@ Dependency/TheIllusion_MoreShellIcons_Dependency.wotmod
 Dependency/MSI_Dependency_adding_packages.xml
 Component USA/MSI_USA_adding_packages.xml
 Component Czech/Relhax/_patch/TheIllusion_MoreShellIcons_Czech_v0.01_adding_packages.xml
+*.exe
