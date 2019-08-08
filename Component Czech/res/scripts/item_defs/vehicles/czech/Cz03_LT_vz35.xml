@@ -77,7 +77,7 @@
     <customizationSlots>
       <slot>
         <slotType>	clan	</slotType>
-        <slotId>	1	</slotId>
+        <slotId>	10000	</slotId>
         <rayStart>-0.267451 0.128855 2.00421</rayStart>
         <rayEnd>-0.267451 -0.0683061 1.97064</rayEnd>
         <rayUp>0.000000 0.000000 -1</rayUp>
@@ -87,13 +87,13 @@
       </slot>
       <slot>
         <slotType>camouflage</slotType>
-        <slotId>	3	</slotId>
+        <slotId>	12000	</slotId>
         <anchorPosition>0.000000 0.41596 -1.48919</anchorPosition>
         <anchorDirection>	0.000000 0.269023 -0.963134	</anchorDirection>
       </slot>
       <slot>
         <slotType>paint</slotType>
-        <slotId>	2	</slotId>
+        <slotId>	11000	</slotId>
         <anchorPosition>0.000000 0.41596 -1.48919</anchorPosition>
         <anchorDirection>	0.000000 0.269023 -0.963134	</anchorDirection>
       </slot>
@@ -1090,13 +1090,13 @@
       <customizationSlots>
         <slot>
           <slotType>style</slotType>
-          <slotId>	257	</slotId>
+          <slotId>	29000	</slotId>
           <anchorPosition>0.000001 2.36208 0.446907</anchorPosition>
           <anchorDirection>0.000000 1 0.000000</anchorDirection>
         </slot>
         <slot>
           <slotType>paint</slotType>
-          <slotId>	256	</slotId>
+          <slotId>	21000	</slotId>
           <anchorPosition>-1.03695 0.538397 0.032855</anchorPosition>
           <anchorDirection>-0.887152 0.46062 0.0281088</anchorDirection>
         </slot>
@@ -2086,13 +2086,13 @@
       <customizationSlots>
         <slot>
           <slotType>style</slotType>
-          <slotId>	257	</slotId>
+          <slotId>	29000	</slotId>
           <anchorPosition>0.000001 2.36208 0.446907</anchorPosition>
           <anchorDirection>0.000000 1 0.000000</anchorDirection>
         </slot>
         <slot>
           <slotType>paint</slotType>
-          <slotId>	256	</slotId>
+          <slotId>	21000	</slotId>
           <anchorPosition>-1.03695 0.538397 0.032855</anchorPosition>
           <anchorDirection>-0.887152 0.46062 0.0281088</anchorDirection>
         </slot>
@@ -2136,8 +2136,8 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_37mm_Skoda_A3>shared<maxAmmo>	76	</maxAmmo><unlocks><gun>_37mm_Skoda_A8<cost>	120	</cost></gun></unlocks><armor><armor_1>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	5	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><gun>	10	</gun></armor><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.240</invisibilityFactorAtShot><reloadTime>3.2</reloadTime><aimingTime>1.9</aimingTime><models><undamaged>vehicles/czech/Cz03_LT_vz35/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/czech/Cz03_LT_vz35/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/czech/Cz03_LT_vz35/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	770	</slotId><anchorPosition>-0.00418185 -0.0180895 0.562896</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	768	</slotId><anchorPosition>-0.00418185 -0.0180895 0.562896</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	769	</slotId><anchorPosition>	0.000000 0.134383 0.134383	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.62 0.42</tiling></camouflage></_37mm_Skoda_A3>
-        <_37mm_Skoda_A8>shared<maxAmmo>	76	</maxAmmo><armor><armor_1>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><shotDispersionRadius>0.38</shotDispersionRadius><reloadTime>	3	</reloadTime><aimingTime>1.7</aimingTime><models><undamaged>vehicles/czech/Cz03_LT_vz35/normal/lod0/Gun_02.model</undamaged><destroyed>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_02.model</destroyed><exploded>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_02.model</exploded></models><hitTester><collisionModelServer>vehicles/czech/Cz03_LT_vz35/collision/Gun_02.model</collisionModelServer><collisionModelClient>vehicles/czech/Cz03_LT_vz35/collision_client/Gun_02.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	770	</slotId><anchorPosition>-0.00442779 -0.0348855 0.623281</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	768	</slotId><anchorPosition>-0.00442779 -0.0348855 0.623281</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	769	</slotId><anchorPosition>	0.000000 0.130325 0.130325	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.31 0.31 0.21 1</tiling></camouflage></_37mm_Skoda_A8>
+        <_37mm_Skoda_A3>shared<maxAmmo>	76	</maxAmmo><unlocks><gun>_37mm_Skoda_A8<cost>	120	</cost></gun></unlocks><armor><armor_1>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	5	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><gun>	10	</gun></armor><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.240</invisibilityFactorAtShot><reloadTime>3.2</reloadTime><aimingTime>1.9</aimingTime><models><undamaged>vehicles/czech/Cz03_LT_vz35/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/czech/Cz03_LT_vz35/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/czech/Cz03_LT_vz35/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.00418185 -0.0180895 0.562896</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.00418185 -0.0180895 0.562896</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.134383 0.134383	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.62 0.42</tiling></camouflage></_37mm_Skoda_A3>
+        <_37mm_Skoda_A8>shared<maxAmmo>	76	</maxAmmo><armor><armor_1>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><shotDispersionRadius>0.38</shotDispersionRadius><reloadTime>	3	</reloadTime><aimingTime>1.7</aimingTime><models><undamaged>vehicles/czech/Cz03_LT_vz35/normal/lod0/Gun_02.model</undamaged><destroyed>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_02.model</destroyed><exploded>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_02.model</exploded></models><hitTester><collisionModelServer>vehicles/czech/Cz03_LT_vz35/collision/Gun_02.model</collisionModelServer><collisionModelClient>vehicles/czech/Cz03_LT_vz35/collision_client/Gun_02.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.00442779 -0.0348855 0.623281</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.00442779 -0.0348855 0.623281</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.130325 0.130325	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.31 0.31 0.21 1</tiling></camouflage></_37mm_Skoda_A8>
       </guns>
       <models>
         <undamaged>vehicles/czech/Cz03_LT_vz35/normal/lod0/Turret_01.model</undamaged>
@@ -2161,7 +2161,7 @@
       <customizationSlots>
         <slot>
           <slotType>player</slotType>
-          <slotId>	514	</slotId>
+          <slotId>	33000	</slotId>
           <rayStart>-0.682013 0.326051 -0.0397057</rayStart>
           <rayEnd>	-0.488248 0.276964 -0.033018	</rayEnd>
           <rayUp>0.000000 1 0.000000</rayUp>
@@ -2171,7 +2171,7 @@
         </slot>
         <slot>
           <slotType>inscription</slotType>
-          <slotId>	546	</slotId>
+          <slotId>	34000	</slotId>
           <rayStart>	-0.553751 0.312348 -0.490939	</rayStart>
           <rayEnd>-0.370571 0.26623 -0.42523</rayEnd>
           <rayUp>0.000000 1 0.000000</rayUp>
@@ -2181,7 +2181,7 @@
         </slot>
         <slot>
           <slotType>inscription</slotType>
-          <slotId>	547	</slotId>
+          <slotId>	34001	</slotId>
           <rayStart>	0.553751 0.312348 -0.490939	</rayStart>
           <rayEnd>0.370571 0.26623 -0.42523</rayEnd>
           <rayUp>0.000000 1 0.000000</rayUp>
@@ -2192,7 +2192,7 @@
         </slot>
         <slot>
           <slotType>player</slotType>
-          <slotId>	515	</slotId>
+          <slotId>	33001	</slotId>
           <rayStart>0.68159 0.327074 -0.0339757</rayStart>
           <rayEnd>0.487829 0.278037 -0.0268155</rayEnd>
           <rayUp>0.000000 1 0.000000</rayUp>
@@ -2203,13 +2203,13 @@
         </slot>
         <slot>
           <slotType>camouflage</slotType>
-          <slotId>	513	</slotId>
+          <slotId>	32000	</slotId>
           <anchorPosition>	0.000000 0.818556 0.000000	</anchorPosition>
           <anchorDirection>0.000000 1 0.000000</anchorDirection>
         </slot>
         <slot>
           <slotType>paint</slotType>
-          <slotId>	512	</slotId>
+          <slotId>	31000	</slotId>
           <anchorPosition>	0.000000 0.818556 0.000000	</anchorPosition>
           <anchorDirection>0.000000 1 0.000000</anchorDirection>
         </slot>
@@ -2254,8 +2254,8 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_37mm_Skoda_A3>shared<maxAmmo>	76	</maxAmmo><armor><armor_1>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	5	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><gun>	10	</gun></armor><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.240</invisibilityFactorAtShot><reloadTime>2.8</reloadTime><shotDispersionFactors><turretRotation>0.12</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.9</aimingTime><models><undamaged>vehicles/czech/Cz03_LT_vz35/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/czech/Cz03_LT_vz35/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/czech/Cz03_LT_vz35/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	770	</slotId><anchorPosition>-0.00418185 -0.0180895 0.562896</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	768	</slotId><anchorPosition>-0.00418185 -0.0180895 0.562896</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	769	</slotId><anchorPosition>	0.000000 0.134383 0.134383	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.84 0.000000</tiling></camouflage></_37mm_Skoda_A3>
-        <_37mm_Skoda_A8>shared<maxAmmo>	76	</maxAmmo><armor><armor_1>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><shotDispersionRadius>0.38</shotDispersionRadius><reloadTime>2.6</reloadTime><shotDispersionFactors><turretRotation>0.12</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.7</aimingTime><models><undamaged>vehicles/czech/Cz03_LT_vz35/normal/lod0/Gun_02.model</undamaged><destroyed>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_02.model</destroyed><exploded>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_02.model</exploded></models><hitTester><collisionModelServer>vehicles/czech/Cz03_LT_vz35/collision/Gun_02.model</collisionModelServer><collisionModelClient>vehicles/czech/Cz03_LT_vz35/collision_client/Gun_02.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	770	</slotId><anchorPosition>-0.00442779 -0.0348855 0.623281</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	768	</slotId><anchorPosition>-0.00442779 -0.0348855 0.623281</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	769	</slotId><anchorPosition>	0.000000 0.130325 0.130325	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.41 0.11</tiling></camouflage></_37mm_Skoda_A8>
+        <_37mm_Skoda_A3>shared<maxAmmo>	76	</maxAmmo><armor><armor_1>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	5	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><gun>	10	</gun></armor><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.240</invisibilityFactorAtShot><reloadTime>2.8</reloadTime><shotDispersionFactors><turretRotation>0.12</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.9</aimingTime><models><undamaged>vehicles/czech/Cz03_LT_vz35/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/czech/Cz03_LT_vz35/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/czech/Cz03_LT_vz35/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.00418185 -0.0180895 0.562896</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.00418185 -0.0180895 0.562896</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.134383 0.134383	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.84 0.000000</tiling></camouflage></_37mm_Skoda_A3>
+        <_37mm_Skoda_A8>shared<maxAmmo>	76	</maxAmmo><armor><armor_1>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><shotDispersionRadius>0.38</shotDispersionRadius><reloadTime>2.6</reloadTime><shotDispersionFactors><turretRotation>0.12</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.7</aimingTime><models><undamaged>vehicles/czech/Cz03_LT_vz35/normal/lod0/Gun_02.model</undamaged><destroyed>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_02.model</destroyed><exploded>vehicles/czech/Cz03_LT_vz35/crash/lod0/Gun_02.model</exploded></models><hitTester><collisionModelServer>vehicles/czech/Cz03_LT_vz35/collision/Gun_02.model</collisionModelServer><collisionModelClient>vehicles/czech/Cz03_LT_vz35/collision_client/Gun_02.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.00442779 -0.0348855 0.623281</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.00442779 -0.0348855 0.623281</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.130325 0.130325	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.41 0.11</tiling></camouflage></_37mm_Skoda_A8>
       </guns>
       <models>
         <undamaged>vehicles/czech/Cz03_LT_vz35/normal/lod0/Turret_02.model</undamaged>
@@ -2279,7 +2279,7 @@
       <customizationSlots>
         <slot>
           <slotType>player</slotType>
-          <slotId>	514	</slotId>
+          <slotId>	33000	</slotId>
           <rayStart>-0.682013 0.326051 -0.0397057</rayStart>
           <rayEnd>	-0.488248 0.276964 -0.033018	</rayEnd>
           <rayUp>0.000000 1 0.000000</rayUp>
@@ -2289,7 +2289,7 @@
         </slot>
         <slot>
           <slotType>inscription</slotType>
-          <slotId>	546	</slotId>
+          <slotId>	34000	</slotId>
           <rayStart>	-0.553751 0.312348 -0.490939	</rayStart>
           <rayEnd>-0.370571 0.26623 -0.42523</rayEnd>
           <rayUp>0.000000 1 0.000000</rayUp>
@@ -2299,7 +2299,7 @@
         </slot>
         <slot>
           <slotType>inscription</slotType>
-          <slotId>	547	</slotId>
+          <slotId>	34001	</slotId>
           <rayStart>	0.553751 0.312348 -0.490939	</rayStart>
           <rayEnd>0.370571 0.26623 -0.42523</rayEnd>
           <rayUp>0.000000 1 0.000000</rayUp>
@@ -2310,7 +2310,7 @@
         </slot>
         <slot>
           <slotType>player</slotType>
-          <slotId>	515	</slotId>
+          <slotId>	33001	</slotId>
           <rayStart>0.682013 0.326051 -0.0397057</rayStart>
           <rayEnd>	0.488248 0.276964 -0.033018	</rayEnd>
           <rayUp>0.000000 1 0.000000</rayUp>
@@ -2321,13 +2321,13 @@
         </slot>
         <slot>
           <slotType>camouflage</slotType>
-          <slotId>	513	</slotId>
+          <slotId>	32000	</slotId>
           <anchorPosition>	0.000000 0.818556 0.000000	</anchorPosition>
           <anchorDirection>0.000000 1 0.000000</anchorDirection>
         </slot>
         <slot>
           <slotType>paint</slotType>
-          <slotId>	512	</slotId>
+          <slotId>	31000	</slotId>
           <anchorPosition>	0.000000 0.818556 0.000000	</anchorPosition>
           <anchorDirection>0.000000 1 0.000000</anchorDirection>
         </slot>
@@ -2440,7 +2440,7 @@
     <damagedStateGroup>small</damagedStateGroup>
   </effects>
   <emblems>
-    <default>czech_round</default>
+    <default>	15514	</default>
     <lodDist>MEDIUM</lodDist>
     <alpha>0.88</alpha>
   </emblems>
