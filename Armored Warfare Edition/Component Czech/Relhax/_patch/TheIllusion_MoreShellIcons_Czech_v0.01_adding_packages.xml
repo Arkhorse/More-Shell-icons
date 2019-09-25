@@ -1,0 +1,12 @@
+<patchs>
+  <patch>
+    <type>xml</type>
+    <mode>add</mode>
+    <patchPath>app</patchPath>
+    <file>\\mods\\versiondir\\load_order.xml</file>
+    <path>//root/Collection</path>
+    <search>
+    </search>
+    <replace>pkg/TheIllusion_MoreShellIcons_Czech_v0.01.wotmod</replace>
+  </patch>
+</patchs>
