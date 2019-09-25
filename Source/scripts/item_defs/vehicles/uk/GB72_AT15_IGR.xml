@@ -148,6 +148,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.36 1.36 0.000000 0.000000</tiling>
+      <density>96.8937 97.0641</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -997,7 +999,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_20pdr_AT_Gun_Type_B_IGR>shared<maxAmmo>	60	</maxAmmo><armor><gun>	40	</gun></armor><shotDispersionRadius>0.3</shotDispersionRadius><reloadTime>	5	</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.7</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><pitchLimits><minPitch>0 -10 1 -10</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><turretYawLimits>-25 25</turretYawLimits><models><undamaged>vehicles/british/GB72_AT15/normal/lod0/Gun_04.model</undamaged><destroyed>vehicles/british/GB72_AT15/crash/lod0/Gun_04.model</destroyed><exploded>vehicles/british/GB72_AT15/crash/lod0/Gun_04.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB72_AT15/collision/Gun_04.model</collisionModelServer><collisionModelClient>vehicles/british/GB72_AT15/collision_client/Gun_04.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000231936 0.0118619 2.52261</rayStart><rayEnd>0.00295346 -0.0132236 2.52161</rayEnd><rayUp>0.072 0.068 4</rayUp><size>0.591</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.595 0.595 0.000000 0.000000</tiling></camouflage></_20pdr_AT_Gun_Type_B_IGR>
+        <_20pdr_AT_Gun_Type_B_IGR>shared<maxAmmo>	60	</maxAmmo><armor><gun>	40	</gun></armor><shotDispersionRadius>0.3</shotDispersionRadius><reloadTime>	5	</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.7</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><pitchLimits><minPitch>0 -10 1 -10</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><turretYawLimits>-25 25</turretYawLimits><models><undamaged>vehicles/british/GB72_AT15/normal/lod0/Gun_04.model</undamaged><destroyed>vehicles/british/GB72_AT15/crash/lod0/Gun_04.model</destroyed><exploded>vehicles/british/GB72_AT15/crash/lod0/Gun_04.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB72_AT15/collision/Gun_04.model</collisionModelServer><collisionModelClient>vehicles/british/GB72_AT15/collision_client/Gun_04.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000231936 0.0118619 2.52261</rayStart><rayEnd>0.00295346 -0.0132236 2.52161</rayEnd><rayUp>0.072 0.068 4</rayUp><size>0.591</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.595 0.595 0.000000 0.000000</tiling><density>116.615 119.637</density><aoTextureSize>512 512</aoTextureSize></camouflage></_20pdr_AT_Gun_Type_B_IGR>
       </guns>
       <models>
         <undamaged>vehicles/british/GB72_AT15/normal/lod0/Turret_01.model</undamaged>
@@ -1020,6 +1022,8 @@
       </customization>
       <camouflage>
         <tiling>0.37 0.37 0.000000 0.000000</tiling>
+        <density>100.564 99.8677</density>
+        <aoTextureSize>256 256</aoTextureSize>
       </camouflage>
     </Turret_1_GB72_AT15_IGR>
   </turrets0>

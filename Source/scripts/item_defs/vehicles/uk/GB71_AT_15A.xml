@@ -162,6 +162,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.18 1.18 0.000000 0.000000</tiling>
+      <density>89.8378 89.9129</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -855,7 +857,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_17pdr_OQF_AT>shared<maxAmmo>	70	</maxAmmo><pitchLimits><minPitch>0 -10 1 -10</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><armor><gun>25.4</gun></armor><shotDispersionRadius>0.32</shotDispersionRadius><reloadTime>4.3</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.9</aimingTime><invisibilityFactorAtShot>0.338</invisibilityFactorAtShot><turretYawLimits>-25 25</turretYawLimits><models><undamaged>vehicles/british/GB71_AT_15A/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/british/GB71_AT_15A/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/british/GB71_AT_15A/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB71_AT_15A/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/british/GB71_AT_15A/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 0.000128103 2.24678</rayStart><rayEnd>0.029052 0.0041251 2.2464</rayEnd><rayUp>0.06 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.476</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000001 0.0124955 2.11164</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000001 0.0124955 2.11164</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot></customizationSlots><camouflage><tiling>0.265 0.265 0.000000 0.000000</tiling></camouflage></_17pdr_OQF_AT>
+        <_17pdr_OQF_AT>shared<maxAmmo>	70	</maxAmmo><pitchLimits><minPitch>0 -10 1 -10</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><armor><gun>25.4</gun></armor><shotDispersionRadius>0.32</shotDispersionRadius><reloadTime>4.3</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.9</aimingTime><invisibilityFactorAtShot>0.338</invisibilityFactorAtShot><turretYawLimits>-25 25</turretYawLimits><models><undamaged>vehicles/british/GB71_AT_15A/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/british/GB71_AT_15A/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/british/GB71_AT_15A/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB71_AT_15A/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/british/GB71_AT_15A/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 0.000128103 2.24678</rayStart><rayEnd>0.029052 0.0041251 2.2464</rayEnd><rayUp>0.06 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.476</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000001 0.0124955 2.11164</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000001 0.0124955 2.11164</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot></customizationSlots><camouflage><tiling>0.265 0.265 0.000000 0.000000</tiling><density>111.042 113.665</density><aoTextureSize>256 256</aoTextureSize></camouflage></_17pdr_OQF_AT>
       </guns>
       <models>
         <undamaged>vehicles/british/GB71_AT_15A/normal/lod0/Turret_01.model</undamaged>
@@ -892,6 +894,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.25 0.25 0.000000 0.000000</tiling>
+        <density>93.1599 93.6819</density>
+        <aoTextureSize>256 256</aoTextureSize>
       </camouflage>
     </Turret_1_GB71_AT_15A>
   </turrets0>

@@ -150,6 +150,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>0.625 0.625 0.000000 0.000000</tiling>
+      <density>124.619 124.684</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -1496,7 +1498,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_76mm_cannon_mod_1927>shared<reloadTime>	8	</reloadTime><armor><gun>	15	</gun></armor><shotDispersionRadius>0.76</shotDispersionRadius><aimingTime>4.5</aimingTime><maxAmmo>	24	</maxAmmo><pitchLimits><minPitch>0 -45 1 -45</minPitch><maxPitch>0 3 1 3</maxPitch></pitchLimits><invisibilityFactorAtShot>0.208</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.28</turretRotation><afterShot>	6	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><turretYawLimits>-3 3</turretYawLimits><models><undamaged>vehicles/russian/R16_SU-18/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R16_SU-18/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R16_SU-18/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R16_SU-18/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R16_SU-18/collision_client/Gun_01.model</collisionModelClient></hitTester><effects>shot_medium_mb</effects><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000008 0.00108697 0.685369</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.0172361 -0.0386457 1.0102</anchorPosition><anchorDirection>0.000010 -0.000015 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.298303 0.298304	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.000000 0.000000</tiling></camouflage></_76mm_cannon_mod_1927>
+        <_76mm_cannon_mod_1927>shared<reloadTime>	8	</reloadTime><armor><gun>	15	</gun></armor><shotDispersionRadius>0.76</shotDispersionRadius><aimingTime>4.5</aimingTime><maxAmmo>	24	</maxAmmo><pitchLimits><minPitch>0 -45 1 -45</minPitch><maxPitch>0 3 1 3</maxPitch></pitchLimits><invisibilityFactorAtShot>0.208</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.28</turretRotation><afterShot>	6	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><turretYawLimits>-3 3</turretYawLimits><models><undamaged>vehicles/russian/R16_SU-18/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R16_SU-18/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R16_SU-18/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R16_SU-18/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R16_SU-18/collision_client/Gun_01.model</collisionModelClient></hitTester><effects>shot_medium_mb</effects><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000008 0.00108697 0.685369</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.0172361 -0.0386457 1.0102</anchorPosition><anchorDirection>0.000010 -0.000015 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.298303 0.298304	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.000000 0.000000</tiling><density>102.794 102.392</density><aoTextureSize>256 256</aoTextureSize></camouflage></_76mm_cannon_mod_1927>
       </guns>
       <models>
         <undamaged>vehicles/russian/R16_SU-18/normal/lod0/Turret_01.model</undamaged>
@@ -1521,6 +1523,8 @@
       </customization>
       <camouflage>
         <tiling>1.36 1.36 0.000000 0.000000</tiling>
+        <density>393.351 964.499</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </SU-18>
   </turrets0>

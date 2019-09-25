@@ -98,6 +98,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.6 1.6 0.7 0.7</tiling>
+      <density>94.6118 94.6764</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -833,7 +835,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_75mm_KwK_L70_bootcamp>shared<pitchLimits><minPitch>0 -18 1 -18</minPitch><maxPitch>0 8 0.353005 8 0.416667 5 0.583333 5 0.646995 8 1 8</maxPitch></pitchLimits><maxAmmo>	81	</maxAmmo><reloadTime>4.2</reloadTime><shotDispersionFactors><turretRotation>0.14</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><armor><armor_1>	110	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	55	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	45	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	20	</gun></armor><shotDispersionRadius>0.35</shotDispersionRadius><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.234</invisibilityFactorAtShot><turretYawLimits>-180 180</turretYawLimits><models><undamaged>vehicles/german/G03_PzV_Panther/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G03_PzV_Panther/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G03_PzV_Panther/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G03_PzV_Panther/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G03_PzV_Panther/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.00329885 0.00630247 3.5</rayStart><rayEnd>0.0890514 -0.0354112 3.41937</rayEnd><rayUp>0.076 0.066 4</rayUp><size>0.782</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.8 0.8 0.000000 0.000000</tiling></camouflage></_75mm_KwK_L70_bootcamp>
+        <_75mm_KwK_L70_bootcamp>shared<pitchLimits><minPitch>0 -18 1 -18</minPitch><maxPitch>0 8 0.353005 8 0.416667 5 0.583333 5 0.646995 8 1 8</maxPitch></pitchLimits><maxAmmo>	81	</maxAmmo><reloadTime>4.2</reloadTime><shotDispersionFactors><turretRotation>0.14</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><armor><armor_1>	110	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	55	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	45	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	20	</gun></armor><shotDispersionRadius>0.35</shotDispersionRadius><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.234</invisibilityFactorAtShot><turretYawLimits>-180 180</turretYawLimits><models><undamaged>vehicles/german/G03_PzV_Panther/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G03_PzV_Panther/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G03_PzV_Panther/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G03_PzV_Panther/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G03_PzV_Panther/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.00329885 0.00630247 3.5</rayStart><rayEnd>0.0890514 -0.0354112 3.41937</rayEnd><rayUp>0.076 0.066 4</rayUp><size>0.782</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.8 0.8 0.000000 0.000000</tiling><density>90.3356 89.159</density><aoTextureSize>512 512</aoTextureSize></camouflage></_75mm_KwK_L70_bootcamp>
       </guns>
       <models>
         <undamaged>vehicles/german/G03_PzV_Panther/normal/lod0/Turret_01.model</undamaged>
@@ -899,6 +901,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.9 0.9 0.000000 0.000000</tiling>
+        <density>93.5917 93.6457</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </Pz-V_Standardturm_bootcamp>
   </turrets0>

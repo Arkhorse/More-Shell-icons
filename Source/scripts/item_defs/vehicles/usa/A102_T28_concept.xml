@@ -159,6 +159,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.54 1.54 0.17 0.23</tiling>
+      <density>109.808 110.511</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -1098,7 +1100,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_105mm_AT_Gun_T5A>shared<maxAmmo>	60	</maxAmmo><armor><armor_1>203.2<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_3>50.8<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>76.2<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	40	</gun></armor><turretYawLimits>-30 30</turretYawLimits><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 4.4 1 4.4</maxPitch></pitchLimits><invisibilityFactorAtShot>0.22</invisibilityFactorAtShot><reloadTime>	10	</reloadTime><aimingTime>2.3</aimingTime><models><undamaged>vehicles/american/A102_T28_concept/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A102_T28_concept/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A102_T28_concept/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A102_T28_concept/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A102_T28_concept/collision_client/Gun_01.model</collisionModelClient></hitTester><effects>shot_large</effects><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000001 0.0131011 2.12867</rayStart><rayEnd>-0.0477694 0.00414737 2.12226</rayEnd><rayUp>0.165 0.14 4</rayUp><size>0.711</size><hideIfDamaged>	true	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000000 0.00655053 2.0415</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000000 0.00655053 2.0415</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.000048 0.226692 -0.0973393</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.85 0.445 0.000000 0.000000</tiling></camouflage></_105mm_AT_Gun_T5A>
+        <_105mm_AT_Gun_T5A>shared<maxAmmo>	60	</maxAmmo><armor><armor_1>203.2<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_3>50.8<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>76.2<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	40	</gun></armor><turretYawLimits>-30 30</turretYawLimits><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 4.4 1 4.4</maxPitch></pitchLimits><invisibilityFactorAtShot>0.22</invisibilityFactorAtShot><reloadTime>	10	</reloadTime><aimingTime>2.3</aimingTime><models><undamaged>vehicles/american/A102_T28_concept/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A102_T28_concept/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A102_T28_concept/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A102_T28_concept/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A102_T28_concept/collision_client/Gun_01.model</collisionModelClient></hitTester><effects>shot_large</effects><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000001 0.0131011 2.12867</rayStart><rayEnd>-0.0477694 0.00414737 2.12226</rayEnd><rayUp>0.165 0.14 4</rayUp><size>0.711</size><hideIfDamaged>	true	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000000 0.00655053 2.0415</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000000 0.00655053 2.0415</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.000048 0.226692 -0.0973393</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.85 0.445 0.000000 0.000000</tiling><density>133.443 169.96</density><aoTextureSize>512 256</aoTextureSize></camouflage></_105mm_AT_Gun_T5A>
       </guns>
       <models>
         <undamaged>vehicles/american/A102_T28_concept/normal/lod0/Turret_01.model</undamaged>
@@ -1135,6 +1137,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.745 0.445 0.000000 0.000000</tiling>
+        <density>130.344 131.721</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </Turret_1_A102_T28_concept>
   </turrets0>

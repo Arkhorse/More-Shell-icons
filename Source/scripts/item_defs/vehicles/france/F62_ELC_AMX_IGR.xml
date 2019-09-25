@@ -103,6 +103,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.48 1.48 0.66 0.42</tiling>
+      <density>118.872 120.296</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -752,7 +754,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_90mm_D914_IGR>shared<maxAmmo>	36	</maxAmmo><pitchLimits><minPitch>0 -13 1 -13</minPitch><maxPitch>0 5 1 5</maxPitch></pitchLimits><armor><armor_1>	14	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	10	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	10	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><gun>	30	</gun></armor><shotDispersionRadius>0.38</shotDispersionRadius><reloadTime>	14	</reloadTime><aimingTime>2.9</aimingTime><shotDispersionFactors><turretRotation>0.23</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><turretYawLimits>-15 15</turretYawLimits><models><undamaged>vehicles/french/F62_ELC_AMX/normal/lod0/Gun_03.model</undamaged><destroyed>vehicles/french/F62_ELC_AMX/crash/lod0/Gun_03.model</destroyed><exploded>vehicles/french/F62_ELC_AMX/crash/lod0/Gun_03.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F62_ELC_AMX/collision/Gun_03.model</collisionModelServer><collisionModelClient>vehicles/french/F62_ELC_AMX/collision_client/Gun_03.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000519932 -0.00414987 1.7123</rayStart><rayEnd>-0.00128004 -0.00717689 1.71204</rayEnd><rayUp>0.068 0.068 4</rayUp><size>0.35</size><hideIfDamaged>	true	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.61 0.61 0.000000 0.000000</tiling></camouflage></_90mm_D914_IGR>
+        <_90mm_D914_IGR>shared<maxAmmo>	36	</maxAmmo><pitchLimits><minPitch>0 -13 1 -13</minPitch><maxPitch>0 5 1 5</maxPitch></pitchLimits><armor><armor_1>	14	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	10	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	10	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><gun>	30	</gun></armor><shotDispersionRadius>0.38</shotDispersionRadius><reloadTime>	14	</reloadTime><aimingTime>2.9</aimingTime><shotDispersionFactors><turretRotation>0.23</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><turretYawLimits>-15 15</turretYawLimits><models><undamaged>vehicles/french/F62_ELC_AMX/normal/lod0/Gun_03.model</undamaged><destroyed>vehicles/french/F62_ELC_AMX/crash/lod0/Gun_03.model</destroyed><exploded>vehicles/french/F62_ELC_AMX/crash/lod0/Gun_03.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F62_ELC_AMX/collision/Gun_03.model</collisionModelServer><collisionModelClient>vehicles/french/F62_ELC_AMX/collision_client/Gun_03.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000519932 -0.00414987 1.7123</rayStart><rayEnd>-0.00128004 -0.00717689 1.71204</rayEnd><rayUp>0.068 0.068 4</rayUp><size>0.35</size><hideIfDamaged>	true	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.61 0.61 0.000000 0.000000</tiling><density>192.745 195.611</density><aoTextureSize>512 512</aoTextureSize></camouflage></_90mm_D914_IGR>
       </guns>
       <models>
         <undamaged>vehicles/french/F62_ELC_AMX/normal/lod0/Turret_01.model</undamaged>
@@ -799,6 +801,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.79 0.79 0.000000 0.000000</tiling>
+        <density>106.383 108.288</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </Turret_1_ELC_AMX_IGR>
   </turrets0>

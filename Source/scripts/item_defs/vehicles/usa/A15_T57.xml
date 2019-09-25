@@ -137,6 +137,10 @@
         <isUVProportional>	true	</isUVProportional>
       </slot>
     </customizationSlots>
+    <camouflage>
+      <density>16.2785 16.0146</density>
+      <aoTextureSize>128 128</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <VVSS_T36E6>
@@ -290,7 +294,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_12.7mm_T23>shared<pitchLimits><minPitch>0 -35 1 -35</minPitch><maxPitch>0 2 1 2</maxPitch></pitchLimits><armor><gun>	15	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.8</shotDispersionRadius><reloadTime>9.4</reloadTime><aimingTime>5.5</aimingTime><invisibilityFactorAtShot>0.221</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.52</turretRotation><afterShot>	6	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><turretYawLimits>-15 15</turretYawLimits><models><undamaged>vehicles/russian/R00_Placeholder/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R00_Placeholder/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R00_Placeholder/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R00_Placeholder/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R00_Placeholder/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>1.18 1.18 0.000000 0.000000</tiling></camouflage></_12.7mm_T23>
+        <_12.7mm_T23>shared<pitchLimits><minPitch>0 -35 1 -35</minPitch><maxPitch>0 2 1 2</maxPitch></pitchLimits><armor><gun>	15	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.8</shotDispersionRadius><reloadTime>9.4</reloadTime><aimingTime>5.5</aimingTime><invisibilityFactorAtShot>0.221</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.52</turretRotation><afterShot>	6	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><turretYawLimits>-15 15</turretYawLimits><models><undamaged>vehicles/russian/R00_Placeholder/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R00_Placeholder/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R00_Placeholder/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R00_Placeholder/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R00_Placeholder/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>1.18 1.18 0.000000 0.000000</tiling><density>29.281 29.2776</density><aoTextureSize>128 128</aoTextureSize></camouflage></_12.7mm_T23>
       </guns>
       <models>
         <undamaged>vehicles/russian/R00_Placeholder/normal/lod0/Turret_01.model</undamaged>
@@ -315,6 +319,8 @@
       </customization>
       <camouflage>
         <tiling>1.06 1.06 0.000000 0.000000</tiling>
+        <density>25.1497 25.1514</density>
+        <aoTextureSize>128 128</aoTextureSize>
       </camouflage>
     </T51D1>
   </turrets0>

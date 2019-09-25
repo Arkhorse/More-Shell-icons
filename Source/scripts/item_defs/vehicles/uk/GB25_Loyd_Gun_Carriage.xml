@@ -142,6 +142,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.72 1.72 0.000000 0.000000</tiling>
+      <density>115.806 116.263</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -1819,7 +1821,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_13pdr_Gun>shared<maxAmmo>	24	</maxAmmo><armor><armor_4>3.2<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_4><gun>	15	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.8</shotDispersionRadius><reloadTime>	9	</reloadTime><shotDispersionFactors><turretRotation>0.6</turretRotation><afterShot>	6	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>	5	</aimingTime><pitchLimits><minPitch>0 -45 1 -45</minPitch><maxPitch>0 0 1 0</maxPitch></pitchLimits><invisibilityFactorAtShot>0.221</invisibilityFactorAtShot><turretYawLimits>-30 8.5</turretYawLimits><models><undamaged>vehicles/british/GB25_Loyd_Gun_Carriage/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/british/GB25_Loyd_Gun_Carriage/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/british/GB25_Loyd_Gun_Carriage/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB25_Loyd_Gun_Carriage/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/british/GB25_Loyd_Gun_Carriage/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.00195406 -0.0319172 0.546539</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.00195406 -0.0319172 0.546539</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.266623 0.266623	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.925 0.52 0.000000 0.000000</tiling></camouflage></_13pdr_Gun>
+        <_13pdr_Gun>shared<maxAmmo>	24	</maxAmmo><armor><armor_4>3.2<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_4><gun>	15	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.8</shotDispersionRadius><reloadTime>	9	</reloadTime><shotDispersionFactors><turretRotation>0.6</turretRotation><afterShot>	6	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>	5	</aimingTime><pitchLimits><minPitch>0 -45 1 -45</minPitch><maxPitch>0 0 1 0</maxPitch></pitchLimits><invisibilityFactorAtShot>0.221</invisibilityFactorAtShot><turretYawLimits>-30 8.5</turretYawLimits><models><undamaged>vehicles/british/GB25_Loyd_Gun_Carriage/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/british/GB25_Loyd_Gun_Carriage/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/british/GB25_Loyd_Gun_Carriage/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB25_Loyd_Gun_Carriage/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/british/GB25_Loyd_Gun_Carriage/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.00195406 -0.0319172 0.546539</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.00195406 -0.0319172 0.546539</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.266623 0.266623	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.925 0.52 0.000000 0.000000</tiling><density>121.703 123.63</density><aoTextureSize>512 256</aoTextureSize></camouflage></_13pdr_Gun>
       </guns>
       <models>
         <undamaged>vehicles/british/GB25_Loyd_Gun_Carriage/normal/lod0/Turret_01.model</undamaged>
@@ -1857,6 +1859,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.25 0.25 0.000000 0.000000</tiling>
+        <density>50.0 50.0</density>
+        <aoTextureSize>256 256</aoTextureSize>
       </camouflage>
     </Turret_1_GB25_Loyd_Carrier>
   </turrets0>

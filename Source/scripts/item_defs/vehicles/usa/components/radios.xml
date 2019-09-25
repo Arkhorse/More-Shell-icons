@@ -33,6 +33,7 @@
     <SCR_610_ID>	71	</SCR_610_ID>
     <FuG_7_Ausf_F>	72	</FuG_7_Ausf_F>
     <AN_GRC_8E>	73	</AN_GRC_8E>
+    <AN-GRC-3_race>	74	</AN-GRC-3_race>
     <T23radio>	1000	</T23radio>
     <Development_Radio>	65535	</Development_Radio>
     <AN-ARC-27_IGR>	60001	</AN-ARC-27_IGR>
@@ -347,6 +348,20 @@
       <maxRegenHealth>	60	</maxRegenHealth>
       <repairCost>1.2</repairCost>
     </AN-GRC-3>
+    <AN-GRC-3_race>
+      <userString>#usa_vehicles:AN-GRC-3_race</userString>
+      <tags>
+      </tags>
+      <level>	6	</level>
+      <price>	21600	</price>
+      <notInShop>	true	</notInShop>
+      <weight>	120	</weight>
+      <distance>	410	</distance>
+      <maxHealth>	120	</maxHealth>
+      <maxRegenHealth>	60	</maxRegenHealth>
+      <invulnerable>	true	</invulnerable>
+      <repairCost>1.2</repairCost>
+    </AN-GRC-3_race>
     <AN_GRC_8>
       <userString>#usa_vehicles:AN_GRC_8</userString>
       <tags>

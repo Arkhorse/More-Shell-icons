@@ -95,6 +95,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>0.94 0.94 0.24 0.58</tiling>
+      <density>96.2007 96.2636</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -748,7 +750,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_90mm_Gun_T178_IGR>shared<maxAmmo>	40	</maxAmmo><armor><armor_1>228.6</armor_1><armor_2>114.3</armor_2><armor_3>	127	</armor_3><armor_4>50.8</armor_4><armor_5>152.4</armor_5><armor_6>152.4</armor_6><armor_7>114.3</armor_7><armor_8>	0	</armor_8><armor_9>63.5</armor_9><armor_10>50.8</armor_10><armor_11>25.4</armor_11><armor_12>25.4</armor_12><armor_13>	127	</armor_13><armor_14>101.6</armor_14><armor_15>38.1<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_15><armor_16>101.6</armor_16><gun>	35	</gun></armor><shotDispersionRadius>0.38</shotDispersionRadius><reloadTime>	27	</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.9</aimingTime><clip><count>	4	</count><rate>	30	</rate></clip><pitchLimits><minPitch>0 -14 1 -14</minPitch><maxPitch>0 9 1 9</maxPitch></pitchLimits><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><models><undamaged>vehicles/american/A90_T69/normal/lod0/Gun_02.model</undamaged><destroyed>vehicles/american/A90_T69/crash/lod0/Gun_02.model</destroyed><exploded>vehicles/american/A90_T69/crash/lod0/Gun_02.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A90_T69/collision/Gun_02.model</collisionModelServer><collisionModelClient>vehicles/american/A90_T69/collision_client/Gun_02.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000025 -0.0493455 3.06951</rayStart><rayEnd>0.0875754 -0.0953482 3.06695</rayEnd><rayUp>0.095 0.089 4</rayUp><size>0.6</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.64 0.64 0.06 0.000000</tiling></camouflage></_90mm_Gun_T178_IGR>
+        <_90mm_Gun_T178_IGR>shared<maxAmmo>	40	</maxAmmo><armor><armor_1>228.6</armor_1><armor_2>114.3</armor_2><armor_3>	127	</armor_3><armor_4>50.8</armor_4><armor_5>152.4</armor_5><armor_6>152.4</armor_6><armor_7>114.3</armor_7><armor_8>	0	</armor_8><armor_9>63.5</armor_9><armor_10>50.8</armor_10><armor_11>25.4</armor_11><armor_12>25.4</armor_12><armor_13>	127	</armor_13><armor_14>101.6</armor_14><armor_15>38.1<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_15><armor_16>101.6</armor_16><gun>	35	</gun></armor><shotDispersionRadius>0.38</shotDispersionRadius><reloadTime>	27	</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.9</aimingTime><clip><count>	4	</count><rate>	30	</rate></clip><pitchLimits><minPitch>0 -14 1 -14</minPitch><maxPitch>0 9 1 9</maxPitch></pitchLimits><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><models><undamaged>vehicles/american/A90_T69/normal/lod0/Gun_02.model</undamaged><destroyed>vehicles/american/A90_T69/crash/lod0/Gun_02.model</destroyed><exploded>vehicles/american/A90_T69/crash/lod0/Gun_02.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A90_T69/collision/Gun_02.model</collisionModelServer><collisionModelClient>vehicles/american/A90_T69/collision_client/Gun_02.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000025 -0.0493455 3.06951</rayStart><rayEnd>0.0875754 -0.0953482 3.06695</rayEnd><rayUp>0.095 0.089 4</rayUp><size>0.6</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.64 0.64 0.06 0.000000</tiling><density>76.2015 76.5304</density><aoTextureSize>512 512</aoTextureSize></camouflage></_90mm_Gun_T178_IGR>
       </guns>
       <models>
         <undamaged>vehicles/american/A90_T69/normal/lod0/Turret_01.model</undamaged>
@@ -814,6 +816,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.46 0.28 0.000000 0.000000</tiling>
+        <density>102.266 103.676</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </Turret_1_T69_IGR>
   </turrets0>

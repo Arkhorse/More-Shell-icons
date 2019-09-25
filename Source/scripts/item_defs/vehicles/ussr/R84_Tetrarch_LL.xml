@@ -114,6 +114,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>4 2 0.7 1.2</tiling>
+      <density>100.662 100.525</density>
+      <aoTextureSize>1024 512</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -410,7 +412,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_2pdr_QFSA>shared<maxAmmo>	50	</maxAmmo><armor><armor_1>	16	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	10	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	7	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><shotDispersionRadius>0.4</shotDispersionRadius><reloadTime>2.85714285714286</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.28571428571429</aimingTime><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><models><undamaged>vehicles/russian/R84_Tetrarch_LL/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R84_Tetrarch_LL/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R84_Tetrarch_LL/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R84_Tetrarch_LL/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R84_Tetrarch_LL/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000024 -0.0185136 0.810516</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000024 -0.0185136 0.810516</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.140343 0.140342	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>1.4 0.5 0.000000 0.000000</tiling></camouflage></_2pdr_QFSA>
+        <_2pdr_QFSA>shared<maxAmmo>	50	</maxAmmo><armor><armor_1>	16	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	10	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	7	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><shotDispersionRadius>0.4</shotDispersionRadius><reloadTime>2.85714285714286</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.28571428571429</aimingTime><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><models><undamaged>vehicles/russian/R84_Tetrarch_LL/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R84_Tetrarch_LL/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R84_Tetrarch_LL/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R84_Tetrarch_LL/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R84_Tetrarch_LL/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000024 -0.0185136 0.810516</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000024 -0.0185136 0.810516</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.140343 0.140342	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>1.4 0.5 0.000000 0.000000</tiling><density>199.466 199.932</density><aoTextureSize>512 256</aoTextureSize></camouflage></_2pdr_QFSA>
       </guns>
       <models>
         <undamaged>vehicles/russian/R84_Tetrarch_LL/normal/lod0/Turret_01.model</undamaged>
@@ -457,6 +459,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>2.2 1.1 0.1 2.1</tiling>
+        <density>101.416 101.453</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </Turret_1_Tetrarch_LL>
   </turrets0>

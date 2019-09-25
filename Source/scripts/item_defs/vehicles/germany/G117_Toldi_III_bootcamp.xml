@@ -92,6 +92,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>4 4 0.000000 0.000000</tiling>
+      <density>123.823 123.766</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -821,7 +823,7 @@
   <turrets0>
     <Turret_1_G117_Toldi_III_bootcamp>
       <guns>
-        <_40mm_37_42_M_L45_A_bootcamp>shared<maxAmmo>	87	</maxAmmo><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><armor><armor_1>	35	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	35	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	13	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><turretYawLimits>-180 180</turretYawLimits><invisibilityFactorAtShot>0.285</invisibilityFactorAtShot><shotDispersionRadius>0.43</shotDispersionRadius><reloadTime>	4	</reloadTime><shotDispersionFactors><turretRotation>0.14</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.1</aimingTime><models><undamaged>vehicles/german/G117_Toldi_III/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G117_Toldi_III/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G117_Toldi_III/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G117_Toldi_III/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G117_Toldi_III/collision_client/Gun_01.model</collisionModelClient></hitTester><effects>shot_medium_mb</effects><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.865 0.55 0.000000 0.000000</tiling></camouflage></_40mm_37_42_M_L45_A_bootcamp>
+        <_40mm_37_42_M_L45_A_bootcamp>shared<maxAmmo>	87	</maxAmmo><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><armor><armor_1>	35	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	35	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	13	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><turretYawLimits>-180 180</turretYawLimits><invisibilityFactorAtShot>0.285</invisibilityFactorAtShot><shotDispersionRadius>0.43</shotDispersionRadius><reloadTime>	4	</reloadTime><shotDispersionFactors><turretRotation>0.14</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.1</aimingTime><models><undamaged>vehicles/german/G117_Toldi_III/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G117_Toldi_III/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G117_Toldi_III/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G117_Toldi_III/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G117_Toldi_III/collision_client/Gun_01.model</collisionModelClient></hitTester><effects>shot_medium_mb</effects><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.865 0.55 0.000000 0.000000</tiling><density>220.662 230.939</density><aoTextureSize>512 256</aoTextureSize></camouflage></_40mm_37_42_M_L45_A_bootcamp>
       </guns>
       <userString>#germany_vehicles:Turret_1_G117_Toldi_III</userString>
       <tags>
@@ -904,6 +906,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>2.8 1.66 0.000000 0.000000</tiling>
+        <density>91.7416 91.7243</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </Turret_1_G117_Toldi_III_bootcamp>
   </turrets0>

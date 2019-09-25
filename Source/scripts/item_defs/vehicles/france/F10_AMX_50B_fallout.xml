@@ -103,6 +103,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>2.08 2.08 0.17 0.22</tiling>
+      <density>98.6006 98.3526</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -838,7 +840,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_120mm_SA_46_fallout>shared<pitchLimits><minPitch>0 -11 0.222222 -11 0.285884 -12 0.714116 -12 0.777778 -11 1 -11</minPitch><maxPitch>0 8 1 8</maxPitch></pitchLimits><maxAmmo>	56	</maxAmmo><armor><armor_1>	100	</armor_1><armor_2>	80	</armor_2><armor_3>	50	</armor_3><armor_4>	20	</armor_4><armor_5>	80	</armor_5><armor_6>	30	</armor_6><armor_7>	20	</armor_7><armor_8>	10	</armor_8><armor_9>	0	</armor_9><armor_10>	100	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_10><armor_11>	80	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_11><armor_12>	100	</armor_12><armor_13>	80	</armor_13><armor_16>	20	</armor_16><gun>	50	</gun></armor><shotDispersionRadius>0.35</shotDispersionRadius><reloadTime>	30	</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.5</aimingTime><invisibilityFactorAtShot>0.14</invisibilityFactorAtShot><clip><count>	4	</count><rate>	24	</rate></clip><models><undamaged>vehicles/french/F10_AMX_50B/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/french/F10_AMX_50B/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/french/F10_AMX_50B/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F10_AMX_50B/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/french/F10_AMX_50B/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000000 0.00596483 6.04013</rayStart><rayEnd>0.108286 -0.065341 6.03705</rayEnd><rayUp>0.103 0.098 3</rayUp><size>0.874</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>3.04 1.06 0.88 0.000000</tiling></camouflage></_120mm_SA_46_fallout>
+        <_120mm_SA_46_fallout>shared<pitchLimits><minPitch>0 -11 0.222222 -11 0.285884 -12 0.714116 -12 0.777778 -11 1 -11</minPitch><maxPitch>0 8 1 8</maxPitch></pitchLimits><maxAmmo>	56	</maxAmmo><armor><armor_1>	100	</armor_1><armor_2>	80	</armor_2><armor_3>	50	</armor_3><armor_4>	20	</armor_4><armor_5>	80	</armor_5><armor_6>	30	</armor_6><armor_7>	20	</armor_7><armor_8>	10	</armor_8><armor_9>	0	</armor_9><armor_10>	100	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_10><armor_11>	80	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_11><armor_12>	100	</armor_12><armor_13>	80	</armor_13><armor_16>	20	</armor_16><gun>	50	</gun></armor><shotDispersionRadius>0.35</shotDispersionRadius><reloadTime>	30	</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.5</aimingTime><invisibilityFactorAtShot>0.14</invisibilityFactorAtShot><clip><count>	4	</count><rate>	24	</rate></clip><models><undamaged>vehicles/french/F10_AMX_50B/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/french/F10_AMX_50B/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/french/F10_AMX_50B/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F10_AMX_50B/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/french/F10_AMX_50B/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000000 0.00596483 6.04013</rayStart><rayEnd>0.108286 -0.065341 6.03705</rayEnd><rayUp>0.103 0.098 3</rayUp><size>0.874</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>3.04 1.06 0.88 0.000000</tiling><density>92.7851 93.3603</density><aoTextureSize>1024 512</aoTextureSize></camouflage></_120mm_SA_46_fallout>
       </guns>
       <models>
         <undamaged>vehicles/french/F10_AMX_50B/normal/lod0/Turret_01.model</undamaged>
@@ -894,6 +896,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.97 0.49 0.000000 0.000000</tiling>
+        <density>96.7089 96.7128</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </Turret_1_AMX_50_68t_fallout>
   </turrets0>

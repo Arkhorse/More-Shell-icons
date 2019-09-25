@@ -102,6 +102,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>4 4 0.000000 0.000000</tiling>
+      <density>107.868 107.896</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -803,7 +805,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_37mm_APX_SA18_bot>shared<pitchLimits><minPitch>0 -35 1 -35</minPitch><maxPitch>0 6 0.40856 6 0.472222 0 0.527778 0 0.59144 6 1 6</maxPitch></pitchLimits><armor><armor_1>	16	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	8	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	10	</gun></armor><shotDispersionRadius>0.54</shotDispersionRadius><reloadTime>2.5</reloadTime><aimingTime>2.5</aimingTime><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><models><undamaged>vehicles/french/F01_RenaultFT/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/french/F01_RenaultFT/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/french/F01_RenaultFT/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F01_RenaultFT/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/french/F01_RenaultFT/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.8 0.8 0.000000 0.000000</tiling></camouflage></_37mm_APX_SA18_bot>
+        <_37mm_APX_SA18_bot>shared<pitchLimits><minPitch>0 -35 1 -35</minPitch><maxPitch>0 6 0.40856 6 0.472222 0 0.527778 0 0.59144 6 1 6</maxPitch></pitchLimits><armor><armor_1>	16	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	8	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	10	</gun></armor><shotDispersionRadius>0.54</shotDispersionRadius><reloadTime>2.5</reloadTime><aimingTime>2.5</aimingTime><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><models><undamaged>vehicles/french/F01_RenaultFT/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/french/F01_RenaultFT/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/french/F01_RenaultFT/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F01_RenaultFT/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/french/F01_RenaultFT/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.8 0.8 0.000000 0.000000</tiling><density>140.052 139.325</density><aoTextureSize>256 256</aoTextureSize></camouflage></_37mm_APX_SA18_bot>
       </guns>
       <models>
         <undamaged>vehicles/french/F01_RenaultFT/normal/lod0/Turret_01.model</undamaged>
@@ -848,6 +850,10 @@
           <isUVProportional>	true	</isUVProportional>
         </slot>
       </customizationSlots>
+      <camouflage>
+        <density>104.618 104.818</density>
+        <aoTextureSize>256 256</aoTextureSize>
+      </camouflage>
     </Turret_1_RenaultFT_bot>
   </turrets0>
   <engines>

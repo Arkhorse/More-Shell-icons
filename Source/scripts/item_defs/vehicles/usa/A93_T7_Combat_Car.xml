@@ -105,6 +105,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.5 1.5 0.000000 0.000000</tiling>
+      <density>114.21 114.819</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -880,7 +882,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_12.7mm_MG_HB_M2_A>shared<maxAmmo>	1350	</maxAmmo><reloadTime>	24	</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>1.1</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><armor><gun>	10	</gun></armor><shotDispersionRadius>0.53</shotDispersionRadius><aimingTime>1.7</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -40 1 -40</minPitch><maxPitch>0 15 0.333333 15 0.347222 4 0.45 4 0.463889 12 0.536111 12 0.55 4 0.652778 4 0.666667 15 1 15</maxPitch></pitchLimits><clip><count>	50	</count><rate>	550	</rate></clip><models><undamaged>vehicles/american/A93_T7_Combat_Car/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A93_T7_Combat_Car/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A93_T7_Combat_Car/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A93_T7_Combat_Car/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A93_T7_Combat_Car/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization></_12.7mm_MG_HB_M2_A>
+        <_12.7mm_MG_HB_M2_A>shared<maxAmmo>	1350	</maxAmmo><reloadTime>	24	</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>1.1</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><armor><gun>	10	</gun></armor><shotDispersionRadius>0.53</shotDispersionRadius><aimingTime>1.7</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -40 1 -40</minPitch><maxPitch>0 15 0.333333 15 0.347222 4 0.45 4 0.463889 12 0.536111 12 0.55 4 0.652778 4 0.666667 15 1 15</maxPitch></pitchLimits><clip><count>	50	</count><rate>	550	</rate></clip><models><undamaged>vehicles/american/A93_T7_Combat_Car/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A93_T7_Combat_Car/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A93_T7_Combat_Car/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A93_T7_Combat_Car/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A93_T7_Combat_Car/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization><camouflage><density>25.0 25.0</density><aoTextureSize>256 128</aoTextureSize></camouflage></_12.7mm_MG_HB_M2_A>
       </guns>
       <models>
         <undamaged>vehicles/american/A93_T7_Combat_Car/normal/lod0/Turret_01.model</undamaged>
@@ -948,6 +950,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>1.2 0.6 0.51 0.98</tiling>
+        <density>86.2855 86.6357</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </Turret_1_T7_Combat_Car>
   </turrets0>

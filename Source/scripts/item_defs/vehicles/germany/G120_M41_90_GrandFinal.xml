@@ -112,6 +112,8 @@
     </customization>
     <camouflage>
       <tiling>1.96 1.96 0.000000 0.000000</tiling>
+      <density>121.091 119.86</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -818,7 +820,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_90_76mm_US_Kanone_M_32>shared<maxAmmo>	46	</maxAmmo><armor><armor_1>31.8<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>31.8<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>25.4<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	35	</gun></armor><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -17 1 -17</minPitch><maxPitch>0 8 1 8</maxPitch></pitchLimits><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><reloadTime>6.6</reloadTime><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.8</aimingTime><shotDispersionRadius>0.38</shotDispersionRadius><models><undamaged>vehicles/german/G120_M41_90_GrandFinal/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G120_M41_90_GrandFinal/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G120_M41_90_GrandFinal/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G120_M41_90/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G120_M41_90/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 0.0051645 2.79221</rayStart><rayEnd>0.0206174 -0.0217366 2.79132</rayEnd><rayUp>0.072 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.32</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.595 0.595 0.000000 0.000000</tiling></camouflage></_90_76mm_US_Kanone_M_32>
+        <_90_76mm_US_Kanone_M_32>shared<maxAmmo>	46	</maxAmmo><armor><armor_1>31.8<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>31.8<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>25.4<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	35	</gun></armor><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -17 1 -17</minPitch><maxPitch>0 8 1 8</maxPitch></pitchLimits><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><reloadTime>6.6</reloadTime><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.8</aimingTime><shotDispersionRadius>0.38</shotDispersionRadius><models><undamaged>vehicles/german/G120_M41_90_GrandFinal/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G120_M41_90_GrandFinal/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G120_M41_90_GrandFinal/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G120_M41_90/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G120_M41_90/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 0.0051645 2.79221</rayStart><rayEnd>0.0206174 -0.0217366 2.79132</rayEnd><rayUp>0.072 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.32</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.595 0.595 0.000000 0.000000</tiling><density>201.677 202.966</density><aoTextureSize>512 512</aoTextureSize></camouflage></_90_76mm_US_Kanone_M_32>
       </guns>
       <models>
         <undamaged>vehicles/german/G120_M41_90_GrandFinal/normal/lod0/Turret_01.model</undamaged>
@@ -878,6 +880,8 @@
       </customization>
       <camouflage>
         <tiling>1.48 1.48 0.000000 0.000000</tiling>
+        <density>90.2993 90.861</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </Turret_1_G120_M41_90_GrandFinal>
   </turrets0>

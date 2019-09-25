@@ -148,6 +148,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.2 1.2 0.000000 0.000000</tiling>
+      <density>98.4175 98.5678</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -1046,7 +1048,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_76mm_F-34S_A_bootcamp>shared<maxAmmo>	98	</maxAmmo><armor><armor_1>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	200	</gun></armor><turretYawLimits>-10 10</turretYawLimits><shotDispersionRadius>0.44</shotDispersionRadius><reloadTime>4.3</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.1</aimingTime><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 5 1 5</maxPitch></pitchLimits><invisibilityFactorAtShot>0.364</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R50_SU76I/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R50_SU76I/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R50_SU76I/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R50_SU76I/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R50_SU76I/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.3 0.3 0.000000 0.000000</tiling></camouflage></_76mm_F-34S_A_bootcamp>
+        <_76mm_F-34S_A_bootcamp>shared<maxAmmo>	98	</maxAmmo><armor><armor_1>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	200	</gun></armor><turretYawLimits>-10 10</turretYawLimits><shotDispersionRadius>0.44</shotDispersionRadius><reloadTime>4.3</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.1</aimingTime><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 5 1 5</maxPitch></pitchLimits><invisibilityFactorAtShot>0.364</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R50_SU76I/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R50_SU76I/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R50_SU76I/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R50_SU76I/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R50_SU76I/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.3 0.3 0.000000 0.000000</tiling><density>121.202 120.61</density><aoTextureSize>256 256</aoTextureSize></camouflage></_76mm_F-34S_A_bootcamp>
       </guns>
       <models>
         <undamaged>vehicles/russian/R50_SU76I/normal/lod0/Turret_01.model</undamaged>

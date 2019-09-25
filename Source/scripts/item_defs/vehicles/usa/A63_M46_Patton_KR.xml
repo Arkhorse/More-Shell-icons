@@ -99,6 +99,10 @@
         </camouflage>
       </customizableVehicleAreas>
     </customization>
+    <camouflage>
+      <density>99.844 100.967</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Chassis_M46_Patton_KR>
@@ -1029,7 +1033,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_90mm_Gun_M3A1>shared<maxAmmo>	70	</maxAmmo><reloadTime>8.1</reloadTime><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 0.339116 10 0.402778 6 0.597222 6 0.660884 10 1 10</maxPitch></pitchLimits><armor><armor_1>203.2<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_3>114.3<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>114.3<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><gun>	35	</gun></armor><shotDispersionRadius>0.38</shotDispersionRadius><aimingTime>2.5</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><turretYawLimits>-180 180</turretYawLimits><models><undamaged>vehicles/american/A63_M46_Patton_KR/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A63_M46_Patton_KR/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A63_M46_Patton_KR/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A63_M46_Patton_KR/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A63_M46_Patton_KR/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.00422264 0.0036233 1.85853</rayStart><rayEnd>-0.000779636 0.000475718 1.8583</rayEnd><rayUp>0.074 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.5</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization></_90mm_Gun_M3A1>
+        <_90mm_Gun_M3A1>shared<maxAmmo>	70	</maxAmmo><reloadTime>8.1</reloadTime><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 0.339116 10 0.402778 6 0.597222 6 0.660884 10 1 10</maxPitch></pitchLimits><armor><armor_1>203.2<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_3>114.3<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>114.3<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><gun>	35	</gun></armor><shotDispersionRadius>0.38</shotDispersionRadius><aimingTime>2.5</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><turretYawLimits>-180 180</turretYawLimits><models><undamaged>vehicles/american/A63_M46_Patton_KR/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A63_M46_Patton_KR/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A63_M46_Patton_KR/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A63_M46_Patton_KR/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A63_M46_Patton_KR/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.00422264 0.0036233 1.85853</rayStart><rayEnd>-0.000779636 0.000475718 1.8583</rayEnd><rayUp>0.074 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.5</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization><camouflage><density>106.622 109.928</density><aoTextureSize>512 512</aoTextureSize></camouflage></_90mm_Gun_M3A1>
       </guns>
       <models>
         <undamaged>vehicles/american/A63_M46_Patton_KR/normal/lod0/Turret_01.model</undamaged>
@@ -1052,6 +1056,10 @@
           </camouflage>
         </customizableVehicleAreas>
       </customization>
+      <camouflage>
+        <density>91.3639 91.4863</density>
+        <aoTextureSize>512 512</aoTextureSize>
+      </camouflage>
     </Turret_1_M46_Patton_KR>
   </turrets0>
   <engines>

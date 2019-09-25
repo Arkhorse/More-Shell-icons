@@ -1055,6 +1055,10 @@
         <camouflage>	HULL	</camouflage>
       </customizableVehicleAreas>
     </customization>
+    <camouflage>
+      <density>68.4778 69.156</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Chassis_GB48_FV215b_183>
@@ -2017,7 +2021,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_183mm_L4>shared<maxAmmo>	20	</maxAmmo><armor><gun>	80	</gun></armor><shotDispersionRadius>0.4</shotDispersionRadius><reloadTime>	30	</reloadTime><shotDispersionFactors><turretRotation>0.4</turretRotation><afterShot>	6	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>3.4</aimingTime><invisibilityFactorAtShot>0.114</invisibilityFactorAtShot><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 5 1 5</maxPitch></pitchLimits><turretYawLimits>-45 45</turretYawLimits><models><undamaged>vehicles/british/GB48_FV215b_183/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/british/GB48_FV215b_183/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/british/GB48_FV215b_183/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB48_FV215b_183/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/british/GB48_FV215b_183/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000004 -0.0043308 2.76436</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.000000 0.206491 0.20649</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000004 -0.0043308 2.76436</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000009 -0.00909798 3.8935</rayStart><rayEnd>-0.0799163 -0.00456279 3.8935</rayEnd><rayUp>0.124 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.64</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.2 0.2 0.000000 0.000000</tiling></camouflage></_183mm_L4>
+        <_183mm_L4>shared<maxAmmo>	20	</maxAmmo><armor><gun>	80	</gun></armor><shotDispersionRadius>0.4</shotDispersionRadius><reloadTime>	30	</reloadTime><shotDispersionFactors><turretRotation>0.4</turretRotation><afterShot>	6	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>3.4</aimingTime><invisibilityFactorAtShot>0.114</invisibilityFactorAtShot><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 5 1 5</maxPitch></pitchLimits><turretYawLimits>-45 45</turretYawLimits><models><undamaged>vehicles/british/GB48_FV215b_183/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/british/GB48_FV215b_183/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/british/GB48_FV215b_183/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB48_FV215b_183/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/british/GB48_FV215b_183/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000004 -0.0043308 2.76436</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.000000 0.206491 0.20649</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000004 -0.0043308 2.76436</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000009 -0.00909798 3.8935</rayStart><rayEnd>-0.0799163 -0.00456279 3.8935</rayEnd><rayUp>0.124 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.64</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.2 0.2 0.000000 0.000000</tiling><density>86.5531 93.773</density><aoTextureSize>256 256</aoTextureSize></camouflage></_183mm_L4>
       </guns>
       <models>
         <undamaged>vehicles/british/GB48_FV215b_183/normal/lod0/Turret_01.model</undamaged>
@@ -2446,6 +2450,8 @@
       </customization>
       <camouflage>
         <tiling>0.67 0.67 0.39 0.31</tiling>
+        <density>57.5563 57.6297</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </Turret_1_GB48_FV215b_183>
   </turrets0>

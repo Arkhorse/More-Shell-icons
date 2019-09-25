@@ -103,6 +103,10 @@
         <isUVProportional>	true	</isUVProportional>
       </slot>
     </customizationSlots>
+    <camouflage>
+      <density>101.88 101.881</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Chassis_KV2_2_IGR>
@@ -801,7 +805,7 @@
       </surveyingDeviceHealth>
       <invisibilityFactor>1.365</invisibilityFactor>
       <guns>
-        <_152mm_M-10_IGR>shared<maxAmmo>	36	</maxAmmo><armor><armor_1>	110	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	60	</gun></armor><shotDispersionRadius>0.6</shotDispersionRadius><reloadTime>	24	</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>	5	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><pitchLimits><minPitch>0 -12 1 -12</minPitch><maxPitch>0 7 1 7</maxPitch></pitchLimits><invisibilityFactorAtShot>0.15</invisibilityFactorAtShot><turretYawLimits>-180 180</turretYawLimits><models><undamaged>vehicles/russian/R77_KV2/normal/lod0/Gun_05.model</undamaged><destroyed>vehicles/russian/R77_KV2/crash/lod0/Gun_05.model</destroyed><exploded>vehicles/russian/R77_KV2/crash/lod0/Gun_05.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R77_KV2/collision/Gun_05.model</collisionModelServer><collisionModelClient>vehicles/russian/R77_KV2/collision_client/Gun_05.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000322737 0.0443629 1.38464</rayStart><rayEnd>-0.0678126 0.0869122 1.38464</rayEnd><rayUp>0.119 0.119 5</rayUp><size>0.618</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.6 0.6 0.000000 0.000000</tiling></camouflage></_152mm_M-10_IGR>
+        <_152mm_M-10_IGR>shared<maxAmmo>	36	</maxAmmo><armor><armor_1>	110	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	60	</gun></armor><shotDispersionRadius>0.6</shotDispersionRadius><reloadTime>	24	</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>	5	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><pitchLimits><minPitch>0 -12 1 -12</minPitch><maxPitch>0 7 1 7</maxPitch></pitchLimits><invisibilityFactorAtShot>0.15</invisibilityFactorAtShot><turretYawLimits>-180 180</turretYawLimits><models><undamaged>vehicles/russian/R77_KV2/normal/lod0/Gun_05.model</undamaged><destroyed>vehicles/russian/R77_KV2/crash/lod0/Gun_05.model</destroyed><exploded>vehicles/russian/R77_KV2/crash/lod0/Gun_05.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R77_KV2/collision/Gun_05.model</collisionModelServer><collisionModelClient>vehicles/russian/R77_KV2/collision_client/Gun_05.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000322737 0.0443629 1.38464</rayStart><rayEnd>-0.0678126 0.0869122 1.38464</rayEnd><rayUp>0.119 0.119 5</rayUp><size>0.618</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.6 0.6 0.000000 0.000000</tiling><density>103.957 104.332</density><aoTextureSize>512 512</aoTextureSize></camouflage></_152mm_M-10_IGR>
       </guns>
       <models>
         <undamaged>vehicles/russian/R77_KV2/normal/lod0/Turret_02.model</undamaged>
@@ -867,6 +871,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.6 0.6 0.000000 0.000000</tiling>
+        <density>99.0744 98.8359</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </Turret_2_KV2_IGR>
   </turrets0>

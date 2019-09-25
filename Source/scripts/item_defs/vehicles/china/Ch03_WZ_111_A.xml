@@ -99,6 +99,8 @@
     </customization>
     <camouflage>
       <tiling>1.72 1.72 0.000000 0.000000</tiling>
+      <density>90.645 90.5604</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -995,7 +997,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_122-mm_D25-TA>shared<maxAmmo>	45	</maxAmmo><armor><armor_1>	250	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	250	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	150	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_9>	250	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_9><gun>	45	</gun></armor><shotDispersionRadius>0.42</shotDispersionRadius><reloadTime>12.5</reloadTime><shotDispersionFactors><turretRotation>0.12</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.8</aimingTime><pitchLimits><minPitch>0 -23 1 -23</minPitch><maxPitch>0 5 0.366894 5 0.430556 3 0.569444 3 0.633106 5 1 5</maxPitch></pitchLimits><invisibilityFactorAtShot>0.19</invisibilityFactorAtShot><models><undamaged>vehicles/chinese/Ch03_WZ_111_A/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/chinese/Ch03_WZ_111_A/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/chinese/Ch03_WZ_111_A/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/chinese/Ch03_WZ_111_A/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/chinese/Ch03_WZ_111_A/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 0.001 1.398</rayStart><rayEnd>0.00437656 0.0038909 1.37506</rayEnd><rayUp>0.108 0.108 5</rayUp><size>0.6</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization><camouflage><tiling>1.18 1.18 0.000000 0.000000</tiling></camouflage></_122-mm_D25-TA>
+        <_122-mm_D25-TA>shared<maxAmmo>	45	</maxAmmo><armor><armor_1>	250	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	250	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	150	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_9>	250	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_9><gun>	45	</gun></armor><shotDispersionRadius>0.42</shotDispersionRadius><reloadTime>12.5</reloadTime><shotDispersionFactors><turretRotation>0.12</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.8</aimingTime><pitchLimits><minPitch>0 -23 1 -23</minPitch><maxPitch>0 5 0.366894 5 0.430556 3 0.569444 3 0.633106 5 1 5</maxPitch></pitchLimits><invisibilityFactorAtShot>0.19</invisibilityFactorAtShot><models><undamaged>vehicles/chinese/Ch03_WZ_111_A/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/chinese/Ch03_WZ_111_A/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/chinese/Ch03_WZ_111_A/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/chinese/Ch03_WZ_111_A/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/chinese/Ch03_WZ_111_A/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 0.001 1.398</rayStart><rayEnd>0.00437656 0.0038909 1.37506</rayEnd><rayUp>0.108 0.108 5</rayUp><size>0.6</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization><camouflage><tiling>1.18 1.18 0.000000 0.000000</tiling><density>100.473 97.3757</density><aoTextureSize>512 512</aoTextureSize></camouflage></_122-mm_D25-TA>
       </guns>
       <models>
         <undamaged>vehicles/chinese/Ch03_WZ_111_A/normal/lod0/Turret_01.model</undamaged>
@@ -1018,6 +1020,10 @@
           </camouflage>
         </customizableVehicleAreas>
       </customization>
+      <camouflage>
+        <density>91.1344 90.9301</density>
+        <aoTextureSize>512 512</aoTextureSize>
+      </camouflage>
     </Turret_1_Ch03_WZ_111_A>
   </turrets0>
   <engines>

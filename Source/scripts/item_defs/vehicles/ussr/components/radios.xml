@@ -41,6 +41,7 @@
     <_71-TK-1_bot>	209	</_71-TK-1_bot>
     <R123_fallout>	208	</R123_fallout>
     <R113_FL>	210	</R113_FL>
+    <_71-TK-3_race>	211	</_71-TK-3_race>
     <_10RK_IGR>	60001	</_10RK_IGR>
     <_12RT_IGR>	60002	</_12RT_IGR>
     <R113_IGR>	60003	</R113_IGR>
@@ -627,6 +628,20 @@
       <maxRegenHealth>	125	</maxRegenHealth>
       <repairCost>1.5</repairCost>
     </Tip_9>
+    <_71-TK-3_race>
+      <userString>#ussr_vehicles:_71-TK-3_race</userString>
+      <tags>
+      </tags>
+      <level>	3	</level>
+      <price>	570	</price>
+      <notInShop>	true	</notInShop>
+      <weight>	100	</weight>
+      <distance>	300	</distance>
+      <maxHealth>	100	</maxHealth>
+      <maxRegenHealth>	49	</maxRegenHealth>
+      <invulnerable>	true	</invulnerable>
+      <repairCost>0.5</repairCost>
+    </_71-TK-3_race>
     <_10RK_IGR>
       <userString>#igr_vehicles:_10RK_IGR</userString>
       <tags>

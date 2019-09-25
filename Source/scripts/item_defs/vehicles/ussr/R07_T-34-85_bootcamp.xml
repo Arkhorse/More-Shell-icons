@@ -98,6 +98,10 @@
         <isUVProportional>	true	</isUVProportional>
       </slot>
     </customizationSlots>
+    <camouflage>
+      <density>102.101 103.829</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <T-34-85_bootcamp>
@@ -883,7 +887,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_76mm_S-54_bootcamp>shared<maxAmmo>	68	</maxAmmo><armor><armor_1>	45	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	90	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_4>	90	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	45	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><gun>	20	</gun></armor><shotDispersionRadius>0.41</shotDispersionRadius><reloadTime>4.1</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.9</aimingTime><pitchLimits><minPitch>0 -22 1 -22</minPitch><maxPitch>0 7 1 7</maxPitch></pitchLimits><invisibilityFactorAtShot>0.247</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R07_T-34-85/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R07_T-34-85/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R07_T-34-85/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R07_T-34-85/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R07_T-34-85/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.0539757 0.0351405 1.13472</rayStart><rayEnd>0.0442409 -0.0328469 1.13353</rayEnd><rayUp>0.073 0.07 5</rayUp><size>0.46</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.535 0.535 0.000000 0.000000</tiling></camouflage></_76mm_S-54_bootcamp>
+        <_76mm_S-54_bootcamp>shared<maxAmmo>	68	</maxAmmo><armor><armor_1>	45	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	90	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_4>	90	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	45	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><gun>	20	</gun></armor><shotDispersionRadius>0.41</shotDispersionRadius><reloadTime>4.1</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.9</aimingTime><pitchLimits><minPitch>0 -22 1 -22</minPitch><maxPitch>0 7 1 7</maxPitch></pitchLimits><invisibilityFactorAtShot>0.247</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R07_T-34-85/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R07_T-34-85/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R07_T-34-85/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R07_T-34-85/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R07_T-34-85/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.0539757 0.0351405 1.13472</rayStart><rayEnd>0.0442409 -0.0328469 1.13353</rayEnd><rayUp>0.073 0.07 5</rayUp><size>0.46</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.535 0.535 0.000000 0.000000</tiling><density>130.988 143.645</density><aoTextureSize>512 512</aoTextureSize></camouflage></_76mm_S-54_bootcamp>
       </guns>
       <models>
         <undamaged>vehicles/russian/R07_T-34-85/normal/lod0/Turret_01.model</undamaged>
@@ -949,6 +953,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.565 0.565 0.000000 0.000000</tiling>
+        <density>109.782 109.977</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </T-34-85_bootcamp>
   </turrets0>

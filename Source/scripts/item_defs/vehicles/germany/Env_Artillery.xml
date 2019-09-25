@@ -143,6 +143,8 @@
     <camouflage>
       <exclusionMask>
       </exclusionMask>
+      <density>83.3006 83.2356</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -443,7 +445,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <Gun_Env_Artillery>shared<reloadTime>31.3</reloadTime><armor><gun>	25	</gun><gunBreech>	0	</gunBreech></armor><aimingTime>7.0</aimingTime><pitchLimits><minPitch>0 -42 1 -42</minPitch><maxPitch>0 3 1 3</maxPitch></pitchLimits><shotDispersionRadius>0.76</shotDispersionRadius><invisibilityFactorAtShot>0.143</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.48</turretRotation><afterShot>6.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><turretYawLimits>-15 15</turretYawLimits><hitTester><collisionModelServer>vehicles/german/G02_Hummel/collision/Gun_03.model</collisionModelServer><collisionModelClient>vehicles/german/G02_Hummel/collision_client/Gun_03.model</collisionModelClient></hitTester><models><undamaged>vehicles/german/G02_Hummel/normal/lod0/Gun_03.model</undamaged><destroyed>vehicles/german/G02_Hummel/crash/lod0/Gun_03.model</destroyed><exploded>vehicles/german/G02_Hummel/crash/lod0/Gun_03.model</exploded></models><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000590633 -0.0210966 3.70241</rayStart><rayEnd>-0.00767752 -0.0831617 3.70032</rayEnd><rayUp>0.11 0.106 4</rayUp><size>0.356</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.805 0.805 0.000000 0.000000</tiling><exclusionMask></exclusionMask></camouflage></Gun_Env_Artillery>
+        <Gun_Env_Artillery>shared<reloadTime>31.3</reloadTime><armor><gun>	25	</gun><gunBreech>	0	</gunBreech></armor><aimingTime>7.0</aimingTime><pitchLimits><minPitch>0 -42 1 -42</minPitch><maxPitch>0 3 1 3</maxPitch></pitchLimits><shotDispersionRadius>0.76</shotDispersionRadius><invisibilityFactorAtShot>0.143</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.48</turretRotation><afterShot>6.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><turretYawLimits>-15 15</turretYawLimits><hitTester><collisionModelServer>vehicles/german/G02_Hummel/collision/Gun_03.model</collisionModelServer><collisionModelClient>vehicles/german/G02_Hummel/collision_client/Gun_03.model</collisionModelClient></hitTester><models><undamaged>vehicles/german/G02_Hummel/normal/lod0/Gun_03.model</undamaged><destroyed>vehicles/german/G02_Hummel/crash/lod0/Gun_03.model</destroyed><exploded>vehicles/german/G02_Hummel/crash/lod0/Gun_03.model</exploded></models><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000590633 -0.0210966 3.70241</rayStart><rayEnd>-0.00767752 -0.0831617 3.70032</rayEnd><rayUp>0.11 0.106 4</rayUp><size>0.356</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.805 0.805 0.000000 0.000000</tiling><exclusionMask></exclusionMask><density>102.54 106.71</density><aoTextureSize>1024 512</aoTextureSize></camouflage></Gun_Env_Artillery>
       </guns>
       <models>
         <undamaged>vehicles/german/G02_Hummel/normal/lod0/Turret_02.model</undamaged>
@@ -465,6 +467,10 @@
           <camouflage>TURRET</camouflage>
         </customizableVehicleAreas>
       </customization>
+      <camouflage>
+        <density>87.7833 87.9928</density>
+        <aoTextureSize>1024 512</aoTextureSize>
+      </camouflage>
     </Turret_1_Env_Artillery>
   </turrets0>
   <engines>

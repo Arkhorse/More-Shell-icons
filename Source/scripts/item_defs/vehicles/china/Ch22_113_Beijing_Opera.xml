@@ -96,6 +96,10 @@
         <isUVProportional>	true	</isUVProportional>
       </slot>
     </customizationSlots>
+    <camouflage>
+      <density>98.3864 98.7702</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Chassis_Ch22_113_Beijing_Opera>
@@ -945,7 +949,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_122-mm_60-122TP>shared<maxAmmo>	34	</maxAmmo><armor><armor_1>	240	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	240	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	150	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	45	</gun></armor><shotDispersionRadius>0.37</shotDispersionRadius><reloadTime>	10	</reloadTime><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.8</aimingTime><pitchLimits><minPitch>0 -18 1 -18</minPitch><maxPitch>0 5 0.0972222 5 0.111111 7 0.388889 7 0.444444 1 0.555556 1 0.611111 7 0.888889 7 0.902778 5 1 5</maxPitch></pitchLimits><invisibilityFactorAtShot>0.18</invisibilityFactorAtShot><models><undamaged>vehicles/chinese/Ch22_113_Beijing_Opera/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/chinese/Ch22_113_Beijing_Opera/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/chinese/Ch22_113_Beijing_Opera/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/chinese/Ch22_113_Beijing_Opera/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/chinese/Ch22_113_Beijing_Opera/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000007 0.000289122 1.38561</rayStart><rayEnd>-0.0533893 0.0459478 1.38555</rayEnd><rayUp>0.14 0.14 5</rayUp><size>0.694</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots></_122-mm_60-122TP>
+        <_122-mm_60-122TP>shared<maxAmmo>	34	</maxAmmo><armor><armor_1>	240	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	240	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	150	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	45	</gun></armor><shotDispersionRadius>0.37</shotDispersionRadius><reloadTime>	10	</reloadTime><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.8</aimingTime><pitchLimits><minPitch>0 -18 1 -18</minPitch><maxPitch>0 5 0.0972222 5 0.111111 7 0.388889 7 0.444444 1 0.555556 1 0.611111 7 0.888889 7 0.902778 5 1 5</maxPitch></pitchLimits><invisibilityFactorAtShot>0.18</invisibilityFactorAtShot><models><undamaged>vehicles/chinese/Ch22_113_Beijing_Opera/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/chinese/Ch22_113_Beijing_Opera/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/chinese/Ch22_113_Beijing_Opera/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/chinese/Ch22_113_Beijing_Opera/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/chinese/Ch22_113_Beijing_Opera/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000007 0.000289122 1.38561</rayStart><rayEnd>-0.0533893 0.0459478 1.38555</rayEnd><rayUp>0.14 0.14 5</rayUp><size>0.694</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><density>121.507 122.972</density><aoTextureSize>512 256</aoTextureSize></camouflage></_122-mm_60-122TP>
       </guns>
       <models>
         <undamaged>vehicles/chinese/Ch22_113_Beijing_Opera/normal/lod0/Turret_01.model</undamaged>
@@ -968,6 +972,10 @@
           </camouflage>
         </customizableVehicleAreas>
       </customization>
+      <camouflage>
+        <density>90.6091 91.1892</density>
+        <aoTextureSize>512 512</aoTextureSize>
+      </camouflage>
     </Turret_1_Ch22_113_Beijing_Opera>
   </turrets0>
   <engines>

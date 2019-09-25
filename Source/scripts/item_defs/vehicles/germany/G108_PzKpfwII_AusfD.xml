@@ -126,6 +126,10 @@
         <anchorDirection>	0.000000 0.345691 -0.938348	</anchorDirection>
       </slot>
     </customizationSlots>
+    <camouflage>
+      <density>127.709 128.426</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Chassis_G108_PzKpfwII_AusfD>
@@ -911,7 +915,7 @@
         <repairCost>2.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_20mm_KwK_30A>shared<maxAmmo>	180	</maxAmmo><armor><armor_1>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><gun>	10	</gun></armor><shotDispersionRadius>0.57</shotDispersionRadius><reloadTime>4.2</reloadTime><aimingTime>1.4</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>1.2</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><clip><count>	10	</count><rate>	280	</rate></clip><burst><count>	2	</count><rate>	280	</rate></burst><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><turretYawLimits>-180 180</turretYawLimits><models><undamaged>vehicles/german/G108_PzKpfwII_AusfD/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G108_PzKpfwII_AusfD/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G108_PzKpfwII_AusfD/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G108_PzKpfwII_AusfD/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G108_PzKpfwII_AusfD/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.119818 -0.00376063 0.493798</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.119818 -0.00376063 0.493798</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.000000 0.0919523 0.0919523</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.000000 0.000000</tiling></camouflage></_20mm_KwK_30A>
+        <_20mm_KwK_30A>shared<maxAmmo>	180	</maxAmmo><armor><armor_1>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><gun>	10	</gun></armor><shotDispersionRadius>0.57</shotDispersionRadius><reloadTime>4.2</reloadTime><aimingTime>1.4</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>1.2</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><clip><count>	10	</count><rate>	280	</rate></clip><burst><count>	2	</count><rate>	280	</rate></burst><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><turretYawLimits>-180 180</turretYawLimits><models><undamaged>vehicles/german/G108_PzKpfwII_AusfD/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G108_PzKpfwII_AusfD/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G108_PzKpfwII_AusfD/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G108_PzKpfwII_AusfD/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G108_PzKpfwII_AusfD/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.119818 -0.00376063 0.493798</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.119818 -0.00376063 0.493798</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.000000 0.0919523 0.0919523</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.000000 0.000000</tiling><density>128.19 123.581</density><aoTextureSize>128 128</aoTextureSize></camouflage></_20mm_KwK_30A>
       </guns>
       <models>
         <undamaged>vehicles/german/G108_PzKpfwII_AusfD/normal/lod0/Turret_01.model</undamaged>
@@ -969,6 +973,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.25 0.25 0.000000 0.000000</tiling>
+        <density>216.579 214.865</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </Turret_1_G108_PzKpfwII_AusfD>
   </turrets0>

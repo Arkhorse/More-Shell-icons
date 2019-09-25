@@ -121,6 +121,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>0.67 0.67 0.000000 0.000000</tiling>
+      <density>123.909 117.236</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -1180,7 +1182,7 @@
       </surveyingDeviceHealth>
       <invisibilityFactor>0.976</invisibilityFactor>
       <guns>
-        <_76mm_Gun_M1A1_IGR>shared<maxAmmo>	90	</maxAmmo><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 12 1 12</maxPitch></pitchLimits><armor><armor_3>25.4<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_5>88.9<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>44.5<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><armor_8>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_8><gun>	20	</gun></armor><shotDispersionRadius>0.43</shotDispersionRadius><reloadTime>4.8</reloadTime><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.26</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.18</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><models><undamaged>vehicles/american/A05_M4_Sherman/normal/lod0/Gun_05.model</undamaged><destroyed>vehicles/american/A05_M4_Sherman/crash/lod0/Gun_05.model</destroyed><exploded>vehicles/american/A05_M4_Sherman/crash/lod0/Gun_05.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A05_M4_Sherman/collision/Gun_05.model</collisionModelServer><collisionModelClient>vehicles/american/A05_M4_Sherman/collision_client/Gun_05.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000001 0.0160978 1.8</rayStart><rayEnd>-0.24095 -0.0376926 1.80976</rayEnd><rayUp>0.073 0.068 4</rayUp><size>0.47</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.000000 0.000000</tiling></camouflage></_76mm_Gun_M1A1_IGR>
+        <_76mm_Gun_M1A1_IGR>shared<maxAmmo>	90	</maxAmmo><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 12 1 12</maxPitch></pitchLimits><armor><armor_3>25.4<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_5>88.9<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>44.5<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><armor_8>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_8><gun>	20	</gun></armor><shotDispersionRadius>0.43</shotDispersionRadius><reloadTime>4.8</reloadTime><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.26</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.18</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><models><undamaged>vehicles/american/A05_M4_Sherman/normal/lod0/Gun_05.model</undamaged><destroyed>vehicles/american/A05_M4_Sherman/crash/lod0/Gun_05.model</destroyed><exploded>vehicles/american/A05_M4_Sherman/crash/lod0/Gun_05.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A05_M4_Sherman/collision/Gun_05.model</collisionModelServer><collisionModelClient>vehicles/american/A05_M4_Sherman/collision_client/Gun_05.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000001 0.0160978 1.8</rayStart><rayEnd>-0.24095 -0.0376926 1.80976</rayEnd><rayUp>0.073 0.068 4</rayUp><size>0.47</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.000000 0.000000</tiling><density>110.308 123.631</density><aoTextureSize>512 512</aoTextureSize></camouflage></_76mm_Gun_M1A1_IGR>
       </guns>
       <models>
         <undamaged>vehicles/american/A05_M4_Sherman/normal/lod0/Turret_02.model</undamaged>
@@ -1227,6 +1229,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.31 0.31 0.000000 0.000000</tiling>
+        <density>125.06 122.96</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </D51072_IGR>
   </turrets0>

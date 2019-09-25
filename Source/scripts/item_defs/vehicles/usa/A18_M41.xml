@@ -153,6 +153,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>0.88 0.88 0.000000 0.000000</tiling>
+      <density>97.1132 97.6643</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -2179,7 +2181,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_155mm_Howitzer_M1>shared<reloadTime>	25	</reloadTime><maxAmmo>	22	</maxAmmo><pitchLimits><minPitch>0 -45 1 -45</minPitch><maxPitch>0 3.5 1 3.5</maxPitch></pitchLimits><armor><gun>	25	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.82</shotDispersionRadius><aimingTime>	7	</aimingTime><invisibilityFactorAtShot>0.15</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.5</turretRotation><afterShot>6.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><turretYawLimits>-20.5 17</turretYawLimits><models><undamaged>vehicles/american/A18_M41/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A18_M41/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A18_M41/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A18_M41/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A18_M41/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 0.00858583 2.36314</rayStart><rayEnd>0.0281009 -0.0259147 2.36314</rayEnd><rayUp>0.13 0.13 4</rayUp><size>0.6</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000000 0.00429292 1.54227</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000000 0.00429292 1.54227</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.0460614 0.36915 0.101122</anchorPosition><anchorDirection>	0.000000 0.705372 0.708837	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.64 0.64 0.000000 0.000000</tiling></camouflage></_155mm_Howitzer_M1>
+        <_155mm_Howitzer_M1>shared<reloadTime>	25	</reloadTime><maxAmmo>	22	</maxAmmo><pitchLimits><minPitch>0 -45 1 -45</minPitch><maxPitch>0 3.5 1 3.5</maxPitch></pitchLimits><armor><gun>	25	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.82</shotDispersionRadius><aimingTime>	7	</aimingTime><invisibilityFactorAtShot>0.15</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.5</turretRotation><afterShot>6.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><turretYawLimits>-20.5 17</turretYawLimits><models><undamaged>vehicles/american/A18_M41/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A18_M41/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A18_M41/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A18_M41/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A18_M41/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 0.00858583 2.36314</rayStart><rayEnd>0.0281009 -0.0259147 2.36314</rayEnd><rayUp>0.13 0.13 4</rayUp><size>0.6</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000000 0.00429292 1.54227</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000000 0.00429292 1.54227</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.0460614 0.36915 0.101122</anchorPosition><anchorDirection>	0.000000 0.705372 0.708837	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.64 0.64 0.000000 0.000000</tiling><density>80.2076 80.1342</density><aoTextureSize>512 512</aoTextureSize></camouflage></_155mm_Howitzer_M1>
       </guns>
       <models>
         <undamaged>vehicles/american/A18_M41/normal/lod0/Turret_01.model</undamaged>
@@ -2217,6 +2219,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.925 0.925 0.000000 0.000000</tiling>
+        <density>100.712 101.702</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </M14>
   </turrets0>

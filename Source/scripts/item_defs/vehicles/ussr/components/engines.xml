@@ -137,6 +137,7 @@
     <T-26_bot>	213	</T-26_bot>
     <V-5_W>	214	</V-5_W>
     <V-54-6_FL>	215	</V-54-6_FL>
+    <V-3_race>	216	</V-3_race>
     <V-5_IGR>	60001	</V-5_IGR>
     <V-2IS_IGR>	60002	</V-2IS_IGR>
     <V-54-6_IGR>	60003	</V-54-6_IGR>
@@ -2542,6 +2543,24 @@
       <rpm_min>	445	</rpm_min>
       <rpm_max>	2172	</rpm_max>
     </Observer>
+    <V-3_race>
+      <userString>#ussr_vehicles:V-3_race</userString>
+      <tags>diesel</tags>
+      <level>	4	</level>
+      <price>	4800	</price>
+      <notInShop>	true	</notInShop>
+      <wwsoundPC>ev_race_eng_diesel_turbo_pc</wwsoundPC>
+      <wwsoundNPC>ev_race_eng_diesel_turbo_npc</wwsoundNPC>
+      <power>	300	</power>
+      <weight>	540	</weight>
+      <maxHealth>	110	</maxHealth>
+      <maxRegenHealth>	55	</maxRegenHealth>
+      <invulnerable>	true	</invulnerable>
+      <repairCost>	4	</repairCost>
+      <fireStartingChance>0.15</fireStartingChance>
+      <rpm_min>	266	</rpm_min>
+      <rpm_max>	2167	</rpm_max>
+    </V-3_race>
     <V-5_IGR>
       <userString>#igr_vehicles:V-5_IGR</userString>
       <tags>diesel</tags>

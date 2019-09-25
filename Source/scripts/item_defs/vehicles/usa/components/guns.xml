@@ -108,6 +108,7 @@
     <_120mm_AT_Gun_M58>	130	</_120mm_AT_Gun_M58>
     <_88mm_Kw_K_43>	131	</_88mm_Kw_K_43>
     <_120mm_Gun_M58A>	132	</_120mm_Gun_M58A>
+    <_75mm_Gun_M6_race>	133	</_75mm_Gun_M6_race>
     <_12.7mm_T23>	255	</_12.7mm_T23>
     <_90mm_Gun_M3_ID>	256	</_90mm_Gun_M3_ID>
     <_90mm_Gun_M41E1_L>	257	</_90mm_Gun_M41E1_L>
@@ -2076,6 +2077,52 @@
         </_75mm_M48>
       </shots>
     </_75mm_Gun_M6>
+    <_75mm_Gun_M6_race>
+      <userString>#usa_vehicles:_75mm_Gun_M6_race</userString>
+      <tags>
+      </tags>
+      <level>	5	</level>
+      <price>	33350	</price>
+      <notInShop>	true	</notInShop>
+      <impulse>0.48</impulse>
+      <recoil>
+        <lodDist>MEDIUM</lodDist>
+        <amplitude>0.36</amplitude>
+        <recoilEffect>medium</recoilEffect>
+      </recoil>
+      <effects>shot_medium</effects>
+      <reloadEffect>reload50_75</reloadEffect>
+      <pitchLimits>
+        <minPitch>0.0 -15.0 1.0 -15.0</minPitch>
+        <maxPitch>0.0 10.0 1.0 10.0</maxPitch>
+      </pitchLimits>
+      <turretYawLimits>-180 180</turretYawLimits>
+      <rotationSpeed>40.25</rotationSpeed>
+      <reloadTime>4.0</reloadTime>
+      <maxAmmo>	46	</maxAmmo>
+      <aimingTime>2.05714285714286</aimingTime>
+      <weight>	186	</weight>
+      <maxHealth>	120	</maxHealth>
+      <maxRegenHealth>	60	</maxRegenHealth>
+      <invulnerable>	true	</invulnerable>
+      <repairCost>	5	</repairCost>
+      <invisibilityFactorAtShot>0.1</invisibilityFactorAtShot>
+      <shotDispersionRadius>0.4</shotDispersionRadius>
+      <shotDispersionFactors>
+        <turretRotation>0.1</turretRotation>
+        <afterShot>3.5</afterShot>
+        <whileGunDamaged>2.0</whileGunDamaged>
+      </shotDispersionFactors>
+      <shots>
+        <_75mm_M72_race>
+          <defaultPortion>0.02</defaultPortion>
+          <speed>	2400	</speed>
+          <gravity>9.81</gravity>
+          <maxDistance>	3000	</maxDistance>
+          <piercingPower>95 95</piercingPower>
+        </_75mm_M72_race>
+      </shots>
+    </_75mm_Gun_M6_race>
     <_75mm_Gun_M17>
       <userString>#usa_vehicles:_75mm_Gun_M17</userString>
       <tags>

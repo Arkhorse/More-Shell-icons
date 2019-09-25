@@ -106,6 +106,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.12 1.12 0.000000 0.000000</tiling>
+      <density>83.5198 83.485</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -1062,7 +1064,7 @@
       </surveyingDeviceHealth>
       <invisibilityFactor>0.907</invisibilityFactor>
       <guns>
-        <_20pdr_Gun_Type_B_IGR>shared<maxAmmo>	60	</maxAmmo><pitchLimits><minPitch>0 -18 1 -18</minPitch><maxPitch>0 10 0.405226 10 0.439226 5.9 0.5 6.5 0.557112 5.9 0.589774 10 1 10</maxPitch></pitchLimits><armor><gun>	40	</gun></armor><shotDispersionRadius>0.32</shotDispersionRadius><reloadTime>7.8</reloadTime><aimingTime>1.9</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.14</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><models><undamaged>vehicles/british/GB11_Caernarvon/normal/lod0/Gun_04.model</undamaged><destroyed>vehicles/british/GB11_Caernarvon/crash/lod0/Gun_04.model</destroyed><exploded>vehicles/british/GB11_Caernarvon/crash/lod0/Gun_04.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB11_Caernarvon/collision/Gun_04.model</collisionModelServer><collisionModelClient>vehicles/british/GB11_Caernarvon/collision_client/Gun_04.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><effects>shot_main</effects><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.100814 -0.0317759 2.75815</rayStart><rayEnd>0.152606 -0.00237393 2.75791</rayEnd><rayUp>0.083 0.079 4</rayUp><size>0.6</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.535 0.535 0.000000 0.000000</tiling></camouflage></_20pdr_Gun_Type_B_IGR>
+        <_20pdr_Gun_Type_B_IGR>shared<maxAmmo>	60	</maxAmmo><pitchLimits><minPitch>0 -18 1 -18</minPitch><maxPitch>0 10 0.405226 10 0.439226 5.9 0.5 6.5 0.557112 5.9 0.589774 10 1 10</maxPitch></pitchLimits><armor><gun>	40	</gun></armor><shotDispersionRadius>0.32</shotDispersionRadius><reloadTime>7.8</reloadTime><aimingTime>1.9</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.14</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><models><undamaged>vehicles/british/GB11_Caernarvon/normal/lod0/Gun_04.model</undamaged><destroyed>vehicles/british/GB11_Caernarvon/crash/lod0/Gun_04.model</destroyed><exploded>vehicles/british/GB11_Caernarvon/crash/lod0/Gun_04.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB11_Caernarvon/collision/Gun_04.model</collisionModelServer><collisionModelClient>vehicles/british/GB11_Caernarvon/collision_client/Gun_04.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><effects>shot_main</effects><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.100814 -0.0317759 2.75815</rayStart><rayEnd>0.152606 -0.00237393 2.75791</rayEnd><rayUp>0.083 0.079 4</rayUp><size>0.6</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.535 0.535 0.000000 0.000000</tiling><density>107.239 109.503</density><aoTextureSize>512 512</aoTextureSize></camouflage></_20pdr_Gun_Type_B_IGR>
       </guns>
       <models>
         <undamaged>vehicles/british/GB11_Caernarvon/normal/lod0/Turret_02.model</undamaged>
@@ -1107,6 +1109,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.5 0.5 0.000000 0.000000</tiling>
+        <density>85.3543 86.6715</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </Turret_2_GB11_Caernarvon_IGR>
   </turrets0>

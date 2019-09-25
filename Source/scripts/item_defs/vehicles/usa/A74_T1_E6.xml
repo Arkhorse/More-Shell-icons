@@ -124,6 +124,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>4 2 0.000000 0.000000</tiling>
+      <density>100.319 100.027</density>
+      <aoTextureSize>1024 512</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -1131,7 +1133,7 @@
         <repairCost>2.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_37mm_semiautomatic_gun_M1924A1>shared<maxAmmo>	80	</maxAmmo><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 10 0.366894 10 0.430556 7 0.569444 7 0.633106 10 1 10</maxPitch></pitchLimits><armor><armor_1>12.7<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>12.7<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>6.4<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>6.4<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><shotDispersionRadius>0.51</shotDispersionRadius><reloadTime>	5	</reloadTime><aimingTime>1.9</aimingTime><shotDispersionFactors><turretRotation>0.12</turretRotation><afterShot>	3	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><invisibilityFactorAtShot>0.195</invisibilityFactorAtShot><turretYawLimits>-180 180</turretYawLimits><models><undamaged>vehicles/american/A74_T1_E6/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A74_T1_E6/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A74_T1_E6/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A74_T1_E6/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A74_T1_E6/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000000 -0.0395838 0.372559</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>	0.000013 -0.039412 0.509583	</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.128687 0.128687	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.5 0.5 1.9 3.8</tiling></camouflage></_37mm_semiautomatic_gun_M1924A1>
+        <_37mm_semiautomatic_gun_M1924A1>shared<maxAmmo>	80	</maxAmmo><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 10 0.366894 10 0.430556 7 0.569444 7 0.633106 10 1 10</maxPitch></pitchLimits><armor><armor_1>12.7<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>12.7<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>6.4<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>6.4<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><shotDispersionRadius>0.51</shotDispersionRadius><reloadTime>	5	</reloadTime><aimingTime>1.9</aimingTime><shotDispersionFactors><turretRotation>0.12</turretRotation><afterShot>	3	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><invisibilityFactorAtShot>0.195</invisibilityFactorAtShot><turretYawLimits>-180 180</turretYawLimits><models><undamaged>vehicles/american/A74_T1_E6/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A74_T1_E6/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A74_T1_E6/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A74_T1_E6/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A74_T1_E6/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000000 -0.0395838 0.372559</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>	0.000013 -0.039412 0.509583	</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.128687 0.128687	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.5 0.5 1.9 3.8</tiling><density>117.52 117.638</density><aoTextureSize>128 128</aoTextureSize></camouflage></_37mm_semiautomatic_gun_M1924A1>
       </guns>
       <models>
         <undamaged>vehicles/american/A74_T1_E6/normal/lod0/Turret_01.model</undamaged>
@@ -1187,6 +1189,10 @@
           <anchorDirection>0.000000 1 0.000000</anchorDirection>
         </slot>
       </customizationSlots>
+      <camouflage>
+        <density>112.305 112.472</density>
+        <aoTextureSize>256 256</aoTextureSize>
+      </camouflage>
     </Turret_1_T1_E6>
   </turrets0>
   <engines>

@@ -121,6 +121,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>5 5 0.000000 0.000000</tiling>
+      <density>105.596 105.962</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -933,7 +935,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_76mm_ZiS-96>shared<armor><armor_1>	75	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_3>	40	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	20	</gun></armor><invisibilityFactorAtShot>0.26</invisibilityFactorAtShot><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 14 1 14</maxPitch></pitchLimits><models><undamaged>vehicles/russian/R32_Matilda_II_LL/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R32_Matilda_II_LL/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R32_Matilda_II_LL/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R32_Matilda_II_LL/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R32_Matilda_II_LL/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.0149747 0.111742 0.956116</rayStart><rayEnd>-0.0183412 0.15816 0.955993</rayEnd><rayUp>0.077 0.074 5</rayUp><size>0.514</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.00749246 0.121997 1.14354</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.00749246 0.121993 1.14354</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.312318 0.312318	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>1.2 1.2 3.1 0.000000</tiling></camouflage></_76mm_ZiS-96>
+        <_76mm_ZiS-96>shared<armor><armor_1>	75	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_3>	40	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	20	</gun></armor><invisibilityFactorAtShot>0.26</invisibilityFactorAtShot><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 14 1 14</maxPitch></pitchLimits><models><undamaged>vehicles/russian/R32_Matilda_II_LL/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R32_Matilda_II_LL/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R32_Matilda_II_LL/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R32_Matilda_II_LL/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R32_Matilda_II_LL/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.0149747 0.111742 0.956116</rayStart><rayEnd>-0.0183412 0.15816 0.955993</rayEnd><rayUp>0.077 0.074 5</rayUp><size>0.514</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.00749246 0.121997 1.14354</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.00749246 0.121993 1.14354</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.312318 0.312318	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>1.2 1.2 3.1 0.000000</tiling><density>109.897 106.516</density><aoTextureSize>256 256</aoTextureSize></camouflage></_76mm_ZiS-96>
       </guns>
       <models>
         <undamaged>vehicles/russian/R32_Matilda_II_LL/normal/lod0/Turret_01.model</undamaged>
@@ -980,6 +982,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>2.3 2.3 0.000000 0.000000</tiling>
+        <density>114.382 113.37</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </Matilda_II_LL>
   </turrets0>

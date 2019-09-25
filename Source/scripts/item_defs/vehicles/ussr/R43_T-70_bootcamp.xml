@@ -102,6 +102,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>3 1.5 0.000000 0.000000</tiling>
+      <density>103.635 103.558</density>
+      <aoTextureSize>1024 512</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -792,7 +794,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_45mm_20K_bootcamp>shared<pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><maxAmmo>	90	</maxAmmo><armor><armor_1>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	16	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><gun>	10	</gun></armor><shotDispersionRadius>0.46</shotDispersionRadius><reloadTime>2.4</reloadTime><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.29</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R43_T70/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R43_T70/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R43_T70/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R43_T70/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R43_T70/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.9 0.9 0.000000 0.000000</tiling></camouflage></_45mm_20K_bootcamp>
+        <_45mm_20K_bootcamp>shared<pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><maxAmmo>	90	</maxAmmo><armor><armor_1>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	16	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><gun>	10	</gun></armor><shotDispersionRadius>0.46</shotDispersionRadius><reloadTime>2.4</reloadTime><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.29</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R43_T70/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R43_T70/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R43_T70/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R43_T70/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R43_T70/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.9 0.9 0.000000 0.000000</tiling><density>102.121 104.787</density><aoTextureSize>256 256</aoTextureSize></camouflage></_45mm_20K_bootcamp>
       </guns>
       <models>
         <undamaged>vehicles/russian/R43_T70/normal/lod0/Turret_01.model</undamaged>
@@ -859,6 +861,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>1.6 1.6 0.000000 0.000000</tiling>
+        <density>115.508 115.746</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </Turret_1_T-70_bootcamp>
   </turrets0>

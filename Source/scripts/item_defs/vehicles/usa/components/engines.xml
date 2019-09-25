@@ -90,6 +90,7 @@
     <Continental_AOSI_1195_5>	112	</Continental_AOSI_1195_5>
     <Continental_AV-1790-5B_E2>	113	</Continental_AV-1790-5B_E2>
     <Continental_AOI-1195-5_L>	114	</Continental_AOI-1195-5_L>
+    <Twin_Cadillac_series_44T4L_race>	115	</Twin_Cadillac_series_44T4L_race>
     <Ford_GAN_T23>	1000	</Ford_GAN_T23>
     <Development_Engine>	65535	</Development_Engine>
     <Continental_AOI-628-2_IGR>	60001	</Continental_AOI-628-2_IGR>
@@ -1008,6 +1009,25 @@
       <rpm_min>	387	</rpm_min>
       <rpm_max>	2560	</rpm_max>
     </Twin_Cadillac_series_44T4L>
+    <Twin_Cadillac_series_44T4L_race>
+      <userString>#usa_vehicles:Twin_Cadillac_series_44T4L_race</userString>
+      <shortUserString>#usa_vehicles:Twin_Cadillac_series_44T4L_short_race</shortUserString>
+      <tags>	gasoline	</tags>
+      <level>	4	</level>
+      <price>	10800	</price>
+      <notInShop>	true	</notInShop>
+      <wwsoundPC>ev_race_eng_radial_pc</wwsoundPC>
+      <wwsoundNPC>ev_race_eng_radial_npc</wwsoundNPC>
+      <power>	380	</power>
+      <weight>	530	</weight>
+      <maxHealth>	104	</maxHealth>
+      <maxRegenHealth>	52	</maxRegenHealth>
+      <invulnerable>	true	</invulnerable>
+      <repairCost>	2	</repairCost>
+      <fireStartingChance>0.2</fireStartingChance>
+      <rpm_min>	387	</rpm_min>
+      <rpm_max>	2560	</rpm_max>
+    </Twin_Cadillac_series_44T4L_race>
     <Wright_Continental_R-975C2>
       <userString>#usa_vehicles:Wright_Continental_R-975C2</userString>
       <shortUserString>#usa_vehicles:Wright_Continental_R-975C2_short</shortUserString>

@@ -103,6 +103,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1 1 1 0.8</tiling>
+      <density>88.1627 88.1875</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -1098,7 +1100,7 @@
         <repairCost>2.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_128mm_KwK44_L55_IGR>shared<reloadTime>	12	</reloadTime><maxAmmo>	68	</maxAmmo><armor><armor_1>	260	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_3>	260	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	260	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><gun>	60	</gun></armor><shotDispersionRadius>0.36</shotDispersionRadius><aimingTime>2.1</aimingTime><invisibilityFactorAtShot>0.162</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.05</turretRotation><afterShot>3.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><pitchLimits><minPitch>0 -24 1 -24</minPitch><maxPitch>0 8 1 8</maxPitch></pitchLimits><models><undamaged>vehicles/german/G42_Maus/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G42_Maus/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G42_Maus/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G42_Maus/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G42_Maus/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.0792379 0.013159 5.02</rayStart><rayEnd>-0.118846 -0.378921 5.2471</rayEnd><rayUp>0.108 0.106 5</rayUp><size>0.46</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.505 0.505 0.000000 0.000000</tiling></camouflage></_128mm_KwK44_L55_IGR>
+        <_128mm_KwK44_L55_IGR>shared<reloadTime>	12	</reloadTime><maxAmmo>	68	</maxAmmo><armor><armor_1>	260	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_3>	260	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	260	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><gun>	60	</gun></armor><shotDispersionRadius>0.36</shotDispersionRadius><aimingTime>2.1</aimingTime><invisibilityFactorAtShot>0.162</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.05</turretRotation><afterShot>3.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><pitchLimits><minPitch>0 -24 1 -24</minPitch><maxPitch>0 8 1 8</maxPitch></pitchLimits><models><undamaged>vehicles/german/G42_Maus/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G42_Maus/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G42_Maus/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G42_Maus/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G42_Maus/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.0792379 0.013159 5.02</rayStart><rayEnd>-0.118846 -0.378921 5.2471</rayEnd><rayUp>0.108 0.106 5</rayUp><size>0.46</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.505 0.505 0.000000 0.000000</tiling><density>105.569 103.782</density><aoTextureSize>512 512</aoTextureSize></camouflage></_128mm_KwK44_L55_IGR>
       </guns>
       <models>
         <undamaged>vehicles/german/G42_Maus/normal/lod0/Turret_01.model</undamaged>
@@ -1165,6 +1167,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.8 0.4 0.5 0.4</tiling>
+        <density>106.865 106.714</density>
+        <aoTextureSize>1024 512</aoTextureSize>
       </camouflage>
     </Mausturm_IGR>
   </turrets0>

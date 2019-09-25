@@ -97,6 +97,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>0.9 0.9 0.000000 0.000000</tiling>
+      <density>103.653 103.999</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -899,7 +901,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_45mm_20KL_IGR>shared<pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><maxAmmo>	61	</maxAmmo><armor><armor_1>	40	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	20	</gun></armor><invisibilityFactorAtShot>0.29</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R31_Valentine_LL/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R31_Valentine_LL/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R31_Valentine_LL/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R31_Valentine_LL/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R31_Valentine_LL/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.1 0.1 0.000000 0.000000</tiling></camouflage></_45mm_20KL_IGR>
+        <_45mm_20KL_IGR>shared<pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><maxAmmo>	61	</maxAmmo><armor><armor_1>	40	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	20	</gun></armor><invisibilityFactorAtShot>0.29</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R31_Valentine_LL/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R31_Valentine_LL/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R31_Valentine_LL/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R31_Valentine_LL/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R31_Valentine_LL/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.1 0.1 0.000000 0.000000</tiling><density>119.32 125.955</density><aoTextureSize>256 128</aoTextureSize></camouflage></_45mm_20KL_IGR>
       </guns>
       <models>
         <undamaged>vehicles/russian/R31_Valentine_LL/normal/lod0/Turret_01.model</undamaged>
@@ -945,6 +947,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.5 0.2 0.000000 0.000000</tiling>
+        <density>115.981 115.568</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </Valentine_LL_IGR>
   </turrets0>

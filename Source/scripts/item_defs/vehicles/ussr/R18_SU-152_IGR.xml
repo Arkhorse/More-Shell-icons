@@ -143,6 +143,10 @@
         <isUVProportional>	true	</isUVProportional>
       </slot>
     </customizationSlots>
+    <camouflage>
+      <density>91.4973 91.4688</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <SU-152_mod_1944_IGR>
@@ -853,7 +857,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_122mm_D-25C_mod1944_IGR>shared<maxAmmo>	32	</maxAmmo><armor><armor_1>	65	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	60	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><gun>	50	</gun></armor><shotDispersionRadius>0.41</shotDispersionRadius><reloadTime>7.4</reloadTime><aimingTime>2.9</aimingTime><invisibilityFactorAtShot>0.19</invisibilityFactorAtShot><turretYawLimits>-8 8</turretYawLimits><pitchLimits><minPitch>0 -18 1 -18</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><models><undamaged>vehicles/russian/R18_SU-152/normal/lod0/Gun_03.model</undamaged><destroyed>vehicles/russian/R18_SU-152/crash/lod0/Gun_03.model</destroyed><exploded>vehicles/russian/R18_SU-152/crash/lod0/Gun_03.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R18_SU-152/collision/Gun_03.model</collisionModelServer><collisionModelClient>vehicles/russian/R18_SU-152/collision_client/Gun_03.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.167616 0.0152889 1.25123</rayStart><rayEnd>0.0820074 0.03986 1.25101</rayEnd><rayUp>0.11 0.105 4</rayUp><size>0.7</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.655 0.415 0.000000 0.000000</tiling></camouflage></_122mm_D-25C_mod1944_IGR>
+        <_122mm_D-25C_mod1944_IGR>shared<maxAmmo>	32	</maxAmmo><armor><armor_1>	65	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	60	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><gun>	50	</gun></armor><shotDispersionRadius>0.41</shotDispersionRadius><reloadTime>7.4</reloadTime><aimingTime>2.9</aimingTime><invisibilityFactorAtShot>0.19</invisibilityFactorAtShot><turretYawLimits>-8 8</turretYawLimits><pitchLimits><minPitch>0 -18 1 -18</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><models><undamaged>vehicles/russian/R18_SU-152/normal/lod0/Gun_03.model</undamaged><destroyed>vehicles/russian/R18_SU-152/crash/lod0/Gun_03.model</destroyed><exploded>vehicles/russian/R18_SU-152/crash/lod0/Gun_03.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R18_SU-152/collision/Gun_03.model</collisionModelServer><collisionModelClient>vehicles/russian/R18_SU-152/collision_client/Gun_03.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.167616 0.0152889 1.25123</rayStart><rayEnd>0.0820074 0.03986 1.25101</rayEnd><rayUp>0.11 0.105 4</rayUp><size>0.7</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.655 0.415 0.000000 0.000000</tiling><density>93.8193 99.3927</density><aoTextureSize>512 512</aoTextureSize></camouflage></_122mm_D-25C_mod1944_IGR>
       </guns>
       <models>
         <undamaged>vehicles/russian/R18_SU-152/normal/lod0/Turret_01.model</undamaged>

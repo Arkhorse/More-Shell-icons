@@ -72,6 +72,10 @@
         </camouflage>
       </customizableVehicleAreas>
     </customization>
+    <camouflage>
+      <density>90.9663 91.5966</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Chassis_F74_AMX_M4_1949_Liberte>
@@ -820,7 +824,7 @@
   <turrets0>
     <Turret_1_F74_AMX_M4_1949_Liberte>
       <guns>
-        <_100mm_SA_47_A>shared<maxAmmo>	60	</maxAmmo><armor><armor_1>	250	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	120	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	100	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	80	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	60	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><gun>	40	</gun></armor><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 0.425 10 0.427778 5 0.433333 4 0.438889 3.5 0.469444 3.5 0.472222 3 0.475 2.7 0.525 2.7 0.527778 3 0.530556 3.5 0.561111 3.5 0.566667 4 0.572222 5 0.575 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.198</invisibilityFactorAtShot><shotDispersionRadius>0.36</shotDispersionRadius><reloadTime>10.3</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>3.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.9</aimingTime><models><undamaged>vehicles/french/F74_AMX_M4_1949_Liberte/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/french/F74_AMX_M4_1949_Liberte/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/french/F74_AMX_M4_1949_Liberte/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F74_AMX_M4_1949/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/french/F74_AMX_M4_1949/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000024 0.00492865 2.1624</rayStart><rayEnd>0.644611 -0.328496 2.1624</rayEnd><rayUp>0.092 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.6</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.55 0.25 0.000000 0.000000</tiling></camouflage></_100mm_SA_47_A>
+        <_100mm_SA_47_A>shared<maxAmmo>	60	</maxAmmo><armor><armor_1>	250	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	120	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	100	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	80	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	60	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><gun>	40	</gun></armor><turretYawLimits>-180 180</turretYawLimits><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 0.425 10 0.427778 5 0.433333 4 0.438889 3.5 0.469444 3.5 0.472222 3 0.475 2.7 0.525 2.7 0.527778 3 0.530556 3.5 0.561111 3.5 0.566667 4 0.572222 5 0.575 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.198</invisibilityFactorAtShot><shotDispersionRadius>0.36</shotDispersionRadius><reloadTime>10.3</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>3.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.9</aimingTime><models><undamaged>vehicles/french/F74_AMX_M4_1949_Liberte/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/french/F74_AMX_M4_1949_Liberte/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/french/F74_AMX_M4_1949_Liberte/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F74_AMX_M4_1949/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/french/F74_AMX_M4_1949/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000024 0.00492865 2.1624</rayStart><rayEnd>0.644611 -0.328496 2.1624</rayEnd><rayUp>0.092 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.6</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.55 0.25 0.000000 0.000000</tiling><density>108.547 114.289</density><aoTextureSize>512 256</aoTextureSize></camouflage></_100mm_SA_47_A>
       </guns>
       <userString>#france_vehicles:Turret_1_F74_AMX_M4_1949_Liberte</userString>
       <tags>
@@ -883,6 +887,8 @@
       </customization>
       <camouflage>
         <tiling>0.52 0.52 0.000000 0.000000</tiling>
+        <density>84.4974 85.1724</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </Turret_1_F74_AMX_M4_1949_Liberte>
   </turrets0>

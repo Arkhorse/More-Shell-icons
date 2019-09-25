@@ -111,6 +111,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.12 1.12 0.000000 0.000000</tiling>
+      <density>90.888 90.5104</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -1134,7 +1136,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_85mm_F-30A>shared<maxAmmo>	100	</maxAmmo><armor><armor_1>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><armor_7>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_7><gun>	30	</gun></armor><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 5 0.369444 5 0.380556 2 0.619444 2 0.630556 5 1 5</maxPitch></pitchLimits><invisibilityFactorAtShot>0.25</invisibilityFactorAtShot><shotDispersionRadius>0.43</shotDispersionRadius><reloadTime>6.1</reloadTime><aimingTime>3.2</aimingTime><models><undamaged>vehicles/russian/R118_T28_F30/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R118_T28_F30/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R118_T28_F30/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R118_T28_F30/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R118_T28_F30/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000010 0.0010426 1.90647</anchorPosition><anchorDirection>-0.000000 0.00033946 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000010 0.000920534 1.90651</anchorPosition><anchorDirection>0.000000 0.000295956 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.208476 0.232627	</anchorPosition><anchorDirection>-0.000000 0.707143 0.70707</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.000000 0.000000</tiling></camouflage></_85mm_F-30A>
+        <_85mm_F-30A>shared<maxAmmo>	100	</maxAmmo><armor><armor_1>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	50	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><armor_7>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_7><gun>	30	</gun></armor><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 5 0.369444 5 0.380556 2 0.619444 2 0.630556 5 1 5</maxPitch></pitchLimits><invisibilityFactorAtShot>0.25</invisibilityFactorAtShot><shotDispersionRadius>0.43</shotDispersionRadius><reloadTime>6.1</reloadTime><aimingTime>3.2</aimingTime><models><undamaged>vehicles/russian/R118_T28_F30/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R118_T28_F30/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R118_T28_F30/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R118_T28_F30/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R118_T28_F30/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000010 0.0010426 1.90647</anchorPosition><anchorDirection>-0.000000 0.00033946 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000010 0.000920534 1.90651</anchorPosition><anchorDirection>0.000000 0.000295956 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.208476 0.232627	</anchorPosition><anchorDirection>-0.000000 0.707143 0.70707</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.25 0.25 0.000000 0.000000</tiling><density>113.227 117.221</density><aoTextureSize>256 256</aoTextureSize></camouflage></_85mm_F-30A>
       </guns>
       <models>
         <undamaged>vehicles/russian/R118_T28_F30/normal/lod0/Turret_01.model</undamaged>
@@ -1212,6 +1214,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.445 0.445 0.000000 0.000000</tiling>
+        <density>117.84 110.289</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </Turret_1_R118_T28_F30>
   </turrets0>

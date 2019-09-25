@@ -115,6 +115,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>3.1 3.1 0.000000 0.000000</tiling>
+      <density>97.6942 97.765</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -838,7 +840,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_47mm_SA34_bootcamp>shared<maxAmmo>	112	</maxAmmo><armor><armor_1>	30	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><gun>	15	</gun></armor><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>	3	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.7</aimingTime><pitchLimits><minPitch>0 -12 1 -12</minPitch><maxPitch>0 5 0.111111 5 0.174773 10 0.380783 10 0.444444 0 0.555556 0 0.619218 10 0.825227 10 0.888889 5 1 5</maxPitch></pitchLimits><shotDispersionRadius>0.53</shotDispersionRadius><reloadTime>2.3</reloadTime><invisibilityFactorAtShot>0.29</invisibilityFactorAtShot><models><undamaged>vehicles/french/F04_B1/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/french/F04_B1/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/french/F04_B1/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F04_B1/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/french/F04_B1/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.9 0.9 0.000000 0.000000</tiling></camouflage></_47mm_SA34_bootcamp>
+        <_47mm_SA34_bootcamp>shared<maxAmmo>	112	</maxAmmo><armor><armor_1>	30	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><gun>	15	</gun></armor><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>	3	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.7</aimingTime><pitchLimits><minPitch>0 -12 1 -12</minPitch><maxPitch>0 5 0.111111 5 0.174773 10 0.380783 10 0.444444 0 0.555556 0 0.619218 10 0.825227 10 0.888889 5 1 5</maxPitch></pitchLimits><shotDispersionRadius>0.53</shotDispersionRadius><reloadTime>2.3</reloadTime><invisibilityFactorAtShot>0.29</invisibilityFactorAtShot><models><undamaged>vehicles/french/F04_B1/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/french/F04_B1/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/french/F04_B1/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F04_B1/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/french/F04_B1/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.9 0.9 0.000000 0.000000</tiling><density>118.354 118.307</density><aoTextureSize>256 256</aoTextureSize></camouflage></_47mm_SA34_bootcamp>
       </guns>
       <models>
         <undamaged>vehicles/french/F04_B1/normal/lod0/Turret_01.model</undamaged>
@@ -883,6 +885,10 @@
           <isUVProportional>	true	</isUVProportional>
         </slot>
       </customizationSlots>
+      <camouflage>
+        <density>94.05 94.1054</density>
+        <aoTextureSize>256 256</aoTextureSize>
+      </camouflage>
     </Turret_1_B1_bootcamp>
   </turrets0>
   <engines>

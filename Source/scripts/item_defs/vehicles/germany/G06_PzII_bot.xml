@@ -104,6 +104,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>2.14 2.14 0.000000 0.000000</tiling>
+      <density>130.272 131.202</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -409,7 +411,7 @@
         <repairCost>2.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_20mm_KwK_30_bot>shared<maxAmmo>	260	</maxAmmo><shotDispersionRadius>0.59</shotDispersionRadius><reloadTime>4.3</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>1.4</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><armor><armor_1>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	10	</gun></armor><aimingTime>1.7</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><models><undamaged>vehicles/german/G06_PzII/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G06_PzII/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G06_PzII/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G06_PzII/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G06_PzII/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.49 0.49 0.000000 0.000000</tiling></camouflage></_20mm_KwK_30_bot>
+        <_20mm_KwK_30_bot>shared<maxAmmo>	260	</maxAmmo><shotDispersionRadius>0.59</shotDispersionRadius><reloadTime>4.3</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>1.4</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><armor><armor_1>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	10	</gun></armor><aimingTime>1.7</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><models><undamaged>vehicles/german/G06_PzII/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G06_PzII/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G06_PzII/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G06_PzII/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G06_PzII/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.49 0.49 0.000000 0.000000</tiling><density>113.945 117.141</density><aoTextureSize>256 256</aoTextureSize></camouflage></_20mm_KwK_30_bot>
       </guns>
       <models>
         <undamaged>vehicles/german/G06_PzII/normal/lod0/Turret_01.model</undamaged>
@@ -447,6 +449,8 @@
         <exclusionMask>
         </exclusionMask>
         <tiling>1 0.49 0.000000 0.000000</tiling>
+        <density>118.484 118.161</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </PzII_Standartturm_bot>
   </turrets0>

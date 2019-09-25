@@ -116,6 +116,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>3 1.5 0.000000 0.000000</tiling>
+      <density>100.709 100.739</density>
+      <aoTextureSize>1024 512</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -917,7 +919,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_37mm_KwK_38t_L47_A>shared<maxAmmo>	78	</maxAmmo><armor><armor_1>	30	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><gun>	10	</gun></armor><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 7 0.002778 7 0.016667 10 0.402778 10 0.416667 7 0.583333 7 0.597222 10 0.983333 10 0.997222 7 1 7</maxPitch></pitchLimits><invisibilityFactorAtShot>0.3</invisibilityFactorAtShot><models><undamaged>vehicles/german/G50_T-15/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G50_T-15/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G50_T-15/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G50_T-15/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G50_T-15/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000025 -0.0381253 0.750446</anchorPosition><anchorDirection>-0.000000 0.000001 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000025 -0.0381246 0.750442</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.135036 0.135036	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.9 0.3 0.000000 1.9</tiling></camouflage></_37mm_KwK_38t_L47_A>
+        <_37mm_KwK_38t_L47_A>shared<maxAmmo>	78	</maxAmmo><armor><armor_1>	30	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><gun>	10	</gun></armor><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 7 0.002778 7 0.016667 10 0.402778 10 0.416667 7 0.583333 7 0.597222 10 0.983333 10 0.997222 7 1 7</maxPitch></pitchLimits><invisibilityFactorAtShot>0.3</invisibilityFactorAtShot><models><undamaged>vehicles/german/G50_T-15/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G50_T-15/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G50_T-15/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G50_T-15/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G50_T-15/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000025 -0.0381253 0.750446</anchorPosition><anchorDirection>-0.000000 0.000001 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000025 -0.0381246 0.750442</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.135036 0.135036	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.9 0.3 0.000000 1.9</tiling><density>204.78 229.035</density><aoTextureSize>512 256</aoTextureSize></camouflage></_37mm_KwK_38t_L47_A>
       </guns>
       <models>
         <undamaged>vehicles/german/G50_T-15/normal/lod0/Turret_01.model</undamaged>
@@ -985,6 +987,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>1.5 0.7 0.000000 0.000000</tiling>
+        <density>111.764 111.43</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </Turret_1_T-15>
   </turrets0>

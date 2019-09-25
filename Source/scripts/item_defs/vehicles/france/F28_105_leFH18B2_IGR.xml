@@ -139,6 +139,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>0.91 0.91 0.000000 0.000000</tiling>
+      <density>97.976 98.6892</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -790,7 +792,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_105mm_leFH18_L28_IGR>shared<maxAmmo>	42	</maxAmmo><armor><armor_1>	20	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_1><gun>	20	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.735</shotDispersionRadius><reloadTime>9.3</reloadTime><aimingTime>5.1</aimingTime><invisibilityFactorAtShot>0.209</invisibilityFactorAtShot><turretYawLimits>-15 15</turretYawLimits><pitchLimits><minPitch>0 -45 1 -45</minPitch><maxPitch>0 4 1 4</maxPitch></pitchLimits><effects>shot_large_mb</effects><models><undamaged>vehicles/french/F28_105_leFH18B2/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/french/F28_105_leFH18B2/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/french/F28_105_leFH18B2/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F28_105_leFH18B2/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/french/F28_105_leFH18B2/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000001 -0.097986 1.87494</rayStart><rayEnd>-0.0079731 -0.0864744 1.87288</rayEnd><rayUp>0.084 0.079 4</rayUp><size>0.38</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.46 0.46 0.000000 0.000000</tiling></camouflage></_105mm_leFH18_L28_IGR>
+        <_105mm_leFH18_L28_IGR>shared<maxAmmo>	42	</maxAmmo><armor><armor_1>	20	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_1><gun>	20	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.735</shotDispersionRadius><reloadTime>9.3</reloadTime><aimingTime>5.1</aimingTime><invisibilityFactorAtShot>0.209</invisibilityFactorAtShot><turretYawLimits>-15 15</turretYawLimits><pitchLimits><minPitch>0 -45 1 -45</minPitch><maxPitch>0 4 1 4</maxPitch></pitchLimits><effects>shot_large_mb</effects><models><undamaged>vehicles/french/F28_105_leFH18B2/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/french/F28_105_leFH18B2/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/french/F28_105_leFH18B2/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F28_105_leFH18B2/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/french/F28_105_leFH18B2/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000001 -0.097986 1.87494</rayStart><rayEnd>-0.0079731 -0.0864744 1.87288</rayEnd><rayUp>0.084 0.079 4</rayUp><size>0.38</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.46 0.46 0.000000 0.000000</tiling><density>116.737 117.855</density><aoTextureSize>512 512</aoTextureSize></camouflage></_105mm_leFH18_L28_IGR>
       </guns>
       <models>
         <undamaged>vehicles/french/F28_105_leFH18B2/normal/lod0/Turret_01.model</undamaged>
@@ -814,6 +816,8 @@
       </customization>
       <camouflage>
         <tiling>0.58 0.25 0.000000 0.000000</tiling>
+        <density>109.898 109.691</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </Turret_1_105_leFH18B2_IGR>
   </turrets0>

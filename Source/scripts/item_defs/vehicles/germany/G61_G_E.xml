@@ -1300,6 +1300,10 @@
         <camouflage>	HULL	</camouflage>
       </customizableVehicleAreas>
     </customization>
+    <camouflage>
+      <density>82.7598 82.5828</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Chassis_G_E>
@@ -2095,7 +2099,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_210mm_Morser_18>shared<maxAmmo>	30	</maxAmmo><armor><gun>	30	</gun><armor_1>	20	</armor_1><gunBreech>	0	</gunBreech></armor><reloadTime>	39	</reloadTime><aimingTime>4.8</aimingTime><shotDispersionRadius>0.76</shotDispersionRadius><invisibilityFactorAtShot>0.086</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.45</turretRotation><afterShot>6.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><pitchLimits><minPitch>0 -45 1 -45</minPitch><maxPitch>0 0 1 0</maxPitch></pitchLimits><turretYawLimits>-6 6</turretYawLimits><models><undamaged>vehicles/german/G61_G_E/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G61_G_E/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G61_G_E/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G61_G_E/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G61_G_E/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000962609 0.0228978 2.8835</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.639045 0.639045	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000962609 0.0228978 2.8835</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.00192522 0.0457957 5.24363</rayStart><rayEnd>-0.0150505 0.0258177 5.23913</rayEnd><rayUp>0.168 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.76</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>1 0.3 0.000000 0.000000</tiling></camouflage></_210mm_Morser_18>
+        <_210mm_Morser_18>shared<maxAmmo>	30	</maxAmmo><armor><gun>	30	</gun><armor_1>	20	</armor_1><gunBreech>	0	</gunBreech></armor><reloadTime>	39	</reloadTime><aimingTime>4.8</aimingTime><shotDispersionRadius>0.76</shotDispersionRadius><invisibilityFactorAtShot>0.086</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.45</turretRotation><afterShot>6.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><pitchLimits><minPitch>0 -45 1 -45</minPitch><maxPitch>0 0 1 0</maxPitch></pitchLimits><turretYawLimits>-6 6</turretYawLimits><models><undamaged>vehicles/german/G61_G_E/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G61_G_E/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G61_G_E/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G61_G_E/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G61_G_E/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000962609 0.0228978 2.8835</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.639045 0.639045	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000962609 0.0228978 2.8835</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.00192522 0.0457957 5.24363</rayStart><rayEnd>-0.0150505 0.0258177 5.23913</rayEnd><rayUp>0.168 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.76</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>1 0.3 0.000000 0.000000</tiling><density>51.123 49.3301</density><aoTextureSize>512 256</aoTextureSize></camouflage></_210mm_Morser_18>
       </guns>
       <models>
         <undamaged>vehicles/german/G61_G_E/normal/lod0/Turret_01.model</undamaged>
@@ -2127,6 +2131,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>1.8 1.8 0.000000 0.000000</tiling>
+        <density>50.0 50.0</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </Turret_1_G_E>
   </turrets0>

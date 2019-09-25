@@ -114,6 +114,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.48 1.48 0.000000 0.000000</tiling>
+      <density>95.3861 95.5535</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -870,7 +872,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_76mm_ZiS-5A>shared<maxAmmo>	120	</maxAmmo><pitchLimits><minPitch>0 -24 1 -24</minPitch><maxPitch>0 8 1 8</maxPitch></pitchLimits><armor><armor_1>	75	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	30	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	75	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	20	</gun></armor><invisibilityFactorAtShot>0.26</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R38_KV-220/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R38_KV-220/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R38_KV-220/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R38_KV-220/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R38_KV-220/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>	0.000008 0.126351 0.984089	</rayStart><rayEnd>0.0411111 0.128184 0.982307</rayEnd><rayUp>0.063 0.059 4</rayUp><size>0.36</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000017 0.136523 1.14099</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000017 0.136523 1.14099</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.293183 0.293183	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.505 0.25 0.000000 0.000000</tiling></camouflage></_76mm_ZiS-5A>
+        <_76mm_ZiS-5A>shared<maxAmmo>	120	</maxAmmo><pitchLimits><minPitch>0 -24 1 -24</minPitch><maxPitch>0 8 1 8</maxPitch></pitchLimits><armor><armor_1>	75	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	30	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	75	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	20	</gun></armor><invisibilityFactorAtShot>0.26</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R38_KV-220/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R38_KV-220/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R38_KV-220/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R38_KV-220/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R38_KV-220/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>	0.000008 0.126351 0.984089	</rayStart><rayEnd>0.0411111 0.128184 0.982307</rayEnd><rayUp>0.063 0.059 4</rayUp><size>0.36</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000017 0.136523 1.14099</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000017 0.136523 1.14099</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.293183 0.293183	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.505 0.25 0.000000 0.000000</tiling><density>200.181 201.222</density><aoTextureSize>512 256</aoTextureSize></camouflage></_76mm_ZiS-5A>
       </guns>
       <models>
         <undamaged>vehicles/russian/R38_KV-220/normal/lod0/Turret_01.model</undamaged>
@@ -948,6 +950,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.67 0.67 0.000000 0.000000</tiling>
+        <density>111.715 112.534</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </KV-220-1A>
   </turrets0>

@@ -113,6 +113,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.2 0.6 0.000000 0.000000</tiling>
+      <density>102.668 102.746</density>
+      <aoTextureSize>1024 512</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -792,7 +794,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_20mm_Hispano_Suiza_Birgikt_gun_A>shared<shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>1.3</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><maxAmmo>	1200	</maxAmmo><armor><armor_1>	16	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	8	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	10	</gun></armor><reloadTime>7.66</reloadTime><shotDispersionRadius>0.5</shotDispersionRadius><aimingTime>1.71</aimingTime><invisibilityFactorAtShot>0.224</invisibilityFactorAtShot><pitchLimits><minPitch>0 -21 1 -21</minPitch><maxPitch>0 8 1 8</maxPitch></pitchLimits><models><undamaged>vehicles/american/A19_T2_lt/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A19_T2_lt/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A19_T2_lt/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A19_T2_lt/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A19_T2_lt/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000000 0.000707446 0.843603</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000000 0.000707446 0.843603</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.146175 0.146175	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.3 0.3 0.29 0.000000</tiling></camouflage></_20mm_Hispano_Suiza_Birgikt_gun_A>
+        <_20mm_Hispano_Suiza_Birgikt_gun_A>shared<shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>1.3</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><maxAmmo>	1200	</maxAmmo><armor><armor_1>	16	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	8	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	10	</gun></armor><reloadTime>7.66</reloadTime><shotDispersionRadius>0.5</shotDispersionRadius><aimingTime>1.71</aimingTime><invisibilityFactorAtShot>0.224</invisibilityFactorAtShot><pitchLimits><minPitch>0 -21 1 -21</minPitch><maxPitch>0 8 1 8</maxPitch></pitchLimits><models><undamaged>vehicles/american/A19_T2_lt/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A19_T2_lt/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A19_T2_lt/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A19_T2_lt/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A19_T2_lt/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000000 0.000707446 0.843603</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000000 0.000707446 0.843603</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.146175 0.146175	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.3 0.3 0.29 0.000000</tiling><density>156.955 158.589</density><aoTextureSize>256 256</aoTextureSize></camouflage></_20mm_Hispano_Suiza_Birgikt_gun_A>
       </guns>
       <models>
         <undamaged>vehicles/american/A19_T2_lt/normal/lod0/Turret_01.model</undamaged>
@@ -850,6 +852,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.6 0.3 0.12 0.000000</tiling>
+        <density>119.088 119.301</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </T2D1>
   </turrets0>

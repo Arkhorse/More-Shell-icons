@@ -141,6 +141,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1 1 0.09 0.000000</tiling>
+      <density>109.124 112.211</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -908,7 +910,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_90mm_Gun_M54>shared<maxAmmo>	43	</maxAmmo><armor><armor_2>	5	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_4>	5	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_4><armor_5>	0	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_5><gun>	10	</gun><gunBreech>	0	</gunBreech></armor><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><turretYawLimits>-30 30</turretYawLimits><shotDispersionRadius>0.33</shotDispersionRadius><reloadTime>7.8</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.9</aimingTime><models><undamaged>vehicles/american/A101_M56/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A101_M56/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A101_M56/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A101_M56/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A101_M56/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000141144 0.00793203 2.23638</rayStart><rayEnd>-0.0227387 -0.00332442 2.23508</rayEnd><rayUp>0.081 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.323</size><hideIfDamaged>	true	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000071 0.00396601 1.79948</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000071 0.00396601 1.79948</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.00010404 0.264863 0.580049</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots></_90mm_Gun_M54>
+        <_90mm_Gun_M54>shared<maxAmmo>	43	</maxAmmo><armor><armor_2>	5	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_4>	5	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_4><armor_5>	0	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_5><gun>	10	</gun><gunBreech>	0	</gunBreech></armor><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><turretYawLimits>-30 30</turretYawLimits><shotDispersionRadius>0.33</shotDispersionRadius><reloadTime>7.8</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.9</aimingTime><models><undamaged>vehicles/american/A101_M56/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A101_M56/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A101_M56/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A101_M56/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A101_M56/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000141144 0.00793203 2.23638</rayStart><rayEnd>-0.0227387 -0.00332442 2.23508</rayEnd><rayUp>0.081 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.323</size><hideIfDamaged>	true	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000071 0.00396601 1.79948</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000071 0.00396601 1.79948</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.00010404 0.264863 0.580049</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><density>93.0424 95.5807</density><aoTextureSize>512 512</aoTextureSize></camouflage></_90mm_Gun_M54>
       </guns>
       <models>
         <undamaged>vehicles/american/A101_M56/normal/lod0/Turret_01.model</undamaged>
@@ -938,6 +940,10 @@
           <anchorDirection>-0.000000 1 0.000000</anchorDirection>
         </slot>
       </customizationSlots>
+      <camouflage>
+        <density>93.911 93.0458</density>
+        <aoTextureSize>512 512</aoTextureSize>
+      </camouflage>
     </Turret_1_A101_M56>
   </turrets0>
   <engines>

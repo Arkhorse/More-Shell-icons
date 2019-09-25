@@ -117,6 +117,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>4 4 0.000000 0.000000</tiling>
+      <density>118.062 118.131</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -902,7 +904,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_76mm_L-10U>shared<maxAmmo>	72	</maxAmmo><pitchLimits><minPitch>0 -22 1 -22</minPitch><maxPitch>0 7 0.311338 7 0.375 4 0.625 4 0.688662 7 1 7</maxPitch></pitchLimits><armor><armor_1>	35	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	20	</gun></armor><invisibilityFactorAtShot>0.26</invisibilityFactorAtShot><shotDispersionRadius>0.44</shotDispersionRadius><models><undamaged>vehicles/russian/R68_A-32/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R68_A-32/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R68_A-32/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R68_A-32/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R68_A-32/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000335056 -0.0637416 0.924938</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000335056 -0.0637424 0.924937</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.207161 0.207161	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>1.2 0.5 2.7 3.5</tiling></camouflage></_76mm_L-10U>
+        <_76mm_L-10U>shared<maxAmmo>	72	</maxAmmo><pitchLimits><minPitch>0 -22 1 -22</minPitch><maxPitch>0 7 0.311338 7 0.375 4 0.625 4 0.688662 7 1 7</maxPitch></pitchLimits><armor><armor_1>	35	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	20	</gun></armor><invisibilityFactorAtShot>0.26</invisibilityFactorAtShot><shotDispersionRadius>0.44</shotDispersionRadius><models><undamaged>vehicles/russian/R68_A-32/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R68_A-32/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R68_A-32/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R68_A-32/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R68_A-32/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000335056 -0.0637416 0.924938</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000335056 -0.0637424 0.924937</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.207161 0.207161	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>1.2 0.5 2.7 3.5</tiling><density>221.544 226.855</density><aoTextureSize>512 256</aoTextureSize></camouflage></_76mm_L-10U>
       </guns>
       <models>
         <undamaged>vehicles/russian/R68_A-32/normal/lod0/Turret_01.model</undamaged>
@@ -960,6 +962,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>2 2 0.000000 2</tiling>
+        <density>117.101 116.555</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </A-32_mod_1939>
   </turrets0>

@@ -114,6 +114,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>0.85 0.85 0.000000 0.000000</tiling>
+      <density>123.405 123.303</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -870,7 +872,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_45mm_20K_bootcamp>shared<pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 8 0.40856 8 0.472222 4 0.527778 4 0.59144 8 1 8</maxPitch></pitchLimits><maxAmmo>	101	</maxAmmo><armor><armor_1>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	7	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	10	</gun></armor><shotDispersionRadius>0.46</shotDispersionRadius><reloadTime>2.3</reloadTime><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.29</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R22_T-46/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R22_T-46/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R22_T-46/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R22_T-46/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R22_T-46/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.49 0.49 0.000000 0.000000</tiling></camouflage></_45mm_20K_bootcamp>
+        <_45mm_20K_bootcamp>shared<pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 8 0.40856 8 0.472222 4 0.527778 4 0.59144 8 1 8</maxPitch></pitchLimits><maxAmmo>	101	</maxAmmo><armor><armor_1>	15	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	7	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	10	</gun></armor><shotDispersionRadius>0.46</shotDispersionRadius><reloadTime>2.3</reloadTime><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.29</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R22_T-46/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R22_T-46/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R22_T-46/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R22_T-46/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R22_T-46/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.49 0.49 0.000000 0.000000</tiling><density>137.725 137.862</density><aoTextureSize>512 512</aoTextureSize></camouflage></_45mm_20K_bootcamp>
       </guns>
       <models>
         <undamaged>vehicles/russian/R22_T-46/normal/lod0/Turret_01.model</undamaged>
@@ -917,6 +919,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.55 0.31 0.000000 0.000000</tiling>
+        <density>101.826 102.175</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </T-46_bootcamp>
   </turrets0>

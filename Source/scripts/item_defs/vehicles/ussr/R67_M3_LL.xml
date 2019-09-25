@@ -126,6 +126,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>2 2 0.000000 0.000000</tiling>
+      <density>123.941 123.926</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -995,7 +997,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_37mm_M-5_LL>shared<maxAmmo>	103	</maxAmmo><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 0.325227 10 0.388889 5 0.611111 5 0.674773 10 1 10</maxPitch></pitchLimits><armor><armor_1>	51	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	38	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><gun>	0	</gun></armor><reloadTime>2.5</reloadTime><aimingTime>1.9</aimingTime><invisibilityFactorAtShot>0.3</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R67_M3_LL/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R67_M3_LL/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R67_M3_LL/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R67_M3_LL/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R67_M3_LL/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.0235694 -0.00681233 0.677905</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.0271885 0.135494 0.0684348</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.5 0.5 0.000000 0.000000</tiling></camouflage></_37mm_M-5_LL>
+        <_37mm_M-5_LL>shared<maxAmmo>	103	</maxAmmo><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 0.325227 10 0.388889 5 0.611111 5 0.674773 10 1 10</maxPitch></pitchLimits><armor><armor_1>	51	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	38	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><gun>	0	</gun></armor><reloadTime>2.5</reloadTime><aimingTime>1.9</aimingTime><invisibilityFactorAtShot>0.3</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R67_M3_LL/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R67_M3_LL/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R67_M3_LL/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R67_M3_LL/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R67_M3_LL/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.0235694 -0.00681233 0.677905</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.0271885 0.135494 0.0684348</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.5 0.5 0.000000 0.000000</tiling><density>199.355 198.859</density><aoTextureSize>256 256</aoTextureSize></camouflage></_37mm_M-5_LL>
       </guns>
       <models>
         <undamaged>vehicles/russian/R67_M3_LL/normal/lod0/Turret_01.model</undamaged>
@@ -1051,6 +1053,10 @@
           <anchorDirection>0.000000 1 0.000000</anchorDirection>
         </slot>
       </customizationSlots>
+      <camouflage>
+        <density>112.826 112.88</density>
+        <aoTextureSize>512 512</aoTextureSize>
+      </camouflage>
     </D37812_LL>
   </turrets0>
   <engines>

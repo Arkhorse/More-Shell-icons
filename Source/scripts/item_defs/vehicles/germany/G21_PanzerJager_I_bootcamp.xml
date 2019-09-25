@@ -140,6 +140,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>2.2 2.2 0.000000 0.000000</tiling>
+      <density>115.69 115.619</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -877,7 +879,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_37mm_PaK_38t_L47_bootcamp>shared<pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 20 1 20</maxPitch></pitchLimits><maxAmmo>	160	</maxAmmo><aimingTime>0.1</aimingTime><reloadTime>2.1</reloadTime><armor><armor_1>	5	</armor_1><gun>	10	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.1</shotDispersionRadius><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><turretYawLimits>-30.5 30.5</turretYawLimits><models><undamaged>vehicles/german/G21_PanzerJager_I/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G21_PanzerJager_I/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G21_PanzerJager_I/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G21_PanzerJager_I/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G21_PanzerJager_I/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.7 0.7 0.000000 0.000000</tiling></camouflage></_37mm_PaK_38t_L47_bootcamp>
+        <_37mm_PaK_38t_L47_bootcamp>shared<pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 20 1 20</maxPitch></pitchLimits><maxAmmo>	160	</maxAmmo><aimingTime>0.1</aimingTime><reloadTime>2.1</reloadTime><armor><armor_1>	5	</armor_1><gun>	10	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.1</shotDispersionRadius><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>3.5</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><turretYawLimits>-30.5 30.5</turretYawLimits><models><undamaged>vehicles/german/G21_PanzerJager_I/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G21_PanzerJager_I/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G21_PanzerJager_I/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G21_PanzerJager_I/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G21_PanzerJager_I/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.7 0.7 0.000000 0.000000</tiling><density>180.371 183.704</density><aoTextureSize>512 512</aoTextureSize></camouflage></_37mm_PaK_38t_L47_bootcamp>
       </guns>
       <models>
         <undamaged>vehicles/german/G21_PanzerJager_I/normal/lod0/Turret_01.model</undamaged>
@@ -901,6 +903,8 @@
       </customization>
       <camouflage>
         <tiling>0.94 0.94 0.000000 0.000000</tiling>
+        <density>131.367 131.372</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </PanzerJager_bootcamp>
   </turrets0>

@@ -162,6 +162,7 @@
     <_37mm_Gochkins_bot>	209	</_37mm_Gochkins_bot>
     <_37mm_B-3_bot>	210	</_37mm_B-3_bot>
     <_100mm_LB-1_FL>	211	</_100mm_LB-1_FL>
+    <_45mm_20KM_race>	212	</_45mm_20KM_race>
     <_152mm_BL-10_IGR>	60001	</_152mm_BL-10_IGR>
     <_100mm_LB-1_IGR>	60002	</_100mm_LB-1_IGR>
     <_122mm_BL-9_IGR>	60003	</_122mm_BL-9_IGR>
@@ -9804,6 +9805,52 @@
         </_37mm_UOT1>
       </shots>
     </Observer>
+    <_45mm_20KM_race>
+      <userString>#ussr_vehicles:_45mm_20KM_race</userString>
+      <tags>
+      </tags>
+      <level>	4	</level>
+      <price>	20100	</price>
+      <notInShop>	true	</notInShop>
+      <impulse>0.24</impulse>
+      <recoil>
+        <lodDist>MEDIUM</lodDist>
+        <amplitude>0.13</amplitude>
+        <recoilEffect>small</recoilEffect>
+      </recoil>
+      <effects>shot_small</effects>
+      <reloadEffect>reload20_45</reloadEffect>
+      <pitchLimits>
+        <minPitch>0.0 -25.0 1.0 -25.0</minPitch>
+        <maxPitch>0.0 8.0 1.0 8.0</maxPitch>
+      </pitchLimits>
+      <turretYawLimits>-180 180</turretYawLimits>
+      <rotationSpeed>43.75</rotationSpeed>
+      <reloadTime>2.28571428571429</reloadTime>
+      <maxAmmo>	84	</maxAmmo>
+      <aimingTime>2.28571428571429</aimingTime>
+      <weight>	250	</weight>
+      <maxHealth>	68	</maxHealth>
+      <maxRegenHealth>	34	</maxRegenHealth>
+      <invulnerable>	true	</invulnerable>
+      <repairCost>	2	</repairCost>
+      <invisibilityFactorAtShot>0.1</invisibilityFactorAtShot>
+      <shotDispersionRadius>0.457142857142857</shotDispersionRadius>
+      <shotDispersionFactors>
+        <turretRotation>0.16</turretRotation>
+        <afterShot>4.0</afterShot>
+        <whileGunDamaged>2.0</whileGunDamaged>
+      </shotDispersionFactors>
+      <shots>
+        <_45mm_UBR-240PA_race>
+          <defaultPortion>0.0066</defaultPortion>
+          <speed>	2400	</speed>
+          <gravity>9.81</gravity>
+          <maxDistance>	3000	</maxDistance>
+          <piercingPower>95 95</piercingPower>
+        </_45mm_UBR-240PA_race>
+      </shots>
+    </_45mm_20KM_race>
     <_152mm_BL-10_IGR>
       <userString>#igr_vehicles:_152mm_BL-10_IGR</userString>
       <tags>

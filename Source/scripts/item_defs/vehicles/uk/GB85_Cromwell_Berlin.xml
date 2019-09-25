@@ -114,6 +114,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>2.74 2.74 0.000000 0.000000</tiling>
+      <density>96.2734 96.5539</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -988,7 +990,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_75mm_Gun_Mk_VA>shared<maxAmmo>	64	</maxAmmo><armor><gun>	20	</gun></armor><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 8 0.347222 8 0.430556 -2 0.569444 -2 0.652778 8 1 8</maxPitch></pitchLimits><reloadTime>3.9</reloadTime><invisibilityFactorAtShot>0.247</invisibilityFactorAtShot><models><undamaged>vehicles/british/GB85_Cromwell_Berlin/normal/lod0/Gun_07.model</undamaged><destroyed>vehicles/british/GB85_Cromwell_Berlin/crash/lod0/Gun_07.model</destroyed><exploded>vehicles/british/GB85_Cromwell_Berlin/crash/lod0/Gun_07.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB85_Cromwell_Berlin/collision/Gun_07.model</collisionModelServer><collisionModelClient>vehicles/british/GB85_Cromwell_Berlin/collision_client/Gun_07.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.0736349 -0.0183345 1.18465</rayStart><rayEnd>0.474362 -0.274792 1.18464</rayEnd><rayUp>0.055 0.055 5</rayUp><size>0.279</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.0368174 -0.00916724 0.994083</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.000000 0.0530195 0.0530195</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.0368174 -0.00916724 0.994083</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot></customizationSlots><camouflage><tiling>1.6 0.715 0.000000 0.000000</tiling></camouflage></_75mm_Gun_Mk_VA>
+        <_75mm_Gun_Mk_VA>shared<maxAmmo>	64	</maxAmmo><armor><gun>	20	</gun></armor><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 8 0.347222 8 0.430556 -2 0.569444 -2 0.652778 8 1 8</maxPitch></pitchLimits><reloadTime>3.9</reloadTime><invisibilityFactorAtShot>0.247</invisibilityFactorAtShot><models><undamaged>vehicles/british/GB85_Cromwell_Berlin/normal/lod0/Gun_07.model</undamaged><destroyed>vehicles/british/GB85_Cromwell_Berlin/crash/lod0/Gun_07.model</destroyed><exploded>vehicles/british/GB85_Cromwell_Berlin/crash/lod0/Gun_07.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB85_Cromwell_Berlin/collision/Gun_07.model</collisionModelServer><collisionModelClient>vehicles/british/GB85_Cromwell_Berlin/collision_client/Gun_07.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.0736349 -0.0183345 1.18465</rayStart><rayEnd>0.474362 -0.274792 1.18464</rayEnd><rayUp>0.055 0.055 5</rayUp><size>0.279</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.0368174 -0.00916724 0.994083</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.000000 0.0530195 0.0530195</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.0368174 -0.00916724 0.994083</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot></customizationSlots><camouflage><tiling>1.6 0.715 0.000000 0.000000</tiling><density>163.655 173.627</density><aoTextureSize>512 256</aoTextureSize></camouflage></_75mm_Gun_Mk_VA>
       </guns>
       <models>
         <undamaged>vehicles/british/GB85_Cromwell_Berlin/normal/lod0/Turret_01.model</undamaged>
@@ -1046,6 +1048,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>1.12 1.12 0.000000 0.000000</tiling>
+        <density>137.944 137.076</density>
+        <aoTextureSize>1024 512</aoTextureSize>
       </camouflage>
     </Turret_1_GB85_Cromwell_Berlin>
   </turrets0>

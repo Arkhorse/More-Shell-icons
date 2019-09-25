@@ -95,6 +95,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>2 2 0.000000 0.000000</tiling>
+      <density>98.3598 98.513</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -1044,7 +1046,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_105mm_Gun_T5E1_2>shared<maxAmmo>	100	</maxAmmo><armor><armor_1>	254	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>228.6<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>101.6<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>50.8<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	127	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><armor_7>177.8<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_7><armor_8>	127	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_8><gun>	45	</gun></armor><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><reloadTime>10.1</reloadTime><aimingTime>1.9</aimingTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><shotDispersionRadius>0.36</shotDispersionRadius><models><undamaged>vehicles/american/A115_Chrysler_K_GF/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A115_Chrysler_K_GF/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A115_Chrysler_K_GF/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A115_Chrysler_K_GF/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A115_Chrysler_K_GF/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.0013139 -0.0736716 2.61533</rayStart><rayEnd>0.00761542 -0.128481 2.61343</rayEnd><rayUp>0.114 0.109 5</rayUp><size>0.6</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>1.2 0.6 0.000000 0.000000</tiling></camouflage></_105mm_Gun_T5E1_2>
+        <_105mm_Gun_T5E1_2>shared<maxAmmo>	100	</maxAmmo><armor><armor_1>	254	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>228.6<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>101.6<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>50.8<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	127	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><armor_7>177.8<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_7><armor_8>	127	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_8><gun>	45	</gun></armor><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><reloadTime>10.1</reloadTime><aimingTime>1.9</aimingTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><shotDispersionRadius>0.36</shotDispersionRadius><models><undamaged>vehicles/american/A115_Chrysler_K_GF/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A115_Chrysler_K_GF/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A115_Chrysler_K_GF/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A115_Chrysler_K_GF/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A115_Chrysler_K_GF/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage></camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.0013139 -0.0736716 2.61533</rayStart><rayEnd>0.00761542 -0.128481 2.61343</rayEnd><rayUp>0.114 0.109 5</rayUp><size>0.6</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>1.2 0.6 0.000000 0.000000</tiling><density>116.89 112.148</density><aoTextureSize>512 256</aoTextureSize></camouflage></_105mm_Gun_T5E1_2>
       </guns>
       <models>
         <undamaged>vehicles/american/A115_Chrysler_K_GF/normal/lod0/Turret_01.model</undamaged>
@@ -1069,6 +1071,8 @@
       </customization>
       <camouflage>
         <tiling>1.2 1.2 0.000000 0.000000</tiling>
+        <density>89.4295 90.0078</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </Turret_1_A115_Chrysler_K_GF>
   </turrets0>

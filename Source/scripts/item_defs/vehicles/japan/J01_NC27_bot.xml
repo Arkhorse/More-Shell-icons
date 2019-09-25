@@ -98,6 +98,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>4 2 0.000000 0.000000</tiling>
+      <density>88.5596 88.6802</density>
+      <aoTextureSize>1024 512</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -809,7 +811,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_37mm_APX_SA18_bot>shared<maxAmmo>	240	</maxAmmo><armor><armor_1>	18	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	6	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	10	</gun></armor><pitchLimits><minPitch>0 -35 1 -35</minPitch><maxPitch>0 20 0.369444 20 0.383333 4 0.616667 4 0.630556 20 1 20</maxPitch></pitchLimits><shotDispersionRadius>0.54</shotDispersionRadius><reloadTime>2.5</reloadTime><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.2</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><turretYawLimits>-180 180</turretYawLimits><models><undamaged>vehicles/japan/J01_NC27/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/japan/J01_NC27/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/japan/J01_NC27/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/japan/J01_NC27/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/japan/J01_NC27/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.7 0.7 0.000000 0.000000</tiling></camouflage></_37mm_APX_SA18_bot>
+        <_37mm_APX_SA18_bot>shared<maxAmmo>	240	</maxAmmo><armor><armor_1>	18	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	6	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	10	</gun></armor><pitchLimits><minPitch>0 -35 1 -35</minPitch><maxPitch>0 20 0.369444 20 0.383333 4 0.616667 4 0.630556 20 1 20</maxPitch></pitchLimits><shotDispersionRadius>0.54</shotDispersionRadius><reloadTime>2.5</reloadTime><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.2</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><turretYawLimits>-180 180</turretYawLimits><models><undamaged>vehicles/japan/J01_NC27/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/japan/J01_NC27/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/japan/J01_NC27/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/japan/J01_NC27/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/japan/J01_NC27/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.7 0.7 0.000000 0.000000</tiling><density>135.699 136.076</density><aoTextureSize>256 256</aoTextureSize></camouflage></_37mm_APX_SA18_bot>
       </guns>
       <models>
         <undamaged>vehicles/japan/J01_NC27/normal/lod0/Turret_01.model</undamaged>
@@ -864,6 +866,10 @@
           <isUVProportional>	true	</isUVProportional>
         </slot>
       </customizationSlots>
+      <camouflage>
+        <density>107.1 107.13</density>
+        <aoTextureSize>256 256</aoTextureSize>
+      </camouflage>
     </Turret_1_NC27_bot>
   </turrets0>
   <engines>

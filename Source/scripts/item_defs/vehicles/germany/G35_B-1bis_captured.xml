@@ -127,6 +127,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>3 3 0.000000 0.000000</tiling>
+      <density>97.3908 97.2552</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -870,7 +872,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_47mm_SA35_L34>shared<armor><armor_1>	30	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	15	</gun></armor><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 0.394444 10 0.42753 6 0.458333 6 0.541667 6 0.605556 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.29</invisibilityFactorAtShot><models><undamaged>vehicles/german/G35_B-1bis_captured/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G35_B-1bis_captured/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G35_B-1bis_captured/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G35_B-1bis_captured/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G35_B-1bis_captured/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.202165 0.0398633 0.704071</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.202165 0.0398648 0.704069</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	-0.198411 0.236159 0.151476	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.9 0.4 0.000000 0.000000</tiling></camouflage></_47mm_SA35_L34>
+        <_47mm_SA35_L34>shared<armor><armor_1>	30	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	15	</gun></armor><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 0.394444 10 0.42753 6 0.458333 6 0.541667 6 0.605556 10 1 10</maxPitch></pitchLimits><invisibilityFactorAtShot>0.29</invisibilityFactorAtShot><models><undamaged>vehicles/german/G35_B-1bis_captured/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G35_B-1bis_captured/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G35_B-1bis_captured/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G35_B-1bis_captured/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G35_B-1bis_captured/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.202165 0.0398633 0.704071</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.202165 0.0398648 0.704069</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	-0.198411 0.236159 0.151476	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.9 0.4 0.000000 0.000000</tiling><density>117.255 117.074</density><aoTextureSize>256 128</aoTextureSize></camouflage></_47mm_SA35_L34>
       </guns>
       <models>
         <undamaged>vehicles/german/G35_B-1bis_captured/normal/lod0/Turret_01.model</undamaged>
@@ -925,6 +927,10 @@
           <anchorDirection>0.000000 1 0.000000</anchorDirection>
         </slot>
       </customizationSlots>
+      <camouflage>
+        <density>93.4555 93.719</density>
+        <aoTextureSize>256 256</aoTextureSize>
+      </camouflage>
     </B2_740Fturm>
   </turrets0>
   <engines>

@@ -94,6 +94,10 @@
         <isUVProportional>	true	</isUVProportional>
       </slot>
     </customizationSlots>
+    <camouflage>
+      <density>101.55 101.194</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Chassis_GB13_FV215b_IGR>
@@ -1070,7 +1074,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_120mm_Gun_L1A1_IGR>shared<maxAmmo>	35	</maxAmmo><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 7 1 7</maxPitch></pitchLimits><armor><armor_1>	254	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>152.4<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>203.2<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	50	</gun></armor><shotDispersionRadius>0.33</shotDispersionRadius><reloadTime>8.7</reloadTime><aimingTime>1.7</aimingTime><invisibilityFactorAtShot>0.19</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><models><undamaged>vehicles/british/GB13_FV215b/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/british/GB13_FV215b/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/british/GB13_FV215b/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB13_FV215b/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/british/GB13_FV215b/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.0111047 -0.0116706 4.09127</rayStart><rayEnd>-0.0335275 0.00493028 4.09127</rayEnd><rayUp>0.126 0.118 5</rayUp><size>0.798</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.5 0.5 0.000000 0.000000</tiling></camouflage></_120mm_Gun_L1A1_IGR>
+        <_120mm_Gun_L1A1_IGR>shared<maxAmmo>	35	</maxAmmo><pitchLimits><minPitch>0 -15 1 -15</minPitch><maxPitch>0 7 1 7</maxPitch></pitchLimits><armor><armor_1>	254	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>152.4<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>203.2<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	50	</gun></armor><shotDispersionRadius>0.33</shotDispersionRadius><reloadTime>8.7</reloadTime><aimingTime>1.7</aimingTime><invisibilityFactorAtShot>0.19</invisibilityFactorAtShot><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><models><undamaged>vehicles/british/GB13_FV215b/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/british/GB13_FV215b/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/british/GB13_FV215b/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB13_FV215b/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/british/GB13_FV215b/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.0111047 -0.0116706 4.09127</rayStart><rayEnd>-0.0335275 0.00493028 4.09127</rayEnd><rayUp>0.126 0.118 5</rayUp><size>0.798</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.5 0.5 0.000000 0.000000</tiling><density>106.003 106.24</density><aoTextureSize>512 512</aoTextureSize></camouflage></_120mm_Gun_L1A1_IGR>
       </guns>
       <models>
         <undamaged>vehicles/british/GB13_FV215b/normal/lod0/Turret_01.model</undamaged>
@@ -1136,6 +1140,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>1 0.5 0.000000 0.000000</tiling>
+        <density>100.951 100.507</density>
+        <aoTextureSize>1024 512</aoTextureSize>
       </camouflage>
     </Turret_1_GB13_FV215b_IGR>
   </turrets0>

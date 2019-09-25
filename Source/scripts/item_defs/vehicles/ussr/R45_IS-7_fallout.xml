@@ -98,6 +98,10 @@
         <isUVProportional>	true	</isUVProportional>
       </slot>
     </customizationSlots>
+    <camouflage>
+      <density>111.283 111.369</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Chassis_IS-7_fallout>
@@ -983,7 +987,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_130mm_S-70_fallout>shared<reloadTime>13.7</reloadTime><maxAmmo>	30	</maxAmmo><armor><armor_1>	350	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	240	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	110	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><gun>	60	</gun></armor><pitchLimits><minPitch>0 -18 1 -18</minPitch><maxPitch>0 6 0.311338 6 0.375 1 0.625 1 0.688662 6 1 6</maxPitch></pitchLimits><aimingTime>3.1</aimingTime><invisibilityFactorAtShot>0.153</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R45_IS-7/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R45_IS-7/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R45_IS-7/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R45_IS-7/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R45_IS-7/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 0.0527805 1.80402</rayStart><rayEnd>0.320126 -0.0663582 1.79826</rayEnd><rayUp>0.122 0.116 4</rayUp><size>0.683</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.46 0.46 0.000000 0.000000</tiling></camouflage></_130mm_S-70_fallout>
+        <_130mm_S-70_fallout>shared<reloadTime>13.7</reloadTime><maxAmmo>	30	</maxAmmo><armor><armor_1>	350	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	240	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	110	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><gun>	60	</gun></armor><pitchLimits><minPitch>0 -18 1 -18</minPitch><maxPitch>0 6 0.311338 6 0.375 1 0.625 1 0.688662 6 1 6</maxPitch></pitchLimits><aimingTime>3.1</aimingTime><invisibilityFactorAtShot>0.153</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R45_IS-7/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R45_IS-7/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R45_IS-7/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R45_IS-7/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R45_IS-7/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 0.0527805 1.80402</rayStart><rayEnd>0.320126 -0.0663582 1.79826</rayEnd><rayUp>0.122 0.116 4</rayUp><size>0.683</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.46 0.46 0.000000 0.000000</tiling><density>107.854 102.965</density><aoTextureSize>512 256</aoTextureSize></camouflage></_130mm_S-70_fallout>
       </guns>
       <models>
         <undamaged>vehicles/russian/R45_IS-7/normal/lod0/Turret_01.model</undamaged>
@@ -1049,6 +1053,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>1.3 0.64 0.000000 0.000000</tiling>
+        <density>93.9797 94.3027</density>
+        <aoTextureSize>1024 512</aoTextureSize>
       </camouflage>
     </Turret_IS-7_fallout>
   </turrets0>

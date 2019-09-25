@@ -1052,6 +1052,8 @@
     </customization>
     <camouflage>
       <tiling>2 2 0.000000 0.000000</tiling>
+      <density>92.2858 92.3416</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -1993,7 +1995,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_240mm_Howitzer_M1>shared<maxAmmo>	16	</maxAmmo><armor><gun>	30	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.83</shotDispersionRadius><aimingTime>5.9</aimingTime><invisibilityFactorAtShot>0.057</invisibilityFactorAtShot><reloadTime>	49	</reloadTime><shotDispersionFactors><turretRotation>0.45</turretRotation><afterShot>6.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><pitchLimits><minPitch>0 -65 1 -65</minPitch><maxPitch>0 0 1 0</maxPitch></pitchLimits><turretYawLimits>-12 12</turretYawLimits><models><undamaged>vehicles/american/A38_T92/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A38_T92/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A38_T92/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A38_T92/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A38_T92/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000002 0.15752 3.84896</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>-0.000000 0.67246 0.67246</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000002 0.15752 3.84896</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000003 0.156978 3.92682</rayStart><rayEnd>-0.147826 -0.0295697 3.91908</rayEnd><rayUp>0.239 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>1.3</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization></_240mm_Howitzer_M1>
+        <_240mm_Howitzer_M1>shared<maxAmmo>	16	</maxAmmo><armor><gun>	30	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.83</shotDispersionRadius><aimingTime>5.9</aimingTime><invisibilityFactorAtShot>0.057</invisibilityFactorAtShot><reloadTime>	49	</reloadTime><shotDispersionFactors><turretRotation>0.45</turretRotation><afterShot>6.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><pitchLimits><minPitch>0 -65 1 -65</minPitch><maxPitch>0 0 1 0</maxPitch></pitchLimits><turretYawLimits>-12 12</turretYawLimits><models><undamaged>vehicles/american/A38_T92/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A38_T92/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A38_T92/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A38_T92/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A38_T92/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customizationSlots><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000002 0.15752 3.84896</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>-0.000000 0.67246 0.67246</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000002 0.15752 3.84896</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000003 0.156978 3.92682</rayStart><rayEnd>-0.147826 -0.0295697 3.91908</rayEnd><rayUp>0.239 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>1.3</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><density>91.9989 92.0757</density><aoTextureSize>512 512</aoTextureSize></camouflage></_240mm_Howitzer_M1>
       </guns>
       <models>
         <undamaged>vehicles/american/A38_T92/normal/lod0/Turret_01.model</undamaged>
@@ -2029,6 +2031,10 @@
           <anchorDirection>0.000000 1 -0.000000</anchorDirection>
         </slot>
       </customizationSlots>
+      <camouflage>
+        <density>50.0 50.0</density>
+        <aoTextureSize>512 512</aoTextureSize>
+      </camouflage>
     </Turret_1_T92>
   </turrets0>
   <engines>

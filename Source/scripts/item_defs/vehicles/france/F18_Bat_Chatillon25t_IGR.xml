@@ -98,6 +98,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.7 1.7 0.000000 0.000000</tiling>
+      <density>129.165 127.769</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -859,7 +861,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_105mm_CN_105_57_IGR>shared<maxAmmo>	30	</maxAmmo><pitchLimits><minPitch>0 -11 0.269671 -11 0.333333 -8 0.666667 -8 0.730329 -11 1 -11</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><armor><armor_1>	50	</armor_1><armor_2>	70	</armor_2><armor_3>	30	</armor_3><armor_4>	15	</armor_4><armor_5>	15	</armor_5><armor_6>	15	</armor_6><armor_7>	45	</armor_7><armor_8>	0	</armor_8><armor_9>	40	</armor_9><armor_10>	70	</armor_10><armor_11>	30	</armor_11><gun>	35	</gun></armor><shotDispersionRadius>0.38</shotDispersionRadius><reloadTime>	40	</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><invisibilityFactorAtShot>0.198</invisibilityFactorAtShot><clip><count>	5	</count><rate>	22	</rate></clip><aimingTime>2.7</aimingTime><models><undamaged>vehicles/french/F18_Bat_Chatillon25t/normal/lod0/Gun_03.model</undamaged><destroyed>vehicles/french/F18_Bat_Chatillon25t/crash/lod0/Gun_03.model</destroyed><exploded>vehicles/french/F18_Bat_Chatillon25t/crash/lod0/Gun_03.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F18_Bat_Chatillon25t/collision/Gun_03.model</collisionModelServer><collisionModelClient>vehicles/french/F18_Bat_Chatillon25t/collision_client/Gun_03.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.00421142 0.0165037 3.5</rayStart><rayEnd>0.00793971 -0.0284059 3.18401</rayEnd><rayUp>0.094 0.09 5</rayUp><size>0.438</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>2 1 0.000000 0.000000</tiling></camouflage></_105mm_CN_105_57_IGR>
+        <_105mm_CN_105_57_IGR>shared<maxAmmo>	30	</maxAmmo><pitchLimits><minPitch>0 -11 0.269671 -11 0.333333 -8 0.666667 -8 0.730329 -11 1 -11</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><armor><armor_1>	50	</armor_1><armor_2>	70	</armor_2><armor_3>	30	</armor_3><armor_4>	15	</armor_4><armor_5>	15	</armor_5><armor_6>	15	</armor_6><armor_7>	45	</armor_7><armor_8>	0	</armor_8><armor_9>	40	</armor_9><armor_10>	70	</armor_10><armor_11>	30	</armor_11><gun>	35	</gun></armor><shotDispersionRadius>0.38</shotDispersionRadius><reloadTime>	40	</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><invisibilityFactorAtShot>0.198</invisibilityFactorAtShot><clip><count>	5	</count><rate>	22	</rate></clip><aimingTime>2.7</aimingTime><models><undamaged>vehicles/french/F18_Bat_Chatillon25t/normal/lod0/Gun_03.model</undamaged><destroyed>vehicles/french/F18_Bat_Chatillon25t/crash/lod0/Gun_03.model</destroyed><exploded>vehicles/french/F18_Bat_Chatillon25t/crash/lod0/Gun_03.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F18_Bat_Chatillon25t/collision/Gun_03.model</collisionModelServer><collisionModelClient>vehicles/french/F18_Bat_Chatillon25t/collision_client/Gun_03.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.00421142 0.0165037 3.5</rayStart><rayEnd>0.00793971 -0.0284059 3.18401</rayEnd><rayUp>0.094 0.09 5</rayUp><size>0.438</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>2 1 0.000000 0.000000</tiling><density>118.079 116.364</density><aoTextureSize>1024 512</aoTextureSize></camouflage></_105mm_CN_105_57_IGR>
       </guns>
       <models>
         <undamaged>vehicles/french/F18_Bat_Chatillon25t/normal/lod0/Turret_01.model</undamaged>
@@ -915,6 +917,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>1 0.5 0.000000 0.000000</tiling>
+        <density>115.135 115.86</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </Turret_1_Bat_Chatillon25t_IGR>
   </turrets0>

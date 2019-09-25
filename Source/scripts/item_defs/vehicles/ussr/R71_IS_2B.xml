@@ -119,6 +119,10 @@
         <anchorDirection>0.000000 0.3094 -0.950932</anchorDirection>
       </slot>
     </customizationSlots>
+    <camouflage>
+      <density>96.9059 97.1165</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Chassis_R71_IS_2B>
@@ -837,7 +841,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_122-mm_D-25T_with_wedges_shutter_B>shared<maxAmmo>	28	</maxAmmo><armor><armor_1>	100	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	60	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	60	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	50	</gun></armor><shotDispersionRadius>0.46</shotDispersionRadius><reloadTime>12.3</reloadTime><aimingTime>3.4</aimingTime><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 6 0.366894 6 0.430556 2 0.569444 2 0.633106 6 1 6</maxPitch></pitchLimits><invisibilityFactorAtShot>0.19</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R71_IS_2_Berlin/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R71_IS_2_Berlin/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R71_IS_2_Berlin/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R71_IS_2_Berlin/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R71_IS_2_Berlin/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.00225778 -0.0206706 1.15</rayStart><rayEnd>0.121578 -0.153562 1.09977</rayEnd><rayUp>0.096 0.094 5</rayUp><size>0.563</size><hideIfDamaged>	true	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.00102887 -0.0103354 1.94051</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.00102887 -0.0103354 1.94051</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.001069 0.19399 0.212025</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.595 0.595 0.000000 0.000000</tiling></camouflage></_122-mm_D-25T_with_wedges_shutter_B>
+        <_122-mm_D-25T_with_wedges_shutter_B>shared<maxAmmo>	28	</maxAmmo><armor><armor_1>	100	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	60	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	60	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	50	</gun></armor><shotDispersionRadius>0.46</shotDispersionRadius><reloadTime>12.3</reloadTime><aimingTime>3.4</aimingTime><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 6 0.366894 6 0.430556 2 0.569444 2 0.633106 6 1 6</maxPitch></pitchLimits><invisibilityFactorAtShot>0.19</invisibilityFactorAtShot><models><undamaged>vehicles/russian/R71_IS_2_Berlin/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R71_IS_2_Berlin/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R71_IS_2_Berlin/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R71_IS_2_Berlin/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R71_IS_2_Berlin/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.00225778 -0.0206706 1.15</rayStart><rayEnd>0.121578 -0.153562 1.09977</rayEnd><rayUp>0.096 0.094 5</rayUp><size>0.563</size><hideIfDamaged>	true	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.00102887 -0.0103354 1.94051</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.00102887 -0.0103354 1.94051</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.001069 0.19399 0.212025</anchorPosition><anchorDirection>-0.000000 0.000000 1</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.595 0.595 0.000000 0.000000</tiling><density>110.554 111.198</density><aoTextureSize>512 512</aoTextureSize></camouflage></_122-mm_D-25T_with_wedges_shutter_B>
       </guns>
       <models>
         <undamaged>vehicles/russian/R71_IS_2_Berlin/normal/lod0/Turret_01.model</undamaged>
@@ -895,6 +899,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.58 0.58 0.000000 0.000000</tiling>
+        <density>92.8917 93.6893</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </Turret_1_R71_IS_2B>
   </turrets0>

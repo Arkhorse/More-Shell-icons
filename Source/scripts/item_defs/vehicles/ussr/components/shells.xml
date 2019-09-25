@@ -556,6 +556,22 @@
       <devices>	61	</devices>
     </damage>
   </_45mm_UOF-243U>
+  <_45mm_UBR-240PA_race>
+    <id>	224	</id>
+    <userString>#ussr_vehicles:_45mm_UBR-240PA_race</userString>
+    <icon>ap_cr</icon>
+    <price>	0	</price>
+    <notInShop>	true	</notInShop>
+    <improved>	true	</improved>
+    <kind>ARMOR_PIERCING_CR</kind>
+    <caliber>	45	</caliber>
+    <isTracer>	true	</isTracer>
+    <effects>smallAPCR</effects>
+    <damage>
+      <armor>	22	</armor>
+      <devices>	61	</devices>
+    </damage>
+  </_45mm_UBR-240PA_race>
   <_57mm_UBR-271KO>
     <id>	19	</id>
     <userString>#ussr_vehicles:_57mm_UBR-271KO</userString>

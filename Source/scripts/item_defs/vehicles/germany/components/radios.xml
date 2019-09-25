@@ -38,6 +38,7 @@
     <Radio_PzIV>	254	</Radio_PzIV>
     <Radio_VK4502P>	255	</Radio_VK4502P>
     <Radio_Auf_Panther>	256	</Radio_Auf_Panther>
+    <FuG5_race>	257	</FuG5_race>
     <FuG7A_IGR>	60001	</FuG7A_IGR>
     <FuG12_IGR>	60002	</FuG12_IGR>
     <FuG7_IGR>	60003	</FuG7_IGR>
@@ -579,8 +580,21 @@
       <maxHealth>	90	</maxHealth>
       <maxRegenHealth>	75	</maxRegenHealth>
       <repairCost>	0	</repairCost>
-      <notInShop>	true	</notInShop>
     </Development_Radio>
+    <FuG5_race>
+      <userString>#germany_vehicles:FuG5_race</userString>
+      <tags>
+      </tags>
+      <level>	3	</level>
+      <notInShop>	true	</notInShop>
+      <price>	630	</price>
+      <weight>	50	</weight>
+      <distance>	310	</distance>
+      <maxHealth>	100	</maxHealth>
+      <maxRegenHealth>	49	</maxRegenHealth>
+      <invulnerable>	true	</invulnerable>
+      <repairCost>0.5</repairCost>
+    </FuG5_race>
     <FuG7A_IGR>
       <userString>#igr_vehicles:FuG7A_IGR</userString>
       <tags>

@@ -155,6 +155,22 @@
       <devices>	40	</devices>
     </damage>
   </_30mm_M>
+  <_30mm_Pzgr43_race>
+    <id>	280	</id>
+    <userString>#germany_vehicles:_30mm_Pzgr43_race</userString>
+    <icon>ap_cr</icon>
+    <price>	0	</price>
+    <notInShop>	true	</notInShop>
+    <improved>	true	</improved>
+    <kind>ARMOR_PIERCING_CR</kind>
+    <caliber>	30	</caliber>
+    <isTracer>	true	</isTracer>
+    <effects>smallAPCR</effects>
+    <damage>
+      <armor>	6	</armor>
+      <devices>	40	</devices>
+    </damage>
+  </_30mm_Pzgr43_race>
   <_37mm_Pzgr36>
     <id>	2	</id>
     <userString>#germany_vehicles:_37mm_Pzgr36</userString>

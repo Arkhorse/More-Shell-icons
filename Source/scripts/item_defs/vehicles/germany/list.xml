@@ -1353,6 +1353,17 @@
     <tags>heavyTank improvedVentilation_class3_user antifragmentationLining_superheavy_user enhancedLongitudinalTorsions_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user HD</tags>
     <level>	8	</level>
   </G141_VK7501K>
+  <G00_VK1602_race>
+    <id>	252	</id>
+    <userString>#germany_vehicles:VK1602_race</userString>
+    <shortUserString>#germany_vehicles:VK1602_race_short</shortUserString>
+    <description>#germany_vehicles:VK1602_race_descr</description>
+    <sellForGold>	false	</sellForGold>
+    <notInShop>	true	</notInShop>
+    <price>	0	</price>
+    <tags>lightTank improvedVentilation_class1_user scout aimingStabilizer_Mk1_user enhancedTorsions1t_user HD cannot_be_sold secret event_battles lockOutfit lockCrew</tags>
+    <level>	5	</level>
+  </G00_VK1602_race>
   <G65_JagdTiger_SdKfz_185_IGR>
     <id>	151	</id>
     <userString>#igr_vehicles:JagdTiger_SdKfz_185_IGR</userString>

@@ -117,6 +117,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>2.2 1.1 0.000000 0.000000</tiling>
+      <density>104.454 104.66</density>
+      <aoTextureSize>1024 512</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -971,7 +973,7 @@
         <repairCost>2.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_15mm_Machine_gun_BESA_>shared<maxAmmo>	400	</maxAmmo><pitchLimits><minPitch>0 -37 1 -37</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><armor><armor_1>	14	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	14	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	14	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	11	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><gun>	10	</gun></armor><shotDispersionRadius>0.52</shotDispersionRadius><reloadTime>	18	</reloadTime><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>1.1</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.5</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><models><undamaged>vehicles/british/GB76_Mk_VIC/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/british/GB76_Mk_VIC/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/british/GB76_Mk_VIC/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB76_Mk_VIC/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/british/GB76_Mk_VIC/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.0651777 0.00490344 0.245175</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000000 0.111311 0.11131</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.4 0.4 0.000000 0.000000</tiling></camouflage></_15mm_Machine_gun_BESA_>
+        <_15mm_Machine_gun_BESA_>shared<maxAmmo>	400	</maxAmmo><pitchLimits><minPitch>0 -37 1 -37</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><armor><armor_1>	14	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	14	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	14	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	11	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><gun>	10	</gun></armor><shotDispersionRadius>0.52</shotDispersionRadius><reloadTime>	18	</reloadTime><shotDispersionFactors><turretRotation>0.08</turretRotation><afterShot>1.1</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>1.5</aimingTime><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><models><undamaged>vehicles/british/GB76_Mk_VIC/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/british/GB76_Mk_VIC/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/british/GB76_Mk_VIC/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB76_Mk_VIC/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/british/GB76_Mk_VIC/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.0651777 0.00490344 0.245175</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000000 0.111311 0.11131</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.4 0.4 0.000000 0.000000</tiling><density>149.253 149.58</density><aoTextureSize>256 256</aoTextureSize></camouflage></_15mm_Machine_gun_BESA_>
       </guns>
       <models>
         <undamaged>vehicles/british/GB76_Mk_VIC/normal/lod0/Turret_01.model</undamaged>
@@ -1037,6 +1039,10 @@
           <anchorDirection>0.000000 1 0.000000</anchorDirection>
         </slot>
       </customizationSlots>
+      <camouflage>
+        <density>124.289 124.454</density>
+        <aoTextureSize>512 512</aoTextureSize>
+      </camouflage>
     </Turret_1_GB76_Mk_VIC>
   </turrets0>
   <engines>

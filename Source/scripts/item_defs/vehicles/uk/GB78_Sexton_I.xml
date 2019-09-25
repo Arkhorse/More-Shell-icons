@@ -33,6 +33,7 @@
     <tiling>1 1 0 0</tiling>
     <exclusionMask>
     </exclusionMask>
+    <density>1 1</density>
   </camouflage>
   <hull>
     <fakeTurrets>
@@ -161,6 +162,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>2 2 0.000000 0.000000</tiling>
+      <density>104.107 104.096</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -1069,7 +1072,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_25pdr_Field_Gun>shared<maxAmmo>	112	</maxAmmo><reloadTime>	12	</reloadTime><pitchLimits><minPitch>0 -40 1 -40</minPitch><maxPitch>0 9 1 9</maxPitch></pitchLimits><armor><armor_1>19.1<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_1><gun>	15	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.76</shotDispersionRadius><aimingTime>5.5</aimingTime><shotDispersionFactors><turretRotation>0.44</turretRotation><afterShot>	6	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><turretYawLimits>-25 15</turretYawLimits><models><undamaged>vehicles/british/GB78_Sexton_I/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/british/GB78_Sexton_I/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/british/GB78_Sexton_I/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB78_Sexton_I/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/british/GB78_Sexton_I/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.00031831 0.0279953 0.88844</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.00031831 0.0279953 0.88844</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.239646 0.239647	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots></_25pdr_Field_Gun>
+        <_25pdr_Field_Gun>shared<maxAmmo>	112	</maxAmmo><reloadTime>	12	</reloadTime><pitchLimits><minPitch>0 -40 1 -40</minPitch><maxPitch>0 9 1 9</maxPitch></pitchLimits><armor><armor_1>19.1<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_1><gun>	15	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.76</shotDispersionRadius><aimingTime>5.5</aimingTime><shotDispersionFactors><turretRotation>0.44</turretRotation><afterShot>	6	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><invisibilityFactorAtShot>0.238</invisibilityFactorAtShot><turretYawLimits>-25 15</turretYawLimits><models><undamaged>vehicles/british/GB78_Sexton_I/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/british/GB78_Sexton_I/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/british/GB78_Sexton_I/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB78_Sexton_I/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/british/GB78_Sexton_I/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.00031831 0.0279953 0.88844</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.00031831 0.0279953 0.88844</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.239646 0.239647	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><density>98.6158 96.1414</density><aoTextureSize>512 512</aoTextureSize></camouflage></_25pdr_Field_Gun>
       </guns>
       <models>
         <undamaged>vehicles/british/GB78_Sexton_I/normal/lod0/Turret_01.model</undamaged>
@@ -1100,6 +1103,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>1 0.5 0.000000 0.000000</tiling>
+        <density>88.7 91.2949</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </Turret_1_Sexton_I>
   </turrets0>

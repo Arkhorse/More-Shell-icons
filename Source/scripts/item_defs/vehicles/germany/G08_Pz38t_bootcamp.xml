@@ -103,6 +103,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1.6 1.6 0.000000 0.000000</tiling>
+      <density>109.518 110.078</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -869,7 +871,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_37mm_KwK_38t_L47_bootcamp>shared<pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><maxAmmo>	90	</maxAmmo><shotDispersionFactors><turretRotation>0.14</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><armor><armor_1>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><shotDispersionRadius>0.41</shotDispersionRadius><reloadTime>2.3</reloadTime><aimingTime>1.7</aimingTime><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><models><undamaged>vehicles/german/G08_Pz38t/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G08_Pz38t/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G08_Pz38t/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G08_Pz38t/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G08_Pz38t/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.52 0.34 0.000000 0.000000</tiling></camouflage></_37mm_KwK_38t_L47_bootcamp>
+        <_37mm_KwK_38t_L47_bootcamp>shared<pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><maxAmmo>	90	</maxAmmo><shotDispersionFactors><turretRotation>0.14</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><armor><armor_1>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	12	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><shotDispersionRadius>0.41</shotDispersionRadius><reloadTime>2.3</reloadTime><aimingTime>1.7</aimingTime><invisibilityFactorAtShot>0.255</invisibilityFactorAtShot><models><undamaged>vehicles/german/G08_Pz38t/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/german/G08_Pz38t/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/german/G08_Pz38t/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G08_Pz38t/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/german/G08_Pz38t/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.52 0.34 0.000000 0.000000</tiling><density>195.799 195.921</density><aoTextureSize>512 256</aoTextureSize></camouflage></_37mm_KwK_38t_L47_bootcamp>
       </guns>
       <models>
         <undamaged>vehicles/german/G08_Pz38t/normal/lod0/Turret_01.model</undamaged>
@@ -918,6 +920,8 @@
         <tiling>0.76 0.43 0.000000 0.000000</tiling>
         <exclusionMask>
         </exclusionMask>
+        <density>114.722 114.731</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </LT-40_turm_bootcamp>
   </turrets0>

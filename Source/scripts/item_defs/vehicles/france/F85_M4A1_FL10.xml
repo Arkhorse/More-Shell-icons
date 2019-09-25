@@ -148,6 +148,10 @@
         <camouflage>	HULL	</camouflage>
       </customizableVehicleAreas>
     </customization>
+    <camouflage>
+      <density>120.6 119.333</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Chassis_F85_M4A1_FL10>
@@ -751,7 +755,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_75mm_SA50_mle_50>shared<maxAmmo>	72	</maxAmmo><armor><armor_1>	40	</armor_1><armor_2>	30	</armor_2><armor_3>	20	</armor_3><armor_4>	20	</armor_4><armor_5>	20	</armor_5><armor_6>	10	</armor_6><armor_7>	40	</armor_7><armor_8>	0	</armor_8><armor_9>	40	</armor_9><gun>	20	</gun></armor><reloadTime>	18	</reloadTime><invisibilityFactorAtShot>0.234</invisibilityFactorAtShot><shotDispersionRadius>0.38</shotDispersionRadius><shotDispersionFactors><turretRotation>0.18</turretRotation><afterShot>	3	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>	2	</aimingTime><pitchLimits><minPitch>0 -12 1 -12</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><clip><count>	4	</count><rate>34.29</rate></clip><models><undamaged>vehicles/french/F85_M4A1_FL10/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/french/F85_M4A1_FL10/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/french/F85_M4A1_FL10/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F85_M4A1_FL10/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/french/F85_M4A1_FL10/collision_client/Gun_01.model</collisionModelClient></hitTester><customizationSlots><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000807273 -0.0171962 2.13056</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.000000 0.135921 0.13592</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000807273 -0.0171962 2.13056</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.004 -0.025 2.94652</rayStart><rayEnd>0.000000 0.000000 1.56018</rayEnd><rayUp>	0.072519 0.000000 0.000000	</rayUp><applyToFabric>	true	</applyToFabric><size>0.55</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><effects>shot_medium_mb</effects><animateEmblemSlots>	true	</animateEmblemSlots></_75mm_SA50_mle_50>
+        <_75mm_SA50_mle_50>shared<maxAmmo>	72	</maxAmmo><armor><armor_1>	40	</armor_1><armor_2>	30	</armor_2><armor_3>	20	</armor_3><armor_4>	20	</armor_4><armor_5>	20	</armor_5><armor_6>	10	</armor_6><armor_7>	40	</armor_7><armor_8>	0	</armor_8><armor_9>	40	</armor_9><gun>	20	</gun></armor><reloadTime>	18	</reloadTime><invisibilityFactorAtShot>0.234</invisibilityFactorAtShot><shotDispersionRadius>0.38</shotDispersionRadius><shotDispersionFactors><turretRotation>0.18</turretRotation><afterShot>	3	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>	2	</aimingTime><pitchLimits><minPitch>0 -12 1 -12</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><clip><count>	4	</count><rate>34.29</rate></clip><models><undamaged>vehicles/french/F85_M4A1_FL10/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/french/F85_M4A1_FL10/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/french/F85_M4A1_FL10/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F85_M4A1_FL10/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/french/F85_M4A1_FL10/collision_client/Gun_01.model</collisionModelClient></hitTester><customizationSlots><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000807273 -0.0171962 2.13056</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>0.000000 0.135921 0.13592</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000807273 -0.0171962 2.13056</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.004 -0.025 2.94652</rayStart><rayEnd>0.000000 0.000000 1.56018</rayEnd><rayUp>	0.072519 0.000000 0.000000	</rayUp><applyToFabric>	true	</applyToFabric><size>0.55</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><effects>shot_medium_mb</effects><animateEmblemSlots>	true	</animateEmblemSlots><camouflage><density>98.8413 98.5786</density><aoTextureSize>1024 512</aoTextureSize></camouflage></_75mm_SA50_mle_50>
       </guns>
       <models>
         <undamaged>vehicles/french/F85_M4A1_FL10/normal/lod0/Turret_01.model</undamaged>
@@ -788,6 +792,8 @@
       </customization>
       <camouflage>
         <tiling>0.2 0.4 0.000000 0.000000</tiling>
+        <density>144.704 144.803</density>
+        <aoTextureSize>256 512</aoTextureSize>
       </camouflage>
     </Turret_1_F85_M4A1_FL10>
   </turrets0>

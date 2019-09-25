@@ -126,6 +126,10 @@
         <isUVProportional>	true	</isUVProportional>
       </slot>
     </customizationSlots>
+    <camouflage>
+      <density>101.576 101.621</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Chassis_GB77_FV304_2_IGR>
@@ -795,7 +799,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_4.5inch_SPG_Howitzer_IGR>shared<maxAmmo>	64	</maxAmmo><armor><gun>	20	</gun></armor><pitchLimits><minPitch>0 -45 1 -45</minPitch><maxPitch>0 1.5 1 1.5</maxPitch></pitchLimits><shotDispersionRadius>0.7</shotDispersionRadius><reloadTime>13.5</reloadTime><shotDispersionFactors><turretRotation>0.42</turretRotation><afterShot>	6	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>4.8</aimingTime><invisibilityFactorAtShot>0.209</invisibilityFactorAtShot><turretYawLimits>-14 17</turretYawLimits><effects>shot_large_mb</effects><models><undamaged>vehicles/british/GB77_FV304/normal/lod0/Gun_02.model</undamaged><destroyed>vehicles/british/GB77_FV304/crash/lod0/Gun_02.model</destroyed><exploded>vehicles/british/GB77_FV304/crash/lod0/Gun_02.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB77_FV304/collision/Gun_02.model</collisionModelServer><collisionModelClient>vehicles/british/GB77_FV304/collision_client/Gun_02.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000001 0.0175032 1.02003</rayStart><rayEnd>0.0174813 -0.113879 1.01611</rayEnd><rayUp>0.084 0.077 5</rayUp><size>0.279</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.5 0.2 0.000000 0.000000</tiling></camouflage></_4.5inch_SPG_Howitzer_IGR>
+        <_4.5inch_SPG_Howitzer_IGR>shared<maxAmmo>	64	</maxAmmo><armor><gun>	20	</gun></armor><pitchLimits><minPitch>0 -45 1 -45</minPitch><maxPitch>0 1.5 1 1.5</maxPitch></pitchLimits><shotDispersionRadius>0.7</shotDispersionRadius><reloadTime>13.5</reloadTime><shotDispersionFactors><turretRotation>0.42</turretRotation><afterShot>	6	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>4.8</aimingTime><invisibilityFactorAtShot>0.209</invisibilityFactorAtShot><turretYawLimits>-14 17</turretYawLimits><effects>shot_large_mb</effects><models><undamaged>vehicles/british/GB77_FV304/normal/lod0/Gun_02.model</undamaged><destroyed>vehicles/british/GB77_FV304/crash/lod0/Gun_02.model</destroyed><exploded>vehicles/british/GB77_FV304/crash/lod0/Gun_02.model</exploded></models><hitTester><collisionModelServer>vehicles/british/GB77_FV304/collision/Gun_02.model</collisionModelServer><collisionModelClient>vehicles/british/GB77_FV304/collision_client/Gun_02.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000001 0.0175032 1.02003</rayStart><rayEnd>0.0174813 -0.113879 1.01611</rayEnd><rayUp>0.084 0.077 5</rayUp><size>0.279</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.5 0.2 0.000000 0.000000</tiling><density>113.075 112.135</density><aoTextureSize>512 256</aoTextureSize></camouflage></_4.5inch_SPG_Howitzer_IGR>
       </guns>
       <models>
         <undamaged>vehicles/british/GB77_FV304/normal/lod0/Turret_02.model</undamaged>
@@ -830,6 +834,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.3 0.3 0.000000 0.000000</tiling>
+        <density>96.2362 96.2087</density>
+        <aoTextureSize>256 256</aoTextureSize>
       </camouflage>
     </Turret_2_GB77_FV304_IGR>
   </turrets0>

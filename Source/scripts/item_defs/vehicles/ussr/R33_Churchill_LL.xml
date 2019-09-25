@@ -114,6 +114,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>2.6 2.6 0.000000 0.000000</tiling>
+      <density>93.2747 93.4628</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -867,7 +869,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <QF_6_pounder_Mk_III>shared<armor><armor_1>76.2<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>108.9<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	15	</gun></armor><invisibilityFactorAtShot>0.28</invisibilityFactorAtShot><pitchLimits><minPitch>0 -12 1 -12</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><models><undamaged>vehicles/russian/R33_Churchill_LL/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R33_Churchill_LL/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R33_Churchill_LL/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R33_Churchill_LL/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R33_Churchill_LL/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000001 -0.00209032 0.914147</rayStart><rayEnd>-0.00257903 -0.0244873 0.914161</rayEnd><rayUp>0.042 0.041 5</rayUp><size>0.372</size><hideIfDamaged>	true	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000000 -0.00104516 0.887279</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000000 -0.00104516 0.887279</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.148587 0.148587	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.4 0.2 0.000000 0.000000</tiling></camouflage></QF_6_pounder_Mk_III>
+        <QF_6_pounder_Mk_III>shared<armor><armor_1>76.2<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>108.9<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><gun>	15	</gun></armor><invisibilityFactorAtShot>0.28</invisibilityFactorAtShot><pitchLimits><minPitch>0 -12 1 -12</minPitch><maxPitch>0 6 1 6</maxPitch></pitchLimits><models><undamaged>vehicles/russian/R33_Churchill_LL/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R33_Churchill_LL/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R33_Churchill_LL/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R33_Churchill_LL/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R33_Churchill_LL/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.000001 -0.00209032 0.914147</rayStart><rayEnd>-0.00257903 -0.0244873 0.914161</rayEnd><rayUp>0.042 0.041 5</rayUp><size>0.372</size><hideIfDamaged>	true	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>-0.000000 -0.00104516 0.887279</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>-0.000000 -0.00104516 0.887279</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.148587 0.148587	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot></customizationSlots><camouflage><tiling>0.4 0.2 0.000000 0.000000</tiling><density>256.746 311.473</density><aoTextureSize>512 256</aoTextureSize></camouflage></QF_6_pounder_Mk_III>
       </guns>
       <models>
         <undamaged>vehicles/russian/R33_Churchill_LL/normal/lod0/Turret_01.model</undamaged>
@@ -943,6 +945,10 @@
           <anchorDirection>0.000000 1 0.000000</anchorDirection>
         </slot>
       </customizationSlots>
+      <camouflage>
+        <density>118.426 118.451</density>
+        <aoTextureSize>512 512</aoTextureSize>
+      </camouflage>
     </Churchll_mk_III>
   </turrets0>
   <engines>

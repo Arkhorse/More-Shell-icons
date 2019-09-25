@@ -105,6 +105,10 @@
         <isUVProportional>	true	</isUVProportional>
       </slot>
     </customizationSlots>
+    <camouflage>
+      <density>97.1469 96.4924</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <PzVIB_Vetstaerktketten_T>
@@ -896,7 +900,7 @@
         <repairCost>2.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_88mm_KwK_43_L71_T>shared<maxAmmo>	72	</maxAmmo><pitchLimits><minPitch>0 -17 1 -17</minPitch><maxPitch>0 7 1 7</maxPitch></pitchLimits><reloadTime>8.2</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><armor><armor_1>	200	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_1><armor_2>	200	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_2><armor_3>	200	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_3><armor_5>	200	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_5><gun>	35	</gun></armor><shotDispersionRadius>0.34</shotDispersionRadius><aimingTime>2.9</aimingTime><models><undamaged>vehicles/german/G16_PzVIB_Tiger_II_training/normal/lod0/Gun_02.model</undamaged><destroyed>vehicles/german/G16_PzVIB_Tiger_II_training/crash/lod0/Gun_02.model</destroyed><exploded>vehicles/german/G16_PzVIB_Tiger_II_training/crash/lod0/Gun_02.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G16_PzVIB_Tiger_II_training/collision/Gun_02.model</collisionModelServer><collisionModelClient>vehicles/german/G16_PzVIB_Tiger_II_training/collision_client/Gun_02.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.0437177 -0.0636021 4.20505</rayStart><rayEnd>0.188498 -0.0977738 4.20061</rayEnd><rayUp>0.074 0.07 3</rayUp><size>0.405</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots></_88mm_KwK_43_L71_T>
+        <_88mm_KwK_43_L71_T>shared<maxAmmo>	72	</maxAmmo><pitchLimits><minPitch>0 -17 1 -17</minPitch><maxPitch>0 7 1 7</maxPitch></pitchLimits><reloadTime>8.2</reloadTime><shotDispersionFactors><turretRotation>0.16</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><armor><armor_1>	200	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_1><armor_2>	200	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_2><armor_3>	200	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_3><armor_5>	200	<vehicleDamageFactor>1.0</vehicleDamageFactor></armor_5><gun>	35	</gun></armor><shotDispersionRadius>0.34</shotDispersionRadius><aimingTime>2.9</aimingTime><models><undamaged>vehicles/german/G16_PzVIB_Tiger_II_training/normal/lod0/Gun_02.model</undamaged><destroyed>vehicles/german/G16_PzVIB_Tiger_II_training/crash/lod0/Gun_02.model</destroyed><exploded>vehicles/german/G16_PzVIB_Tiger_II_training/crash/lod0/Gun_02.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G16_PzVIB_Tiger_II_training/collision/Gun_02.model</collisionModelServer><collisionModelClient>vehicles/german/G16_PzVIB_Tiger_II_training/collision_client/Gun_02.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.0437177 -0.0636021 4.20505</rayStart><rayEnd>0.188498 -0.0977738 4.20061</rayEnd><rayUp>0.074 0.07 3</rayUp><size>0.405</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><density>88.9836 107.186</density><aoTextureSize>512 512</aoTextureSize></camouflage></_88mm_KwK_43_L71_T>
       </guns>
       <models>
         <undamaged>vehicles/german/G16_PzVIB_Tiger_II_training/normal/lod0/Turret_01.model</undamaged>
@@ -954,6 +958,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.7 0.7 0.000000 0.000000</tiling>
+        <density>99.3301 98.2386</density>
+        <aoTextureSize>512 512</aoTextureSize>
       </camouflage>
     </PzVIB_Porsche_Turm_T>
   </turrets0>

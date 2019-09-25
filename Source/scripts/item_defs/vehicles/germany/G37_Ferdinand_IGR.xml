@@ -145,6 +145,10 @@
         <isUVProportional>	true	</isUVProportional>
       </slot>
     </customizationSlots>
+    <camouflage>
+      <density>85.6283 83.6211</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Ferdinandvetstaerktketten_IGR>
@@ -964,7 +968,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_128mm_PaK44_L55_IGR>shared<pitchLimits><minPitch>0 -14 1 -14</minPitch><maxPitch>0 8 1 8</maxPitch></pitchLimits><maxAmmo>	30	</maxAmmo><reloadTime>11.7</reloadTime><armor><armor_1>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	100	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	110	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_9>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_9><gun>	60	</gun></armor><shotDispersionRadius>0.35</shotDispersionRadius><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.162</invisibilityFactorAtShot><turretYawLimits>-15 15</turretYawLimits><models><undamaged>vehicles/german/G37_Ferdinand/normal/lod0/Gun_03.model</undamaged><destroyed>vehicles/german/G37_Ferdinand/crash/lod0/Gun_03.model</destroyed><exploded>vehicles/german/G37_Ferdinand/crash/lod0/Gun_03.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G37_Ferdinand/collision/Gun_03.model</collisionModelServer><collisionModelClient>vehicles/german/G37_Ferdinand/collision_client/Gun_03.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 -0.0358441 4.65264</rayStart><rayEnd>-0.0811165 -0.157317 4.65054</rayEnd><rayUp>0.11 0.107 4</rayUp><size>0.536</size><hideIfDamaged>	true	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.49 0.49 0.000000 0.000000</tiling></camouflage></_128mm_PaK44_L55_IGR>
+        <_128mm_PaK44_L55_IGR>shared<pitchLimits><minPitch>0 -14 1 -14</minPitch><maxPitch>0 8 1 8</maxPitch></pitchLimits><maxAmmo>	30	</maxAmmo><reloadTime>11.7</reloadTime><armor><armor_1>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	100	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	110	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_9>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_9><gun>	60	</gun></armor><shotDispersionRadius>0.35</shotDispersionRadius><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.162</invisibilityFactorAtShot><turretYawLimits>-15 15</turretYawLimits><models><undamaged>vehicles/german/G37_Ferdinand/normal/lod0/Gun_03.model</undamaged><destroyed>vehicles/german/G37_Ferdinand/crash/lod0/Gun_03.model</destroyed><exploded>vehicles/german/G37_Ferdinand/crash/lod0/Gun_03.model</exploded></models><hitTester><collisionModelServer>vehicles/german/G37_Ferdinand/collision/Gun_03.model</collisionModelServer><collisionModelClient>vehicles/german/G37_Ferdinand/collision_client/Gun_03.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 -0.0358441 4.65264</rayStart><rayEnd>-0.0811165 -0.157317 4.65054</rayEnd><rayUp>0.11 0.107 4</rayUp><size>0.536</size><hideIfDamaged>	true	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>0.49 0.49 0.000000 0.000000</tiling><density>91.2199 88.6278</density><aoTextureSize>512 512</aoTextureSize></camouflage></_128mm_PaK44_L55_IGR>
       </guns>
       <models>
         <undamaged>vehicles/german/G37_Ferdinand/normal/lod0/Turret_01.model</undamaged>
@@ -986,6 +990,10 @@
           <camouflage>TURRET</camouflage>
         </customizableVehicleAreas>
       </customization>
+      <camouflage>
+        <density>185.066 178.83</density>
+        <aoTextureSize>1024 1024</aoTextureSize>
+      </camouflage>
     </Ferdinandturm_IGR>
   </turrets0>
   <engines>

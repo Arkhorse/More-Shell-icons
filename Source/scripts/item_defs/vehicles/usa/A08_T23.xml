@@ -96,6 +96,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>1 1 0.14 0.000000</tiling>
+      <density>16.2785 16.0146</density>
+      <aoTextureSize>128 128</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -252,7 +254,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_12.7mm_T23>shared<armor><armor_1>	89	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>76.2<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>25.4<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><gun>	20	</gun></armor><shotDispersionRadius>0.57</shotDispersionRadius><reloadTime>1.5</reloadTime><aimingTime>1.7</aimingTime><invisibilityFactorAtShot>0.28</invisibilityFactorAtShot><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><models><undamaged>vehicles/russian/R00_Placeholder/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R00_Placeholder/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R00_Placeholder/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R00_Placeholder/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R00_Placeholder/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.00465301 -0.00841905 1.66469</rayStart><rayEnd>-0.350985 -0.266836 1.65652</rayEnd><rayUp>0.076 0.07 1</rayUp><size>0.45</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>1 1 0.12 0.000000</tiling></camouflage></_12.7mm_T23>
+        <_12.7mm_T23>shared<armor><armor_1>	89	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>76.2<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>25.4<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><gun>	20	</gun></armor><shotDispersionRadius>0.57</shotDispersionRadius><reloadTime>1.5</reloadTime><aimingTime>1.7</aimingTime><invisibilityFactorAtShot>0.28</invisibilityFactorAtShot><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><models><undamaged>vehicles/russian/R00_Placeholder/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/russian/R00_Placeholder/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/russian/R00_Placeholder/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/russian/R00_Placeholder/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/russian/R00_Placeholder/collision_client/Gun_01.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>-0.00465301 -0.00841905 1.66469</rayStart><rayEnd>-0.350985 -0.266836 1.65652</rayEnd><rayUp>0.076 0.07 1</rayUp><size>0.45</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><tiling>1 1 0.12 0.000000</tiling><density>29.281 29.2776</density><aoTextureSize>128 128</aoTextureSize></camouflage></_12.7mm_T23>
       </guns>
       <models>
         <undamaged>vehicles/russian/R00_Placeholder/normal/lod0/Turret_01.model</undamaged>
@@ -298,6 +300,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>1 1 0.62 0.78</tiling>
+        <density>25.1497 25.1514</density>
+        <aoTextureSize>128 128</aoTextureSize>
       </camouflage>
     </T23T80>
   </turrets0>

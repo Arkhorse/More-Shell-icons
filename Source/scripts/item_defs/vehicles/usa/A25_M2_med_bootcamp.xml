@@ -127,6 +127,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>0.865 0.865 0.1 0.06</tiling>
+      <density>112.763 112.768</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -940,7 +942,7 @@
         <repairCost>2.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_37mm_M-5_bootcamp>shared<maxAmmo>	120	</maxAmmo><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><armor><armor_1>	38	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	18	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>12.5<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><shotDispersionRadius>0.46</shotDispersionRadius><reloadTime>2.5</reloadTime><aimingTime>2.1</aimingTime><invisibilityFactorAtShot>0.3</invisibilityFactorAtShot><models><undamaged>vehicles/american/A25_M2_med/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A25_M2_med/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A25_M2_med/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A25_M2_med/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A25_M2_med/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.46 0.25 0.000000 0.000000</tiling></camouflage></_37mm_M-5_bootcamp>
+        <_37mm_M-5_bootcamp>shared<maxAmmo>	120	</maxAmmo><pitchLimits><minPitch>0 -25 1 -25</minPitch><maxPitch>0 10 1 10</maxPitch></pitchLimits><armor><armor_1>	38	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	25	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	18	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>12.5<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	10	</gun></armor><shotDispersionRadius>0.46</shotDispersionRadius><reloadTime>2.5</reloadTime><aimingTime>2.1</aimingTime><invisibilityFactorAtShot>0.3</invisibilityFactorAtShot><models><undamaged>vehicles/american/A25_M2_med/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A25_M2_med/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A25_M2_med/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A25_M2_med/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A25_M2_med/collision_client/Gun_01.model</collisionModelClient></hitTester><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><tiling>0.46 0.25 0.000000 0.000000</tiling><density>107.528 108.32</density><aoTextureSize>512 256</aoTextureSize></camouflage></_37mm_M-5_bootcamp>
       </guns>
       <models>
         <undamaged>vehicles/american/A25_M2_med/normal/lod0/Turret_01.model</undamaged>
@@ -976,6 +978,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.445 0.25 0.23 0.3</tiling>
+        <density>107.675 107.744</density>
+        <aoTextureSize>512 256</aoTextureSize>
       </camouflage>
     </M2M19_bootcamp>
   </turrets0>

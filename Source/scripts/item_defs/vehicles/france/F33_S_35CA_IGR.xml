@@ -137,6 +137,10 @@
         <isUVProportional>	true	</isUVProportional>
       </slot>
     </customizationSlots>
+    <camouflage>
+      <density>110.329 109.911</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
+    </camouflage>
   </hull>
   <chassis>
     <Chassis_S_35CA_2_IGR>
@@ -999,7 +1003,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_90mm_canon_DCA_30_CA_IGR>shared<maxAmmo>	65	</maxAmmo><armor><armor_1>	56	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	35	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	20	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.4</shotDispersionRadius><reloadTime>8.4</reloadTime><shotDispersionFactors><turretRotation>0.2</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.25</invisibilityFactorAtShot><pitchLimits><minPitch>0 -22 1 -22</minPitch><maxPitch>0 9 1 9</maxPitch></pitchLimits><turretYawLimits>-15 29</turretYawLimits><effects>shot_main</effects><models><undamaged>vehicles/french/F33_S_35CA/normal/lod0/Gun_03.model</undamaged><destroyed>vehicles/french/F33_S_35CA/crash/lod0/Gun_03.model</destroyed><exploded>vehicles/french/F33_S_35CA/crash/lod0/Gun_03.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F33_S_35CA/collision/Gun_03.model</collisionModelServer><collisionModelClient>vehicles/french/F33_S_35CA/collision_client/Gun_03.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.00493779 0.0830801 2.30354</rayStart><rayEnd>0.31245 -0.157809 2.28948</rayEnd><rayUp>0.094 0.085 5</rayUp><size>0.634</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots></_90mm_canon_DCA_30_CA_IGR>
+        <_90mm_canon_DCA_30_CA_IGR>shared<maxAmmo>	65	</maxAmmo><armor><armor_1>	56	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	35	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	20	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><gun>	20	</gun><gunBreech>	0	</gunBreech></armor><shotDispersionRadius>0.4</shotDispersionRadius><reloadTime>8.4</reloadTime><shotDispersionFactors><turretRotation>0.2</turretRotation><afterShot>	4	</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.3</aimingTime><invisibilityFactorAtShot>0.25</invisibilityFactorAtShot><pitchLimits><minPitch>0 -22 1 -22</minPitch><maxPitch>0 9 1 9</maxPitch></pitchLimits><turretYawLimits>-15 29</turretYawLimits><effects>shot_main</effects><models><undamaged>vehicles/french/F33_S_35CA/normal/lod0/Gun_03.model</undamaged><destroyed>vehicles/french/F33_S_35CA/crash/lod0/Gun_03.model</destroyed><exploded>vehicles/french/F33_S_35CA/crash/lod0/Gun_03.model</exploded></models><hitTester><collisionModelServer>vehicles/french/F33_S_35CA/collision/Gun_03.model</collisionModelServer><collisionModelClient>vehicles/french/F33_S_35CA/collision_client/Gun_03.model</collisionModelClient></hitTester><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint></paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><customizationSlots><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.00493779 0.0830801 2.30354</rayStart><rayEnd>0.31245 -0.157809 2.28948</rayEnd><rayUp>0.094 0.085 5</rayUp><size>0.634</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><camouflage><density>105.802 110.31</density><aoTextureSize>1024 512</aoTextureSize></camouflage></_90mm_canon_DCA_30_CA_IGR>
       </guns>
       <models>
         <undamaged>vehicles/french/F33_S_35CA/normal/lod0/Turret_01.model</undamaged>
@@ -1022,6 +1026,10 @@
           </camouflage>
         </customizableVehicleAreas>
       </customization>
+      <camouflage>
+        <density>94.4667 95.5754</density>
+        <aoTextureSize>256 256</aoTextureSize>
+      </camouflage>
     </Turret_1_S_35CA_IGR>
   </turrets0>
   <engines>

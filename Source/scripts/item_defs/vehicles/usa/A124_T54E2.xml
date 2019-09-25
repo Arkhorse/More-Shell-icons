@@ -28,6 +28,7 @@
     <tiling>1 1 0 0</tiling>
     <exclusionMask>
     </exclusionMask>
+    <density>1 1</density>
   </camouflage>
   <hull>
     <armor>
@@ -42,7 +43,7 @@
       <armor_9>25.4</armor_9>
       <armor_10>60.9</armor_10>
       <armor_11>57.2</armor_11>
-      <armor_12>177.8</armor_12>
+      <armor_12>196.8</armor_12>
       <armor_13>50.8</armor_13>
       <armor_14>152.4</armor_14>
       <armor_15>38.1</armor_15>
@@ -566,6 +567,8 @@
     </customizationSlots>
     <camouflage>
       <tiling>0.8 0.8 0.000000 0.000000</tiling>
+      <density>109.915 110.372</density>
+      <aoTextureSize>1024 1024</aoTextureSize>
     </camouflage>
   </hull>
   <chassis>
@@ -1439,9 +1442,9 @@
         <armor_10>	170	</armor_10>
         <armor_11>	160	</armor_11>
         <armor_12>	140	</armor_12>
-        <armor_13>	120	</armor_13>
+        <armor_13>	123	</armor_13>
         <armor_14>	110	</armor_14>
-        <armor_15>	90	</armor_15>
+        <armor_15>	91	</armor_15>
         <armor_16>	70	</armor_16>
       </armor>
       <primaryArmor>armor_1 armor_12 armor_4</primaryArmor>
@@ -1460,7 +1463,7 @@
         <repairCost>1.0</repairCost>
       </surveyingDeviceHealth>
       <guns>
-        <_105mm_Gun_T140E3>shared<maxAmmo>	42	</maxAmmo><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 0.353005 10 0.416667 6 0.583333 6 0.646995 10 1 10</maxPitch></pitchLimits><armor><armor_1>	260	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	90	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	90	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	160	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	260	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><armor_7>	250	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_7><armor_8>	240	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_8><armor_9>	225	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_9><armor_10>	225	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_10><armor_11>	225	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_11><armor_12>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_12><armor_13>	165	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_13><armor_14>	125	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_14><armor_15>	110	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_15><armor_16>	110	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_16><gun>	40	</gun></armor><shotDispersionRadius>0.4</shotDispersionRadius><reloadTime>13.8</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>	3	</aimingTime><invisibilityFactorAtShot>0.198</invisibilityFactorAtShot><models><undamaged>vehicles/american/A124_T54E2/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A124_T54E2/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A124_T54E2/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A124_T54E2/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A124_T54E2/collision_client/Gun_01.model</collisionModelClient></hitTester><customizationSlots><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000020 0.000256661 3.01601</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.223462 0.223463	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000020 0.000256661 3.01601</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>projectionDecal</slotType><slotId>	45000	</slotId><tags>formfactor_square</tags><position>0.000053 2.04858 1.54551</position><rotation>0.768146 -0.000129943 3.14141</rotation><scale>2.52379 1.39239 2.52377</scale><doubleSided>	false	</doubleSided><showOn>	4368	</showOn><clipAngle>	0.368798	</clipAngle><anchorPosition>0.000144586 0.391359 -0.0393628</anchorPosition><anchorDirection>0.000092 0.7192 0.694803</anchorDirection></slot><slot><slotType>projectionDecal</slotType><slotId>	45001	</slotId><tags>formfactor_rect1x2</tags><position>0.000018 1.79416 1.81992</position><rotation>0.971964 -0.000197068 3.14135</rotation><scale>2.58394 1.40142 2.58393</scale><doubleSided>	false	</doubleSided><showOn>	4368	</showOn><clipAngle>	0.624392	</clipAngle><anchorPosition>0.000128462 0.231485 0.57827</anchorPosition><anchorDirection>	0.000080 0.563678 0.825994	</anchorDirection></slot><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 0.000000 1.4</rayStart><rayEnd>0.000000 0.000000 1</rayEnd><rayUp>0.12 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.5</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization></_105mm_Gun_T140E3>
+        <_105mm_Gun_T140E3>shared<maxAmmo>	42	</maxAmmo><pitchLimits><minPitch>0 -20 1 -20</minPitch><maxPitch>0 10 0.353005 10 0.416667 6 0.583333 6 0.646995 10 1 10</maxPitch></pitchLimits><armor><armor_1>	260	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_1><armor_2>	90	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_2><armor_3>	90	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_3><armor_4>	0	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_4><armor_5>	160	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_5><armor_6>	260	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_6><armor_7>	250	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_7><armor_8>	240	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_8><armor_9>	225	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_9><armor_10>	225	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_10><armor_11>	225	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_11><armor_12>	200	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_12><armor_13>	165	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_13><armor_14>	125	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_14><armor_15>	110	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_15><armor_16>	110	<vehicleDamageFactor>0.0</vehicleDamageFactor></armor_16><gun>	40	</gun></armor><shotDispersionRadius>0.38</shotDispersionRadius><reloadTime>10.2</reloadTime><shotDispersionFactors><turretRotation>0.1</turretRotation><afterShot>4.0</afterShot><whileGunDamaged>2.0</whileGunDamaged></shotDispersionFactors><aimingTime>2.5</aimingTime><invisibilityFactorAtShot>0.198</invisibilityFactorAtShot><models><undamaged>vehicles/american/A124_T54E2/normal/lod0/Gun_01.model</undamaged><destroyed>vehicles/american/A124_T54E2/crash/lod0/Gun_01.model</destroyed><exploded>vehicles/american/A124_T54E2/crash/lod0/Gun_01.model</exploded></models><hitTester><collisionModelServer>vehicles/american/A124_T54E2/collision/Gun_01.model</collisionModelServer><collisionModelClient>vehicles/american/A124_T54E2/collision_client/Gun_01.model</collisionModelClient></hitTester><customizationSlots><slot><slotType>paint</slotType><slotId>	41000	</slotId><anchorPosition>0.000020 0.000256661 3.01601</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>paint</slotType><slotId>	41001	</slotId><anchorPosition>	0.000000 0.223462 0.223463	</anchorPosition><anchorDirection>	0.000000 0.707107 0.707107	</anchorDirection><applyTo>	16384	</applyTo></slot><slot><slotType>camouflage</slotType><slotId>	42000	</slotId><anchorPosition>0.000020 0.000256661 3.01601</anchorPosition><anchorDirection>0.000000 0.000000 1</anchorDirection><applyTo>	4096	</applyTo></slot><slot><slotType>projectionDecal</slotType><slotId>	45000	</slotId><tags>formfactor_square</tags><position>0.000053 2.04858 1.54551</position><rotation>0.768146 -0.000129943 3.14141</rotation><scale>2.52379 1.39239 2.52377</scale><doubleSided>	false	</doubleSided><showOn>	4368	</showOn><clipAngle>	0.368798	</clipAngle><anchorPosition>0.000144586 0.391359 -0.0393628</anchorPosition><anchorDirection>0.000092 0.7192 0.694803</anchorDirection></slot><slot><slotType>projectionDecal</slotType><slotId>	45001	</slotId><tags>formfactor_rect1x2</tags><position>0.000018 1.79416 1.81992</position><rotation>0.971964 -0.000197068 3.14135</rotation><scale>2.58394 1.40142 2.58393</scale><doubleSided>	false	</doubleSided><showOn>	4368	</showOn><clipAngle>	0.624392	</clipAngle><anchorPosition>0.000128462 0.231485 0.57827</anchorPosition><anchorDirection>	0.000080 0.563678 0.825994	</anchorDirection></slot><slot><slotType>insigniaOnGun</slotType><slotId>	49000	</slotId><rayStart>0.000000 0.000000 1.4</rayStart><rayEnd>0.000000 0.000000 1</rayEnd><rayUp>0.12 0.000000 0.000000</rayUp><applyToFabric>	true	</applyToFabric><size>0.5</size><hideIfDamaged>	false	</hideIfDamaged><isUVProportional>	true	</isUVProportional></slot></customizationSlots><animateEmblemSlots>	true	</animateEmblemSlots><customization><customizableVehicleAreas><paint>GUN GUN_2</paint><camouflage>GUN</camouflage></customizableVehicleAreas></customization><camouflage><density>104.755 109.048</density><aoTextureSize>512 512</aoTextureSize></camouflage></_105mm_Gun_T140E3>
       </guns>
       <models>
         <undamaged>vehicles/american/A124_T54E2/normal/lod0/Turret_01.model</undamaged>
@@ -1941,6 +1944,8 @@
       </customizationSlots>
       <camouflage>
         <tiling>0.8 0.35 0.000000 0.000000</tiling>
+        <density>119.299 119.424</density>
+        <aoTextureSize>1024 512</aoTextureSize>
       </camouflage>
     </Turret_1_A124_T54E2>
   </turrets0>
